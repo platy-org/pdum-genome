@@ -2,7 +2,7 @@
 
 A community-curated GTF file for the _Platynereis dumerilii_ genome. The idea is that each expert in the community can add, refine, or amend gene models and the corresponding metadata starting from the most current Ensembl Metazoa version of the genome.
 
-# How to contribute
+## How to contribute
 
 1. Find your gene(s) of interest on the genome, e.g. by a combination of BLAST/MMseqs2/DIAMOND searches and phylogenetic trees.
 2. Make a fork of the repository.
@@ -15,6 +15,23 @@ Every once in a while (depending on NCBI/Ensembl Metazoa update cycles) a new GT
 
 Sweeping changes to the assembly (like re-assemblies or similar) will be communicated via appropriate channels (spiraliabase, Platy community meetings, lab emails?).
 
-# How to use
+## How to use
 
 The latest release will contain the consensus up-to-date version of the genome annotation. If this doesn't include your favorite gene feel free to use the version specified by the commit of the corresponding pull request. To avoid misunderstandings in publications, _always_ refer to the genome by full version string and commit ID.
+
+## Changelog
+
+Recent changes to the genome are documented in the [changelog](changelog.md).
+
+## TODO
+
+- [ ] Find official GTF/GFF.
+- [ ] Add a DOI to the repository.
+- [ ] Tutorial on how to make changes.
+- [ ] Automate version bumping.
+- [ ] Automate DOI generation upon new release (zenodo?).
+- [ ] Link to other resources:
+    - [ ] SpiraliaBase
+    - [ ] Ensembl Metazoa
+    - [ ] NCBI
+    - [ ] [platynereis.com](https://www.platynereis.com)

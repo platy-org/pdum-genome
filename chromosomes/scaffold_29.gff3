@@ -1,4 +1,4 @@
-scaffold_29	StringTie	gene	4828	31464	.	+	.	ID=XLOC_038632;gene_id=XLOC_038632;oId=TCONS_00093452;transcript_id=TCONS_00093452;tss_id=TSS75647
+scaffold_29	StringTie	gene	4828	31464	.	+	.	ID=XLOC_038632;gene_id=XLOC_038632;oId=TCONS_00093452;transcript_id=TCONS_00093452;tss_id=TSS75647;name=HOX1
 scaffold_29	StringTie	transcript	4828	31464	.	+	.	ID=TCONS_00093452;Parent=XLOC_038632;gene_id=XLOC_038632;oId=TCONS_00093452;transcript_id=TCONS_00093452;tss_id=TSS75647
 scaffold_29	StringTie	exon	4828	4928	.	+	.	ID=exon-358494;Parent=TCONS_00093452;exon_number=1;gene_id=XLOC_038632;transcript_id=TCONS_00093452
 scaffold_29	StringTie	exon	9144	9274	.	+	.	ID=exon-358495;Parent=TCONS_00093452;exon_number=2;gene_id=XLOC_038632;transcript_id=TCONS_00093452

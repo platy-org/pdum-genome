@@ -87,7 +87,7 @@ protein that really is part of the hes/hey family, I will copy the XLOC_022167 s
 alignment file (better still: get it from the predicted proteome) and BLAST it on NCBI. A quick
 `blastp` later, I see that my fear was unfounded.
 
-[!NCBI BLAST results](../img/ncbi-blastp.png)
+![NCBI BLAST results](../img/ncbi-blast.png)
 
 The various _Platynereis_ sequences are top hits, followed by other annelids and further
 lophotrochozoans. It is hard to say whether getting mostly Hes1/4 hits is good or bad, because the
@@ -112,11 +112,11 @@ First, I will navigate to the [pdum-genome repository](https://github.com/platy-
 
 Second, I will click on the "chunk_index.tsv" file...
 
-[!Open the chunk index](../img/chunk-index.png)
+![Open the chunk index](../img/chunk-index.png)
 
 ...and then on "View raw", since the file is too big to display:
 
-[!View raw](../img/github-raw.png)
+![View raw](../img/github-raw.png)
 
 This file is simply a TSV table of all gene loci in the genome, as well as the file and line they
 are in. A simple search (`Ctrl + F` on Windows/Linux, `Cmd + F` on MacOS) for "XLOC_022167" reveals
@@ -128,7 +128,7 @@ directory.
 Now comes the critical step: I will then navigate to chunks/scaffold_17.gff3 and press on the pencil
 icon on the top right corner:
 
-[!Edit the GFF](../img/github-edit.png)
+![Edit the GFF](../img/github-edit.png)
 
 Since I am not a member of the repository, I will be prompted to fork it. I will do so (press the
 green button, or maybe learn about forks first and then press the green button).
@@ -156,13 +156,13 @@ be useful when we want to attribute changes to the genome to specific people.
 After I'm done editing, I will press the green button on the top right "Commit changes...". This
 will open a "Propose changes" dialogue, where I should write a brief description of what I did.
 
-[!propose changes GitHub](../img/github-propose.png)
+![propose changes GitHub](../img/github-propose.png)
 
 After I press the "Propose changes" button, I am taken to another page where I can review what I
 just did. The page shows the line I edited, highlighting the changes, and gives me one last chance
 to correct mistakes. It also encourages me to "Create pull request".
 
-[!Create pull request](../img/github-pull-request.png)
+![Create pull request](../img/github-pull-request.png)
 
 Clicking this will take me to one final page where I can review my explanation. This gives me more
 formatting options, such as including links (to the paper, to figures, to analysis results, etc.).

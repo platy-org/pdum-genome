@@ -112,7 +112,7 @@ First, I will navigate to the [pdum-genome repository](https://github.com/platy-
 
 Second, I will click on the "chunk_index.tsv" file...
 
-![Open the chunk index](../img/chunk-index.png)
+![Open the chunk index](../img/github-landing.png)
 
 ...and then on "View raw", since the file is too big to display:
 

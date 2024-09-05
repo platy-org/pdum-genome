@@ -19,20 +19,11 @@ a match made in heaven.
 
 ## How to contribute
 
-Prerequisites: a GitHub account, a text editor, and some knowledge of the GFF format.
+Prerequisites: a GitHub account, some knowledge of the GFF format, love for _Platynereis_ and/or
+phylogenies.
 
-Contributing is easy:
-
-1. Find your gene(s) of interest on the genome, e.g. by a combination of BLAST/MMseqs2/DIAMOND
-   searches and phylogenetic trees.
-2. Make a fork of the repository.
-3. Edit the GFF file to reflect your new insights (e.g. propose a name for an XLOC, improve the
-   annotation of the 5' UTR for another locus), save, and commit.
-4. Propose your commit as a pull request to the main repository.
-5. In the pull request, try to explain how you arrived at the proposed change; try to upload any
-   relevant results so that others can judge.
-6. Wait for consensus to build; ideally your contribution is widely accepted. The pull request is
-   merged, and the version of the genome goes up slightly.
+Contributing essentially consists of finding a gene in the GFF file and appending a proposed name as
+well as annotator information. You can follow along the [example](contributions/example-hes12.md).
 
 Every once in a while (depending on NCBI/Ensembl Metazoa update cycles) a new GFF version will be
 uploaded. This will trigger a minor version bump.

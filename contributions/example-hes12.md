@@ -143,7 +143,7 @@ following line:
 Great, we found it! Now I will add some more colon-separated fields at the end:
 
 ```
-5856:scaffold_17	StringTie	gene	9598040	9601741	.	+	.	ID=XLOC_022167;gene_id=XLOC_022167;oId=TCONS_00057998;transcript_id=TCONS_00057998;tss_id=TSS46367,name=hes12;annotator=Nikolaos Papadopoulos/Wanninger lab;
+5856:scaffold_17	StringTie	gene	9598040	9601741	.	+	.	ID=XLOC_022167;gene_id=XLOC_022167;oId=TCONS_00057998;transcript_id=TCONS_00057998;tss_id=TSS46367,name=hes12;annotator=Nikolaos Papadopoulos/Wanninger lab
 ```
 
 I have added two new fields: `name=hes12` and `annotator=Nikolaos Papadopoulos/Wanninger lab`. The
@@ -154,11 +154,23 @@ be useful when we want to attribute changes to the genome to specific people.
 > [!CAUTION]
 > GFF files are mostly meant to be read by computers, not humans; hence, it is very important that
 > we adhere to the formatting rules. For the "attributes" field, that we are currently editing, the
-> format is supposed to be `key1=value1;key2=value2;...`. The keys are case-sensitive, so
-> `Name=hes12` is different from `name=hes12`. It is also very important that there are no spaces in
-> the wrong places: `name=hes12` is correct, `name = hes12` is not; similarly,
-> `ID=XLOC_022167;gene_id=XLOC_022167;` is correct, but `ID=XLOC_022167; gene_id=XLOC_022167;` is
-> not. Spaces are permitted if they are part of the value, as in `annotator=Nikolaos Papadopoulos`.
+> rules are as follows:
+> 
+> - format is `key1=value1;key2=value2;...`; so, a key and a value separated by the equals sign, a
+>   semi-colon, and then the next pair of key and value, and so on.
+> - The keys are case-sensitive, so `Name=hes12` is _different_ from `name=hes12`.
+> - Spaces are only allowed inside values: `name=hes12` is correct, `name = hes12` is not; similarly,
+> 
+> `ID=XLOC_022167;gene_id=XLOC_022167;`
+> 
+> is correct, but 
+> 
+> `ID=XLOC_022167; gene_id=XLOC_022167;`
+> 
+> (with a space between the first key/value pair and the second) is not. Spaces are permitted if
+> they are part of the value, as in `annotator=Nikolaos Papadopoulos`.
+> 
+> - The last key/value pair in the attributes should not have a semi-colon at the end
 
 ## 6. Submit the pull request
 

@@ -2,12 +2,12 @@
 
 #### Niko Papadopoulos, 2024-09-05
 
-> [!IMPORTANT]
+> [!TIP]
 > This is intended to be a step-by-step walkthrough of **one** of the possible ways you could
 > contribute. Use your sound scientific judgement and whatever equivalent tools you prefer. The part
 > of this document that will probably always be relevant is the GitHub submission process.
 
-> [!CAUTION]
+> [!NOTE]
 > There is a _lot_ to take into account when naming genes, and as of the writing of this document
 > there is no consensus on how to do it for _Platynereis dumerilii_. This discussion, while very,
 > very important, is beyond the scope of this document.
@@ -150,6 +150,15 @@ I have added two new fields: `name=hes12` and `annotator=Nikolaos Papadopoulos/W
 first one is the gene name, and should need no further explanation. The second one is the name of
 the person who made the change (me) and their current affiliation (Wanninger lab), which is going to
 be useful when we want to attribute changes to the genome to specific people.
+
+> [!CAUTION]
+> GFF files are mostly meant to be read by computers, not humans; hence, it is very important that
+> we adhere to the formatting rules. For the "attributes" field, that we are currently editing, the
+> format is supposed to be `key1=value1;key2=value2;...`. The keys are case-sensitive, so
+> `Name=hes12` is different from `name=hes12`. It is also very important that there are no spaces in
+> the wrong places: `name=hes12` is correct, `name = hes12` is not; similarly,
+> `ID=XLOC_022167;gene_id=XLOC_022167;` is correct, but `ID=XLOC_022167; gene_id=XLOC_022167;` is
+> not. Spaces are permitted if they are part of the value, as in `annotator=Nikolaos Papadopoulos`.
 
 ## 6. Submit the pull request
 

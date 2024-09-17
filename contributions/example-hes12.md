@@ -18,7 +18,7 @@ In this document I will be trying to annotate exactly one gene; I will go and ta
 _Platynereis_ sequence from a peer-reviewed journal, find it on the genome, and propose a name for
 it. This is the easiest case, where someone else has done the hard work of calculating the
 phylogenetic trees and actually proposing a name for the sequence. Here I will just make sure that
-I find an XLOC that represents this known gene beyond reasonable doubt.
+I find an XLOC that represents this known gene beyond reasonable doubt. (NOTE FROM DUYGU: It would be good to explain what XLOC is)
 
 I have a soft spot for _hes12_, a gene that (among other things) marks the [chaetoblast cells at the
 base of the chaetal
@@ -49,7 +49,7 @@ FASTA file; for instance the pdum-v2.1 predicted proteome.
 
 To do this you could build your local sequence search server, or you could just use the Jekely lab
 [online BLAST tool](https://jekelylab.ex.ac.uk/blast/), which allows the v0.2.1 **transcriptome** to
-be used as a reference. I will paste the sequence of _hes12_ into the query box and hit "BLAST".
+be used as a reference (COMMENT FROM DUYGU: Should we say something like "Make sure to pick v0.2.1 transcriptome not the v0.2.1 genome from the list for your Blast". I will paste the sequence of _hes12_ into the query box and hit "BLAST".
 
 The results look good:
 
@@ -78,7 +78,8 @@ AGS55446.1	TCONS_00163642	N/A	42.857	56	30	1	8	63	366	527	4.46e-06	50.1	26	26
 ```
 
 There is a clear most prominent hit for TCONS_00057998, which, according to the graphical view
-belongs to XLOC_022167. This is then where I should be looking.
+belongs to XLOC_022167. This is then where I should be looking. (COMMENT FROM DUYGU: I wonder instead of the list of hits above, would it be better to put a screenshot that actually show the XLOC?)
+
 
 ## 3. Verify the XLOC of interest
 
@@ -106,7 +107,7 @@ gene/CDS/exon definition, as that would just be redundant. Most programs that in
 files are smart enough to propagate info from the "gene" line to all the nested elements that come
 below that.
 
-Having made a fresh GitHub account, I will no go and find XLOC_022167.
+Having made a fresh GitHub account, I will now go and find XLOC_022167.
 
 First, I will navigate to the [pdum-genome repository](https://github.com/platy-org/pdum-genome).
 

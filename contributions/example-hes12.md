@@ -20,6 +20,21 @@ it. This is the easiest case, where someone else has done the hard work of calcu
 phylogenetic trees and actually proposing a name for the sequence. Here I will just make sure that
 I find an XLOC that represents this known gene beyond reasonable doubt.
 
+<details>
+
+<summary>What is an XLOC? </summary>
+
+> [!TIP]
+> In order to facilitate precise communication and reproducibility, genes need to have unique
+> identifiers. This is because gene names are ambiguous. For instance, he human gene
+> [BRCA2](https://www.ensembl.org/Homo_sapiens/Gene/Summary?db=core;g=ENSG00000139618;r=13:32315086-32400268)
+> has 7 synonyms (BRCC2, FACD, FAD, FAD1, FANCD, FANCD1, XRCC11), but they all refer to the same
+> unique gene ID: ENSG00000139618. The program that annotated the _Platynereis_ genome also
+> produced unique identifiers for all the gene models it predicted; these IDs come in the form
+> `XLOC_XXXXXX`, where the `X`s after the underscore are digits.
+
+</details>
+
 I have a soft spot for _hes12_, a gene that (among other things) marks the [chaetoblast cells at the
 base of the chaetal
 sac](https://evodevojournal.biomedcentral.com/articles/10.1186/2041-9139-5-29/figures/14). I know
@@ -51,31 +66,15 @@ To do this you could build your local sequence search server, or you could just 
 [online BLAST tool](https://jekelylab.ex.ac.uk/blast/), which allows the v0.2.1 **transcriptome** to
 be used as a reference. I will paste the sequence of _hes12_ into the query box and hit "BLAST".
 
+> [!CAUTION]
+> Picking the correct reference is important: if you choose the v0.2.1 _genome_ instead, your result
+> will be one genomic region in the middle of some chromosome, which is not helpful. Picking either
+> one of the _transcriptome assemblies_ will give results with a different set of gene IDs, not very
+> useful either.
+
 The results look good:
 
-```
-# TBLASTN 2.9.0+
-# Query: AGS55446.1 hairy enhancer of split 12 [Platynereis dumerilii]
-# Database: /data/jekely_lab/db/Platynereis/pdumv021.transcripts.fa
-# Fields: query id, subject id, subject sci names, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, % query coverage per subject, % query coverage per hsp
-# 15 hits found
-AGS55446.1	TCONS_00057998	N/A	91.892	222	12	1	1	216	141	806	3.08e-109	327	100	100
-AGS55446.1	TCONS_00057999	N/A	89.944	179	12	1	44	216	1	537	6.88e-76	239	80	80
-AGS55446.1	TCONS_00058002	N/A	53.982	113	41	2	6	118	149	454	2.10e-26	108	52	52
-AGS55446.1	TCONS_00058001	N/A	53.982	113	41	2	6	118	149	454	2.30e-26	108	52	52
-AGS55446.1	TCONS_00058705	N/A	54.000	100	30	3	3	99	134	394	5.64e-22	95.9	45	45
-AGS55446.1	TCONS_00057996	N/A	60.317	63	25	0	5	67	159	347	2.22e-16	80.1	29	29
-AGS55446.1	TCONS_00058703	N/A	50.000	72	36	0	3	74	167	382	5.56e-13	70.1	33	33
-AGS55446.1	TCONS_00047673	N/A	43.284	67	38	0	10	76	319	519	7.86e-12	67.0	31	31
-AGS55446.1	TCONS_00047672	N/A	43.284	67	38	0	10	76	319	519	7.87e-12	67.0	31	31
-AGS55446.1	TCONS_00158255	N/A	53.704	54	25	0	10	63	174	335	2.24e-11	65.5	25	25
-AGS55446.1	TCONS_00068250	N/A	44.776	67	37	0	10	76	368	568	1.37e-10	63.2	31	31
-AGS55446.1	TCONS_00145417	N/A	47.692	65	30	1	7	67	41	235	1.48e-10	62.4	28	28
-AGS55446.1	TCONS_00047614	N/A	39.683	63	38	0	7	69	360	548	5.57e-07	52.8	29	29
-AGS55446.1	TCONS_00163643	N/A	42.857	56	30	1	8	63	366	527	4.32e-06	50.1	26	26
-AGS55446.1	TCONS_00163642	N/A	42.857	56	30	1	8	63	366	527	4.46e-06	50.1	26	26
-# BLAST processed 1 queries
-```
+![BLAST result from Jekely lab server](../img/jekely-blast.png)
 
 There is a clear most prominent hit for TCONS_00057998, which, according to the graphical view
 belongs to XLOC_022167. This is then where I should be looking.
@@ -106,7 +105,7 @@ gene/CDS/exon definition, as that would just be redundant. Most programs that in
 files are smart enough to propagate info from the "gene" line to all the nested elements that come
 below that.
 
-Having made a fresh GitHub account, I will no go and find XLOC_022167.
+Having made a fresh GitHub account, I will now go and find XLOC_022167.
 
 First, I will navigate to the [pdum-genome repository](https://github.com/platy-org/pdum-genome).
 

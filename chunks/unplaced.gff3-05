@@ -91,7 +91,7 @@ scaffold_72	StringTie	gene	484971	487807	.	-	.	ID=XLOC_062371;gene_id=XLOC_06237
 scaffold_72	StringTie	transcript	484971	487807	.	-	.	ID=TCONS_00149405;Parent=XLOC_062371;gene_id=XLOC_062371;oId=TCONS_00149405;transcript_id=TCONS_00149405;tss_id=TSS120746
 scaffold_72	StringTie	exon	484971	485030	.	-	.	ID=exon-563975;Parent=TCONS_00149405;exon_number=1;gene_id=XLOC_062371;transcript_id=TCONS_00149405
 scaffold_72	StringTie	exon	485258	487807	.	-	.	ID=exon-563976;Parent=TCONS_00149405;exon_number=2;gene_id=XLOC_062371;transcript_id=TCONS_00149405
-scaffold_72	StringTie	gene	560022	575299	.	+	.	ID=XLOC_062343;gene_id=XLOC_062343;oId=TCONS_00149286;transcript_id=TCONS_00149286;tss_id=TSS120650
+scaffold_72	StringTie	gene	560022	575299	.	+	.	ID=XLOC_062343;gene_id=XLOC_062343;oId=TCONS_00149286;transcript_id=TCONS_00149286;tss_id=TSS120650;name=myoinhibitory peptide;annotator=Callum Teeling/Williams lab
 scaffold_72	StringTie	transcript	560022	575299	.	+	.	ID=TCONS_00149286;Parent=XLOC_062343;gene_id=XLOC_062343;oId=TCONS_00149286;transcript_id=TCONS_00149286;tss_id=TSS120650
 scaffold_72	StringTie	exon	560022	560260	.	+	.	ID=exon-563589;Parent=TCONS_00149286;exon_number=1;gene_id=XLOC_062343;transcript_id=TCONS_00149286
 scaffold_72	StringTie	exon	573550	575299	.	+	.	ID=exon-563590;Parent=TCONS_00149286;exon_number=2;gene_id=XLOC_062343;transcript_id=TCONS_00149286

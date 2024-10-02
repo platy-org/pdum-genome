@@ -142,7 +142,7 @@ following line:
 Great, we found it! Now I will add some more colon-separated fields at the end:
 
 ```
-5856:scaffold_17	StringTie	gene	9598040	9601741	.	+	.	ID=XLOC_022167;gene_id=XLOC_022167;oId=TCONS_00057998;transcript_id=TCONS_00057998;tss_id=TSS46367,name=hes12;annotator=Nikolaos Papadopoulos/Wanninger lab
+5856:scaffold_17	StringTie	gene	9598040	9601741	.	+	.	ID=XLOC_022167;gene_id=XLOC_022167;oId=TCONS_00057998;transcript_id=TCONS_00057998;tss_id=TSS46367;name=hes12;annotator=Nikolaos Papadopoulos/Wanninger lab
 ```
 
 I have added two new fields: `name=hes12` and `annotator=Nikolaos Papadopoulos/Wanninger lab`. The

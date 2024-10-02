@@ -2180,7 +2180,7 @@ scaffold_2	StringTie	exon	81049288	81049438	.	+	.	ID=exon-274213;Parent=TCONS_00
 scaffold_2	StringTie	gene	81071127	81071603	.	+	.	ID=XLOC_033385;gene_id=XLOC_033385;oId=TCONS_00081888;transcript_id=TCONS_00081888;tss_id=TSS66263
 scaffold_2	StringTie	transcript	81071127	81071603	.	+	.	ID=TCONS_00081888;Parent=XLOC_033385;gene_id=XLOC_033385;oId=TCONS_00081888;transcript_id=TCONS_00081888;tss_id=TSS66263
 scaffold_2	StringTie	exon	81071127	81071603	.	+	.	ID=exon-317164;Parent=TCONS_00081888;exon_number=1;gene_id=XLOC_033385;transcript_id=TCONS_00081888
-scaffold_2	StringTie	gene	81087465	81087934	.	+	.	ID=XLOC_033386;gene_id=XLOC_033386;oId=TCONS_00081889;transcript_id=TCONS_00081889;tss_id=TSS66264
+scaffold_2	StringTie	gene	81087465	81087934	.	+	.	ID=XLOC_033386;gene_id=XLOC_033386;oId=TCONS_00081889;transcript_id=TCONS_00081889;tss_id=TSS66264, name=protostome specific methyltransferase - psmt;annotator=Rannyele Ribeiro/Ozpolat lab
 scaffold_2	StringTie	transcript	81087465	81087934	.	+	.	ID=TCONS_00081889;Parent=XLOC_033386;gene_id=XLOC_033386;oId=TCONS_00081889;transcript_id=TCONS_00081889;tss_id=TSS66264
 scaffold_2	StringTie	exon	81087465	81087934	.	+	.	ID=exon-317165;Parent=TCONS_00081889;exon_number=1;gene_id=XLOC_033386;transcript_id=TCONS_00081889
 scaffold_2	StringTie	gene	81092654	81098802	.	-	.	ID=XLOC_027910;gene_id=XLOC_027910;oId=TCONS_00075050;transcript_id=TCONS_00075050;tss_id=TSS59824

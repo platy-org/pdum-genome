@@ -9776,7 +9776,7 @@ scaffold_12	StringTie	exon	16258600	16259381	.	+	.	ID=exon-171029;Parent=TCONS_0
 scaffold_12	StringTie	gene	16266153	16266633	.	+	.	ID=XLOC_016181;gene_id=XLOC_016181;oId=TCONS_00044472;transcript_id=TCONS_00044472;tss_id=TSS35564
 scaffold_12	StringTie	transcript	16266153	16266633	.	+	.	ID=TCONS_00044472;Parent=XLOC_016181;gene_id=XLOC_016181;oId=TCONS_00044472;transcript_id=TCONS_00044472;tss_id=TSS35564
 scaffold_12	StringTie	exon	16266153	16266633	.	+	.	ID=exon-185549;Parent=TCONS_00044472;exon_number=1;gene_id=XLOC_016181;transcript_id=TCONS_00044472
-scaffold_12	StringTie	gene	16302309	16337692	.	+	.	ID=XLOC_014850;gene_id=XLOC_014850;oId=TCONS_00040964;transcript_id=TCONS_00040964;tss_id=TSS32801
+scaffold_12	StringTie	gene	16302309	16337692	.	+	.	ID=XLOC_014850;gene_id=XLOC_014850;oId=TCONS_00040964;transcript_id=TCONS_00040964;tss_id=TSS32801;name=thyroid receptor;annotator=Samuel Tambunan/Schneider lab
 scaffold_12	StringTie	transcript	16302309	16337690	.	+	.	ID=TCONS_00040962;Parent=XLOC_014850;gene_id=XLOC_014850;oId=TCONS_00040962;transcript_id=TCONS_00040962;tss_id=TSS32801
 scaffold_12	StringTie	exon	16302309	16302760	.	+	.	ID=exon-171065;Parent=TCONS_00040962;exon_number=1;gene_id=XLOC_014850;transcript_id=TCONS_00040962
 scaffold_12	StringTie	exon	16304053	16304091	.	+	.	ID=exon-171066;Parent=TCONS_00040962;exon_number=2;gene_id=XLOC_014850;transcript_id=TCONS_00040962

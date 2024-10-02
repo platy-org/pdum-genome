@@ -11398,7 +11398,7 @@ scaffold_7	StringTie	transcript	38607352	38607598	.	+	.	ID=TCONS_00142615;Parent
 scaffold_7	StringTie	exon	38607352	38607598	.	+	.	ID=exon-538575;Parent=TCONS_00142615;exon_number=1;gene_id=XLOC_059496;transcript_id=TCONS_00142615
 scaffold_7	StringTie	transcript	38609060	38610037	.	+	.	ID=TCONS_00142616;Parent=XLOC_059496;contained_in=TCONS_00142610;gene_id=XLOC_059496;oId=TCONS_00142616;transcript_id=TCONS_00142616;tss_id=TSS115196
 scaffold_7	StringTie	exon	38609060	38610037	.	+	.	ID=exon-538576;Parent=TCONS_00142616;exon_number=1;gene_id=XLOC_059496;transcript_id=TCONS_00142616
-scaffold_7	StringTie	gene	38609055	38631922	.	-	.	ID=XLOC_060549;gene_id=XLOC_060549;oId=TCONS_00146058;transcript_id=TCONS_00146058;tss_id=TSS117918
+scaffold_7	StringTie	gene	38609055	38631922	.	-	.	ID=XLOC_060549;gene_id=XLOC_060549;oId=TCONS_00146058;transcript_id=TCONS_00146058;tss_id=TSS117918;name=wnt2;annotator=Guillaume Balavoine
 scaffold_7	StringTie	transcript	38609055	38631922	.	-	.	ID=TCONS_00146058;Parent=XLOC_060549;gene_id=XLOC_060549;oId=TCONS_00146058;transcript_id=TCONS_00146058;tss_id=TSS117918
 scaffold_7	StringTie	exon	38609055	38610919	.	-	.	ID=exon-552727;Parent=TCONS_00146058;exon_number=1;gene_id=XLOC_060549;transcript_id=TCONS_00146058
 scaffold_7	StringTie	exon	38612931	38613054	.	-	.	ID=exon-552728;Parent=TCONS_00146058;exon_number=2;gene_id=XLOC_060549;transcript_id=TCONS_00146058

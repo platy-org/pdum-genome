@@ -1208,7 +1208,7 @@ scaffold_2	StringTie	gene	79998995	79999663	.	+	.	ID=XLOC_033364;gene_id=XLOC_03
 scaffold_2	StringTie	transcript	79998995	79999663	.	+	.	ID=TCONS_00081867;Parent=XLOC_033364;gene_id=XLOC_033364;oId=TCONS_00081867;transcript_id=TCONS_00081867;tss_id=TSS66242
 scaffold_2	StringTie	exon	79998995	79999663	.	+	.	ID=exon-317143;Parent=TCONS_00081867;exon_number=1;gene_id=XLOC_033364;transcript_id=TCONS_00081867
 scaffold_2	StringTie	gene	80010378	80022517	.	+	.	ID=XLOC_026080;gene_id=XLOC_026080;oId=TCONS_00068447;transcript_id=TCONS_00068447;tss_id=TSS54717
-scaffold_2	StringTie	transcript	80010378	80022517	.	+	.	ID=TCONS_00068447;Parent=XLOC_026080;gene_id=XLOC_026080;oId=TCONS_00068447;transcript_id=TCONS_00068447;tss_id=TSS54717
+scaffold_2	StringTie	transcript	80010378	80022517	.	+	.	ID=TCONS_00068447;Parent=XLOC_026080;gene_id=XLOC_026080;oId=TCONS_00068447;transcript_id=TCONS_00068447;tss_id=TSS54717;name=pkd21;annotator=Luis Alberto Bezares Calderon
 scaffold_2	StringTie	exon	80010378	80011468	.	+	.	ID=exon-273994;Parent=TCONS_00068447;exon_number=1;gene_id=XLOC_026080;transcript_id=TCONS_00068447
 scaffold_2	StringTie	exon	80012735	80013021	.	+	.	ID=exon-273995;Parent=TCONS_00068447;exon_number=2;gene_id=XLOC_026080;transcript_id=TCONS_00068447
 scaffold_2	StringTie	exon	80015667	80015780	.	+	.	ID=exon-273996;Parent=TCONS_00068447;exon_number=3;gene_id=XLOC_026080;transcript_id=TCONS_00068447

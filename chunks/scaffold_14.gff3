@@ -5937,7 +5937,7 @@ scaffold_14	StringTie	gene	11656154	11657153	.	+	.	ID=XLOC_018775;gene_id=XLOC_0
 scaffold_14	StringTie	transcript	11656154	11657153	.	+	.	ID=TCONS_00050030;Parent=XLOC_018775;gene_id=XLOC_018775;oId=TCONS_00050030;transcript_id=TCONS_00050030;tss_id=TSS40030
 scaffold_14	StringTie	exon	11656154	11656699	.	+	.	ID=exon-205998;Parent=TCONS_00050030;exon_number=1;gene_id=XLOC_018775;transcript_id=TCONS_00050030
 scaffold_14	StringTie	exon	11656916	11657153	.	+	.	ID=exon-205999;Parent=TCONS_00050030;exon_number=2;gene_id=XLOC_018775;transcript_id=TCONS_00050030
-scaffold_14	StringTie	gene	11703434	11741936	.	+	.	ID=XLOC_018776;gene_id=XLOC_018776;oId=TCONS_00050031;transcript_id=TCONS_00050031;tss_id=TSS40031
+scaffold_14	StringTie	gene	11703434	11741936	.	+	.	ID=XLOC_018776;gene_id=XLOC_018776;oId=TCONS_00050031;transcript_id=TCONS_00050031;tss_id=TSS40031;name=engrailed;annotator=Ryan Null/Ozpolat Lab
 scaffold_14	StringTie	transcript	11703434	11704549	.	+	.	ID=TCONS_00050031;Parent=XLOC_018776;gene_id=XLOC_018776;oId=TCONS_00050031;transcript_id=TCONS_00050031;tss_id=TSS40031
 scaffold_14	StringTie	exon	11703434	11704549	.	+	.	ID=exon-206000;Parent=TCONS_00050031;exon_number=1;gene_id=XLOC_018776;transcript_id=TCONS_00050031
 scaffold_14	StringTie	transcript	11703438	11741936	.	+	.	ID=TCONS_00050032;Parent=XLOC_018776;gene_id=XLOC_018776;oId=TCONS_00050032;transcript_id=TCONS_00050032;tss_id=TSS40031

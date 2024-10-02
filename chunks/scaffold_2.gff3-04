@@ -11121,7 +11121,7 @@ scaffold_2	StringTie	exon	75560311	75561843	.	+	.	ID=exon-273351;Parent=TCONS_00
 scaffold_2	StringTie	gene	75605248	75610739	.	+	.	ID=XLOC_033297;gene_id=XLOC_033297;oId=TCONS_00081800;transcript_id=TCONS_00081800;tss_id=TSS66175
 scaffold_2	StringTie	transcript	75605248	75610739	.	+	.	ID=TCONS_00081800;Parent=XLOC_033297;gene_id=XLOC_033297;oId=TCONS_00081800;transcript_id=TCONS_00081800;tss_id=TSS66175
 scaffold_2	StringTie	exon	75605248	75610739	.	+	.	ID=exon-317076;Parent=TCONS_00081800;exon_number=1;gene_id=XLOC_033297;transcript_id=TCONS_00081800
-scaffold_2	StringTie	gene	75634198	75641256	.	-	.	ID=XLOC_027803;gene_id=XLOC_027803;oId=TCONS_00074651;transcript_id=TCONS_00074651;tss_id=TSS59510
+scaffold_2	StringTie	gene	75634198	75641256	.	-	.	ID=XLOC_027803;gene_id=XLOC_027803;oId=TCONS_00074651;transcript_id=TCONS_00074651;tss_id=TSS59510,name=hes1;annotator=Eve Gazave/Gazave lab
 scaffold_2	StringTie	transcript	75634198	75641256	.	-	.	ID=TCONS_00074651;Parent=XLOC_027803;gene_id=XLOC_027803;oId=TCONS_00074651;transcript_id=TCONS_00074651;tss_id=TSS59510
 scaffold_2	StringTie	exon	75634198	75636405	.	-	.	ID=exon-301615;Parent=TCONS_00074651;exon_number=1;gene_id=XLOC_027803;transcript_id=TCONS_00074651
 scaffold_2	StringTie	exon	75637670	75637751	.	-	.	ID=exon-301616;Parent=TCONS_00074651;exon_number=2;gene_id=XLOC_027803;transcript_id=TCONS_00074651

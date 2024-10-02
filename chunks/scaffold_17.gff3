@@ -5830,7 +5830,7 @@ scaffold_17	StringTie	exon	9530406	9530471	.	-	.	ID=exon-238718;Parent=TCONS_000
 scaffold_17	StringTie	exon	9532607	9532832	.	-	.	ID=exon-238719;Parent=TCONS_00058701;exon_number=6;gene_id=XLOC_022436;transcript_id=TCONS_00058701
 scaffold_17	StringTie	transcript	9532607	9532844	.	-	.	ID=TCONS_00058702;Parent=XLOC_022436;gene_id=XLOC_022436;oId=TCONS_00058702;transcript_id=TCONS_00058702;tss_id=TSS46907
 scaffold_17	StringTie	exon	9532607	9532844	.	-	.	ID=exon-238720;Parent=TCONS_00058702;exon_number=1;gene_id=XLOC_022436;transcript_id=TCONS_00058702
-scaffold_17	StringTie	gene	9538951	9543590	.	-	.	ID=XLOC_022437;gene_id=XLOC_022437;oId=TCONS_00058703;transcript_id=TCONS_00058703;tss_id=TSS46908
+scaffold_17	StringTie	gene	9538951	9543590	.	-	.	ID=XLOC_022437;gene_id=XLOC_022437;oId=TCONS_00058703;transcript_id=TCONS_00058703;tss_id=TSS46908,name=hes2;annotator=Eve Gazave/Gazave lab
 scaffold_17	StringTie	transcript	9538951	9543590	.	-	.	ID=TCONS_00058703;Parent=XLOC_022437;gene_id=XLOC_022437;oId=TCONS_00058703;transcript_id=TCONS_00058703;tss_id=TSS46908
 scaffold_17	StringTie	exon	9538951	9540264	.	-	.	ID=exon-238721;Parent=TCONS_00058703;exon_number=1;gene_id=XLOC_022437;transcript_id=TCONS_00058703
 scaffold_17	StringTie	exon	9540511	9540598	.	-	.	ID=exon-238722;Parent=TCONS_00058703;exon_number=2;gene_id=XLOC_022437;transcript_id=TCONS_00058703

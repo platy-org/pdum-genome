@@ -1,5 +1,8 @@
 # Changelog
 
+### 2024-10-02
+Genome annotation workshop (zoom). Vienna inbred draft genome presented & discussed.
+
 ### 2024-07
 GitHub repository created.
 

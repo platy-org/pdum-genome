@@ -12026,7 +12026,7 @@ scaffold_10	StringTie	transcript	46145389	46149568	.	+	.	ID=TCONS_00027079;Paren
 scaffold_10	StringTie	exon	46145389	46145680	.	+	.	ID=exon-114179;Parent=TCONS_00027079;exon_number=1;gene_id=XLOC_009490;transcript_id=TCONS_00027079
 scaffold_10	StringTie	exon	46146866	46147072	.	+	.	ID=exon-114180;Parent=TCONS_00027079;exon_number=2;gene_id=XLOC_009490;transcript_id=TCONS_00027079
 scaffold_10	StringTie	exon	46147640	46149568	.	+	.	ID=exon-114181;Parent=TCONS_00027079;exon_number=3;gene_id=XLOC_009490;transcript_id=TCONS_00027079
-scaffold_10	StringTie	gene	46177513	46198523	.	+	.	ID=XLOC_009491;gene_id=XLOC_009491;oId=TCONS_00027080;transcript_id=TCONS_00027080;tss_id=TSS21596
+scaffold_10	StringTie	gene	46177513	46198523	.	+	.	ID=XLOC_009491;gene_id=XLOC_009491;oId=TCONS_00027080;transcript_id=TCONS_00027080;tss_id=TSS21596;name=FMRFamide;annotator=Sanja Jasek/Jekely lab
 scaffold_10	StringTie	transcript	46177513	46198523	.	+	.	ID=TCONS_00027080;Parent=XLOC_009491;gene_id=XLOC_009491;oId=TCONS_00027080;transcript_id=TCONS_00027080;tss_id=TSS21596
 scaffold_10	StringTie	exon	46177513	46177657	.	+	.	ID=exon-114182;Parent=TCONS_00027080;exon_number=1;gene_id=XLOC_009491;transcript_id=TCONS_00027080
 scaffold_10	StringTie	exon	46180294	46180470	.	+	.	ID=exon-114183;Parent=TCONS_00027080;exon_number=2;gene_id=XLOC_009491;transcript_id=TCONS_00027080

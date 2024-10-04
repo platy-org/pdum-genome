@@ -4323,7 +4323,7 @@ scaffold_14	StringTie	exon	7858880	7859445	.	+	.	ID=exon-205239;Parent=TCONS_000
 scaffold_14	StringTie	exon	7859483	7860288	.	+	.	ID=exon-205240;Parent=TCONS_00049857;exon_number=2;gene_id=XLOC_018721;transcript_id=TCONS_00049857
 scaffold_14	StringTie	transcript	7858983	7860295	.	+	.	ID=TCONS_00049858;Parent=XLOC_018721;gene_id=XLOC_018721;oId=TCONS_00049858;transcript_id=TCONS_00049858;tss_id=TSS39899
 scaffold_14	StringTie	exon	7858983	7860295	.	+	.	ID=exon-205241;Parent=TCONS_00049858;exon_number=1;gene_id=XLOC_018721;transcript_id=TCONS_00049858
-scaffold_14	StringTie	gene	7858983	7967287	.	-	.	ID=XLOC_019091;gene_id=XLOC_019091;oId=TCONS_00050966;transcript_id=TCONS_00050966;tss_id=TSS40731
+scaffold_14	StringTie	gene	7858983	7967287	.	-	.	ID=XLOC_019091;gene_id=XLOC_019091;oId=TCONS_00050966;transcript_id=TCONS_00050966;tss_id=TSS40731;name=RYamide;annotator=Sanja Jasek/Jekely lab
 scaffold_14	StringTie	transcript	7858983	7967287	.	-	.	ID=TCONS_00050965;Parent=XLOC_019091;gene_id=XLOC_019091;oId=TCONS_00050965;transcript_id=TCONS_00050965;tss_id=TSS40731
 scaffold_14	StringTie	exon	7858983	7860286	.	-	.	ID=exon-209645;Parent=TCONS_00050965;exon_number=1;gene_id=XLOC_019091;transcript_id=TCONS_00050965
 scaffold_14	StringTie	exon	7868064	7868196	.	-	.	ID=exon-209646;Parent=TCONS_00050965;exon_number=2;gene_id=XLOC_019091;transcript_id=TCONS_00050965

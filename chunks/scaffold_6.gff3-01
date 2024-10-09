@@ -8520,7 +8520,7 @@ scaffold_6	StringTie	exon	38468058	38468803	.	+	.	ID=exon-519792;Parent=TCONS_00
 scaffold_6	StringTie	gene	38480543	38482584	.	+	.	ID=XLOC_057475;gene_id=XLOC_057475;oId=TCONS_00137470;transcript_id=TCONS_00137471;tss_id=TSS111018
 scaffold_6	StringTie	transcript	38480543	38482584	.	+	.	ID=TCONS_00137471;Parent=XLOC_057475;gene_id=XLOC_057475;oId=TCONS_00137470;transcript_id=TCONS_00137471;tss_id=TSS111018
 scaffold_6	StringTie	exon	38480543	38482584	.	+	.	ID=exon-519793;Parent=TCONS_00137471;exon_number=1;gene_id=XLOC_057475;transcript_id=TCONS_00137471
-scaffold_6	StringTie	gene	38495909	38566842	.	+	.	ID=XLOC_055462;gene_id=XLOC_055462;oId=TCONS_00132576;transcript_id=TCONS_00132576;tss_id=TSS107181
+scaffold_6	StringTie	gene	38495909	38566842	.	+	.	ID=XLOC_055462;gene_id=XLOC_055462;oId=TCONS_00132576;transcript_id=TCONS_00132576;tss_id=TSS107181;name=lmx;annotator=Steffanie Meha/Schneider lab
 scaffold_6	StringTie	transcript	38495909	38566842	.	+	.	ID=TCONS_00132576;Parent=XLOC_055462;gene_id=XLOC_055462;oId=TCONS_00132576;transcript_id=TCONS_00132576;tss_id=TSS107181
 scaffold_6	StringTie	exon	38495909	38495936	.	+	.	ID=exon-500763;Parent=TCONS_00132576;exon_number=1;gene_id=XLOC_055462;transcript_id=TCONS_00132576
 scaffold_6	StringTie	exon	38496802	38497040	.	+	.	ID=exon-500764;Parent=TCONS_00132576;exon_number=2;gene_id=XLOC_055462;transcript_id=TCONS_00132576

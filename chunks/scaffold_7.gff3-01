@@ -2896,7 +2896,7 @@ scaffold_7	StringTie	gene	24256167	24259748	.	+	.	ID=XLOC_059273;gene_id=XLOC_05
 scaffold_7	StringTie	transcript	24256167	24259748	.	+	.	ID=TCONS_00141864;Parent=XLOC_059273;gene_id=XLOC_059273;oId=TCONS_00141864;transcript_id=TCONS_00141864;tss_id=TSS114622
 scaffold_7	StringTie	exon	24256167	24259011	.	+	.	ID=exon-535549;Parent=TCONS_00141864;exon_number=1;gene_id=XLOC_059273;transcript_id=TCONS_00141864
 scaffold_7	StringTie	exon	24259059	24259748	.	+	.	ID=exon-535550;Parent=TCONS_00141864;exon_number=2;gene_id=XLOC_059273;transcript_id=TCONS_00141864
-scaffold_7	StringTie	gene	24261242	24269189	.	-	.	ID=XLOC_060337;gene_id=XLOC_060337;oId=TCONS_00145367;transcript_id=TCONS_00145367;tss_id=TSS117355
+scaffold_7	StringTie	gene	24261242	24269189	.	-	.	ID=XLOC_060337;gene_id=XLOC_060337;oId=TCONS_00145367;transcript_id=TCONS_00145367;tss_id=TSS117355;name=foxA;annotator=Roman P Kostyuchenko/Dept Embryology St.Petersburg University
 scaffold_7	StringTie	transcript	24261242	24269189	.	-	.	ID=TCONS_00145367;Parent=XLOC_060337;gene_id=XLOC_060337;oId=TCONS_00145367;transcript_id=TCONS_00145367;tss_id=TSS117355
 scaffold_7	StringTie	exon	24261242	24265449	.	-	.	ID=exon-549743;Parent=TCONS_00145367;exon_number=1;gene_id=XLOC_060337;transcript_id=TCONS_00145367
 scaffold_7	StringTie	exon	24268970	24269189	.	-	.	ID=exon-549744;Parent=TCONS_00145367;exon_number=2;gene_id=XLOC_060337;transcript_id=TCONS_00145367

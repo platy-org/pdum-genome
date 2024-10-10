@@ -3629,7 +3629,7 @@ scaffold_26	StringTie	exon	4257884	4258119	.	+	.	ID=exon-349005;Parent=TCONS_000
 scaffold_26	StringTie	exon	4258540	4259951	.	+	.	ID=exon-349006;Parent=TCONS_00090868;exon_number=2;gene_id=XLOC_037535;transcript_id=TCONS_00090868
 scaffold_26	StringTie	transcript	4258537	4259913	.	+	.	ID=TCONS_00090869;Parent=XLOC_037535;gene_id=XLOC_037535;oId=TCONS_00090869;transcript_id=TCONS_00090869;tss_id=TSS73582
 scaffold_26	StringTie	exon	4258537	4259913	.	+	.	ID=exon-349007;Parent=TCONS_00090869;exon_number=1;gene_id=XLOC_037535;transcript_id=TCONS_00090869
-scaffold_26	StringTie	gene	4274040	4391923	.	-	.	ID=XLOC_037643;gene_id=XLOC_037643;oId=TCONS_00091261;transcript_id=TCONS_00091261;tss_id=TSS73883
+scaffold_26	StringTie	gene	4274040	4391923	.	-	.	ID=XLOC_037643;gene_id=XLOC_037643;oId=TCONS_00091261;transcript_id=TCONS_00091261;tss_id=TSS73883;name=pdfr (pigment-dispersing factor receptor);annotator=Benedikt R. Duerr (ORCID:0000-0003-4052-9577) / Jekely lab
 scaffold_26	StringTie	transcript	4274040	4391923	.	-	.	ID=TCONS_00091260;Parent=XLOC_037643;gene_id=XLOC_037643;oId=TCONS_00091260;transcript_id=TCONS_00091260;tss_id=TSS73883
 scaffold_26	StringTie	exon	4274040	4275376	.	-	.	ID=exon-350814;Parent=TCONS_00091260;exon_number=1;gene_id=XLOC_037643;transcript_id=TCONS_00091260
 scaffold_26	StringTie	exon	4276572	4276702	.	-	.	ID=exon-350815;Parent=TCONS_00091260;exon_number=2;gene_id=XLOC_037643;transcript_id=TCONS_00091260

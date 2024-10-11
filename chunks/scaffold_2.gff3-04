@@ -8890,7 +8890,7 @@ scaffold_2	StringTie	exon	73453264	73453626	.	+	.	ID=exon-272427;Parent=TCONS_00
 scaffold_2	StringTie	gene	73471242	73472007	.	+	.	ID=XLOC_033261;gene_id=XLOC_033261;oId=TCONS_00081762;transcript_id=TCONS_00081762;tss_id=TSS66138
 scaffold_2	StringTie	transcript	73471242	73472007	.	+	.	ID=TCONS_00081762;Parent=XLOC_033261;gene_id=XLOC_033261;oId=TCONS_00081762;transcript_id=TCONS_00081762;tss_id=TSS66138
 scaffold_2	StringTie	exon	73471242	73472007	.	+	.	ID=exon-317038;Parent=TCONS_00081762;exon_number=1;gene_id=XLOC_033261;transcript_id=TCONS_00081762
-scaffold_2	StringTie	gene	73473885	73482292	.	+	.	ID=XLOC_025966;gene_id=XLOC_025966;oId=TCONS_00068049;transcript_id=TCONS_00068049;tss_id=TSS54395
+scaffold_2	StringTie	gene	73473885	73482292	.	+	.	ID=XLOC_025966;gene_id=XLOC_025966;oId=TCONS_00068049;transcript_id=TCONS_00068049;tss_id=TSS54395;name=Ras-GTPase-activating protein-binding-like protein;annotator=Marlen Brodbeck (ORCID:0009-0006-6502-2560) / Jekely lab
 scaffold_2	StringTie	transcript	73473885	73482292	.	+	.	ID=TCONS_00068049;Parent=XLOC_025966;gene_id=XLOC_025966;oId=TCONS_00068049;transcript_id=TCONS_00068049;tss_id=TSS54395
 scaffold_2	StringTie	exon	73473885	73474052	.	+	.	ID=exon-272428;Parent=TCONS_00068049;exon_number=1;gene_id=XLOC_025966;transcript_id=TCONS_00068049
 scaffold_2	StringTie	exon	73475898	73476019	.	+	.	ID=exon-272429;Parent=TCONS_00068049;exon_number=2;gene_id=XLOC_025966;transcript_id=TCONS_00068049

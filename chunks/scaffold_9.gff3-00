@@ -11637,7 +11637,7 @@ scaffold_9	StringTie	gene	16991082	16998842	.	-	.	ID=XLOC_067635;gene_id=XLOC_06
 scaffold_9	StringTie	transcript	16991082	16998842	.	-	.	ID=TCONS_00162569;Parent=XLOC_067635;gene_id=XLOC_067635;oId=TCONS_00162569;transcript_id=TCONS_00162569;tss_id=TSS131054
 scaffold_9	StringTie	exon	16991082	16997985	.	-	.	ID=exon-614944;Parent=TCONS_00162569;exon_number=1;gene_id=XLOC_067635;transcript_id=TCONS_00162569
 scaffold_9	StringTie	exon	16998456	16998842	.	-	.	ID=exon-614945;Parent=TCONS_00162569;exon_number=2;gene_id=XLOC_067635;transcript_id=TCONS_00162569
-scaffold_9	StringTie	gene	17000418	17066226	.	+	.	ID=XLOC_066822;gene_id=XLOC_066822;oId=TCONS_00159947;transcript_id=TCONS_00159947;tss_id=TSS129085
+scaffold_9	StringTie	gene	17000418	17066226	.	+	.	ID=XLOC_066822;gene_id=XLOC_066822;oId=TCONS_00159947;transcript_id=TCONS_00159947;tss_id=TSS129085;name=smoothened;annotator=SQS/Schneider lab
 scaffold_9	StringTie	transcript	17000418	17000789	.	+	.	ID=TCONS_00159947;Parent=XLOC_066822;gene_id=XLOC_066822;oId=TCONS_00159947;transcript_id=TCONS_00159947;tss_id=TSS129085
 scaffold_9	StringTie	exon	17000418	17000789	.	+	.	ID=exon-604361;Parent=TCONS_00159947;exon_number=1;gene_id=XLOC_066822;transcript_id=TCONS_00159947
 scaffold_9	StringTie	transcript	17000459	17066226	.	+	.	ID=TCONS_00159948;Parent=XLOC_066822;gene_id=XLOC_066822;oId=TCONS_00159948;transcript_id=TCONS_00159948;tss_id=TSS129085

@@ -1864,7 +1864,7 @@ scaffold_25	StringTie	exon	1817122	1822498	.	-	.	ID=exon-346030;Parent=TCONS_000
 scaffold_25	StringTie	transcript	1817122	1822498	.	-	.	ID=TCONS_00089938;Parent=XLOC_037100;gene_id=XLOC_037100;oId=TCONS_00089938;transcript_id=TCONS_00089938;tss_id=TSS72820
 scaffold_25	StringTie	exon	1817122	1819183	.	-	.	ID=exon-346028;Parent=TCONS_00089938;exon_number=1;gene_id=XLOC_037100;transcript_id=TCONS_00089938
 scaffold_25	StringTie	exon	1819250	1822498	.	-	.	ID=exon-346029;Parent=TCONS_00089938;exon_number=2;gene_id=XLOC_037100;transcript_id=TCONS_00089938
-scaffold_25	StringTie	gene	1817122	1822539	.	+	.	ID=XLOC_036961;gene_id=XLOC_036961;oId=TCONS_00089447;transcript_id=TCONS_00089447;tss_id=TSS72442
+scaffold_25	StringTie	gene	1817122	1822539	.	+	.	ID=XLOC_036961;gene_id=XLOC_036961;oId=TCONS_00089447;transcript_id=TCONS_00089447;tss_id=TSS72442;name=Frizzled-1/2/7;annotator=SQS/Schneider lab
 scaffold_25	StringTie	transcript	1817122	1822469	.	+	.	ID=TCONS_00089447;Parent=XLOC_036961;gene_id=XLOC_036961;oId=TCONS_00089447;transcript_id=TCONS_00089447;tss_id=TSS72442
 scaffold_25	StringTie	exon	1817122	1819187	.	+	.	ID=exon-343633;Parent=TCONS_00089447;exon_number=1;gene_id=XLOC_036961;transcript_id=TCONS_00089447
 scaffold_25	StringTie	exon	1819259	1822469	.	+	.	ID=exon-343634;Parent=TCONS_00089447;exon_number=2;gene_id=XLOC_036961;transcript_id=TCONS_00089447

@@ -498,7 +498,7 @@ scaffold_6	StringTie	exon	21920742	21921928	.	+	.	ID=exon-497755;Parent=TCONS_00
 scaffold_6	StringTie	gene	21938800	21939168	.	+	.	ID=XLOC_057249;gene_id=XLOC_057249;oId=TCONS_00137238;transcript_id=TCONS_00137239;tss_id=TSS110789
 scaffold_6	StringTie	transcript	21938800	21939168	.	+	.	ID=TCONS_00137239;Parent=XLOC_057249;gene_id=XLOC_057249;oId=TCONS_00137238;transcript_id=TCONS_00137239;tss_id=TSS110789
 scaffold_6	StringTie	exon	21938800	21939168	.	+	.	ID=exon-519561;Parent=TCONS_00137239;exon_number=1;gene_id=XLOC_057249;transcript_id=TCONS_00137239
-scaffold_6	StringTie	gene	21946230	21954218	.	+	.	ID=XLOC_055250;gene_id=XLOC_055250;oId=TCONS_00131830;transcript_id=TCONS_00131830;tss_id=TSS106617
+scaffold_6	StringTie	gene	21946230	21954218	.	+	.	ID=XLOC_055250;gene_id=XLOC_055250;oId=TCONS_00131830;transcript_id=TCONS_00131830;tss_id=TSS106617;name=arrowhead;annotator=SQS/Schneider lab
 scaffold_6	StringTie	transcript	21946230	21954218	.	+	.	ID=TCONS_00131830;Parent=XLOC_055250;gene_id=XLOC_055250;oId=TCONS_00131830;transcript_id=TCONS_00131830;tss_id=TSS106617
 scaffold_6	StringTie	exon	21946230	21948403	.	+	.	ID=exon-497756;Parent=TCONS_00131830;exon_number=1;gene_id=XLOC_055250;transcript_id=TCONS_00131830
 scaffold_6	StringTie	exon	21950129	21950340	.	+	.	ID=exon-497757;Parent=TCONS_00131830;exon_number=2;gene_id=XLOC_055250;transcript_id=TCONS_00131830

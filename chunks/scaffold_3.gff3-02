@@ -7453,7 +7453,7 @@ scaffold_3	StringTie	transcript	65389217	65390187	.	+	.	ID=TCONS_00097176;Parent
 scaffold_3	StringTie	exon	65389217	65390187	.	+	.	ID=exon-372947;Parent=TCONS_00097176;exon_number=1;gene_id=XLOC_039875;transcript_id=TCONS_00097176
 scaffold_3	StringTie	transcript	65390377	65390604	.	+	.	ID=TCONS_00097177;Parent=XLOC_039875;contained_in=TCONS_00097175;gene_id=XLOC_039875;oId=TCONS_00097177;transcript_id=TCONS_00097177;tss_id=TSS78574
 scaffold_3	StringTie	exon	65390377	65390604	.	+	.	ID=exon-372948;Parent=TCONS_00097177;exon_number=1;gene_id=XLOC_039875;transcript_id=TCONS_00097177
-scaffold_3	StringTie	gene	65393205	65397091	.	+	.	ID=XLOC_039876;gene_id=XLOC_039876;oId=TCONS_00097178;transcript_id=TCONS_00097178;tss_id=TSS78575
+scaffold_3	StringTie	gene	65393205	65397091	.	+	.	ID=XLOC_039876;gene_id=XLOC_039876;oId=TCONS_00097178;transcript_id=TCONS_00097178;tss_id=TSS78575;name=FzCRD-2;annotator=SQS/Schneider lab
 scaffold_3	StringTie	transcript	65393205	65397091	.	+	.	ID=TCONS_00097178;Parent=XLOC_039876;gene_id=XLOC_039876;oId=TCONS_00097178;transcript_id=TCONS_00097178;tss_id=TSS78575
 scaffold_3	StringTie	exon	65393205	65393462	.	+	.	ID=exon-372949;Parent=TCONS_00097178;exon_number=1;gene_id=XLOC_039876;transcript_id=TCONS_00097178
 scaffold_3	StringTie	exon	65395550	65395784	.	+	.	ID=exon-372950;Parent=TCONS_00097178;exon_number=2;gene_id=XLOC_039876;transcript_id=TCONS_00097178

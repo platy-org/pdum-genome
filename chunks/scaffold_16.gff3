@@ -8104,7 +8104,7 @@ scaffold_16	StringTie	exon	15653617	15653835	.	+	.	ID=exon-227911;Parent=TCONS_0
 scaffold_16	StringTie	exon	15654155	15654292	.	+	.	ID=exon-227912;Parent=TCONS_00056035;exon_number=2;gene_id=XLOC_021308;transcript_id=TCONS_00056035
 scaffold_16	StringTie	exon	15660803	15660949	.	+	.	ID=exon-227913;Parent=TCONS_00056035;exon_number=3;gene_id=XLOC_021308;transcript_id=TCONS_00056035
 scaffold_16	StringTie	exon	15661033	15661739	.	+	.	ID=exon-227914;Parent=TCONS_00056035;exon_number=4;gene_id=XLOC_021308;transcript_id=TCONS_00056035
-scaffold_16	StringTie	gene	15655893	15658030	.	+	.	ID=XLOC_021309;gene_id=XLOC_021309;oId=TCONS_00056036;transcript_id=TCONS_00056036;tss_id=TSS44813
+scaffold_16	StringTie	gene	15655893	15658030	.	+	.	ID=XLOC_021309;gene_id=XLOC_021309;oId=TCONS_00056036;transcript_id=TCONS_00056036;tss_id=TSS44813;name=FoxG;annotator=SQS/Schneider lab
 scaffold_16	StringTie	transcript	15655893	15658030	.	+	.	ID=TCONS_00056036;Parent=XLOC_021309;gene_id=XLOC_021309;oId=TCONS_00056036;transcript_id=TCONS_00056036;tss_id=TSS44813
 scaffold_16	StringTie	exon	15655893	15658030	.	+	.	ID=exon-227919;Parent=TCONS_00056036;exon_number=1;gene_id=XLOC_021309;transcript_id=TCONS_00056036
 scaffold_16	StringTie	gene	15692389	15692687	.	+	.	ID=XLOC_021752;gene_id=XLOC_021752;oId=TCONS_00056979;transcript_id=TCONS_00056979;tss_id=TSS45563

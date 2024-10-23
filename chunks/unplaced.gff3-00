@@ -3882,7 +3882,7 @@ scaffold_31	StringTie	exon	3979121	3980494	.	+	.	ID=exon-407181;Parent=TCONS_001
 scaffold_31	StringTie	gene	3989268	3990718	.	+	.	ID=XLOC_043978;gene_id=XLOC_043978;oId=TCONS_00106265;transcript_id=TCONS_00106265;tss_id=TSS85992
 scaffold_31	StringTie	transcript	3989268	3990718	.	+	.	ID=TCONS_00106265;Parent=XLOC_043978;gene_id=XLOC_043978;oId=TCONS_00106265;transcript_id=TCONS_00106265;tss_id=TSS85992
 scaffold_31	StringTie	exon	3989268	3990718	.	+	.	ID=exon-407182;Parent=TCONS_00106265;exon_number=1;gene_id=XLOC_043978;transcript_id=TCONS_00106265
-scaffold_31	StringTie	gene	4027997	4033614	.	-	.	ID=XLOC_043883;gene_id=XLOC_043883;oId=TCONS_00106159;transcript_id=TCONS_00106159;tss_id=TSS85888
+scaffold_31	StringTie	gene	4027997	4033614	.	-	.	ID=XLOC_043883;gene_id=XLOC_043883;oId=TCONS_00106159;transcript_id=TCONS_00106159;tss_id=TSS85888;name=FoxD;annotator=SQS/Schneider lab
 scaffold_31	StringTie	transcript	4027997	4033614	.	-	.	ID=TCONS_00106159;Parent=XLOC_043883;gene_id=XLOC_043883;oId=TCONS_00106159;transcript_id=TCONS_00106159;tss_id=TSS85888
 scaffold_31	StringTie	exon	4027997	4033614	.	-	.	ID=exon-407052;Parent=TCONS_00106159;exon_number=1;gene_id=XLOC_043883;transcript_id=TCONS_00106159
 scaffold_31	StringTie	transcript	4030631	4033265	.	-	.	ID=TCONS_00106160;Parent=XLOC_043883;contained_in=TCONS_00106159;gene_id=XLOC_043883;oId=TCONS_00106160;transcript_id=TCONS_00106160;tss_id=TSS85889

@@ -10129,7 +10129,7 @@ scaffold_11	StringTie	exon	44656127	44656204	.	+	.	ID=exon-147427;Parent=TCONS_0
 scaffold_11	StringTie	exon	44656416	44659400	.	+	.	ID=exon-147428;Parent=TCONS_00035035;exon_number=5;gene_id=XLOC_012422;transcript_id=TCONS_00035035
 scaffold_11	StringTie	transcript	44653704	44657329	.	+	.	ID=TCONS_00035036;Parent=XLOC_012422;gene_id=XLOC_012422;oId=TCONS_00035036;transcript_id=TCONS_00035036;tss_id=TSS27950
 scaffold_11	StringTie	exon	44653704	44657329	.	+	.	ID=exon-147431;Parent=TCONS_00035036;exon_number=1;gene_id=XLOC_012422;transcript_id=TCONS_00035036
-scaffold_11	StringTie	gene	44659998	44717456	.	-	.	ID=XLOC_013299;gene_id=XLOC_013299;oId=TCONS_00038134;transcript_id=TCONS_00038134;tss_id=TSS30376
+scaffold_11	StringTie	gene	44659998	44717456	.	-	.	ID=XLOC_013299;gene_id=XLOC_013299;oId=TCONS_00038134;transcript_id=TCONS_00038134;tss_id=TSS30376;name=dynein heavy chain 1;annotator=Marlen Brodbeck (ORCID:0009-0006-6502-2560) / Jekely lab
 scaffold_11	StringTie	transcript	44659998	44717437	.	-	.	ID=TCONS_00038132;Parent=XLOC_013299;gene_id=XLOC_013299;oId=TCONS_00038132;transcript_id=TCONS_00038132;tss_id=TSS30376
 scaffold_11	StringTie	exon	44659998	44661008	.	-	.	ID=exon-161902;Parent=TCONS_00038132;exon_number=1;gene_id=XLOC_013299;transcript_id=TCONS_00038132
 scaffold_11	StringTie	exon	44661447	44661604	.	-	.	ID=exon-161903;Parent=TCONS_00038132;exon_number=2;gene_id=XLOC_013299;transcript_id=TCONS_00038132

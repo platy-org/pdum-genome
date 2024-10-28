@@ -2011,7 +2011,7 @@ scaffold_8	StringTie	exon	22888765	22889023	.	+	.	ID=exon-594283;Parent=TCONS_00
 scaffold_8	StringTie	gene	22891020	22891694	.	+	.	ID=XLOC_065201;gene_id=XLOC_065201;oId=TCONS_00156793;transcript_id=TCONS_00156793;tss_id=TSS126500
 scaffold_8	StringTie	transcript	22891020	22891694	.	+	.	ID=TCONS_00156793;Parent=XLOC_065201;gene_id=XLOC_065201;oId=TCONS_00156793;transcript_id=TCONS_00156793;tss_id=TSS126500
 scaffold_8	StringTie	exon	22891020	22891694	.	+	.	ID=exon-594284;Parent=TCONS_00156793;exon_number=1;gene_id=XLOC_065201;transcript_id=TCONS_00156793
-scaffold_8	StringTie	gene	22894712	22970832	.	-	.	ID=XLOC_064271;gene_id=XLOC_064271;oId=TCONS_00154906;transcript_id=TCONS_00154906;tss_id=TSS124940
+scaffold_8	StringTie	gene	22894712	22970832	.	-	.	ID=XLOC_064271;gene_id=XLOC_064271;oId=TCONS_00154906;transcript_id=TCONS_00154906;tss_id=TSS124940;name=Wnt11;annotator=Marlen Brodbeck (ORCID:0009-0006-6502-2560) / Jekely lab
 scaffold_8	StringTie	transcript	22894712	22897076	.	-	.	ID=TCONS_00154906;Parent=XLOC_064271;gene_id=XLOC_064271;oId=TCONS_00154906;transcript_id=TCONS_00154906;tss_id=TSS124940
 scaffold_8	StringTie	exon	22894712	22897076	.	-	.	ID=exon-587307;Parent=TCONS_00154906;exon_number=1;gene_id=XLOC_064271;transcript_id=TCONS_00154906
 scaffold_8	StringTie	transcript	22894712	22970812	.	-	.	ID=TCONS_00154907;Parent=XLOC_064271;gene_id=XLOC_064271;oId=TCONS_00154907;transcript_id=TCONS_00154907;tss_id=TSS124941

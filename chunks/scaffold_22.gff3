@@ -203,7 +203,7 @@ scaffold_22	StringTie	transcript	543788	544803	.	-	.	ID=TCONS_00086283;Parent=XL
 scaffold_22	StringTie	exon	543788	544803	.	-	.	ID=exon-331339;Parent=TCONS_00086283;exon_number=1;gene_id=XLOC_035565;transcript_id=TCONS_00086283
 scaffold_22	StringTie	transcript	545193	545615	.	-	.	ID=TCONS_00086284;Parent=XLOC_035565;contained_in=TCONS_00086280;gene_id=XLOC_035565;oId=TCONS_00086284;transcript_id=TCONS_00086284;tss_id=TSS69906
 scaffold_22	StringTie	exon	545193	545615	.	-	.	ID=exon-331340;Parent=TCONS_00086284;exon_number=1;gene_id=XLOC_035565;transcript_id=TCONS_00086284
-scaffold_22	StringTie	gene	575179	656879	.	+	.	ID=XLOC_035423;gene_id=XLOC_035423;oId=TCONS_00085762;transcript_id=TCONS_00085762;tss_id=TSS69509
+scaffold_22	StringTie	gene	575179	656879	.	+	.	ID=XLOC_035423;gene_id=XLOC_035423;oId=TCONS_00085762;transcript_id=TCONS_00085762;tss_id=TSS69509;name=sonic hedgehog;annotator=Marlen Brodbeck (ORCID:0009-0006-6502-2560) / Jekely lab
 scaffold_22	StringTie	transcript	575179	656879	.	+	.	ID=TCONS_00085762;Parent=XLOC_035423;gene_id=XLOC_035423;oId=TCONS_00085762;transcript_id=TCONS_00085762;tss_id=TSS69509
 scaffold_22	StringTie	exon	575179	575255	.	+	.	ID=exon-329453;Parent=TCONS_00085762;exon_number=1;gene_id=XLOC_035423;transcript_id=TCONS_00085762
 scaffold_22	StringTie	exon	639000	641271	.	+	.	ID=exon-329454;Parent=TCONS_00085762;exon_number=2;gene_id=XLOC_035423;transcript_id=TCONS_00085762

@@ -3492,7 +3492,7 @@ scaffold_1	StringTie	exon	64078236	64079838	.	-	.	ID=exon-67574;Parent=TCONS_000
 scaffold_1	StringTie	gene	64105296	64108945	.	+	.	ID=XLOC_006833;gene_id=XLOC_006833;oId=TCONS_00022861;transcript_id=TCONS_00022861;tss_id=TSS17894
 scaffold_1	StringTie	transcript	64105296	64108945	.	+	.	ID=TCONS_00022861;Parent=XLOC_006833;gene_id=XLOC_006833;oId=TCONS_00022861;transcript_id=TCONS_00022861;tss_id=TSS17894
 scaffold_1	StringTie	exon	64105296	64108945	.	+	.	ID=exon-103732;Parent=TCONS_00022861;exon_number=1;gene_id=XLOC_006833;transcript_id=TCONS_00022861
-scaffold_1	StringTie	gene	64152216	64160963	.	+	.	ID=XLOC_000971;gene_id=XLOC_000971;oId=TCONS_00003520;transcript_id=TCONS_00003520;tss_id=TSS2738
+scaffold_1	StringTie	gene	64152216	64160963	.	+	.	ID=XLOC_000971;gene_id=XLOC_000971;oId=TCONS_00003520;transcript_id=TCONS_00003520;tss_id=TSS2738;name=twist;annotator=Marlen Brodbeck (ORCID:0009-0006-6502-2560) / Jekely lab
 scaffold_1	StringTie	transcript	64152216	64160963	.	+	.	ID=TCONS_00003520;Parent=XLOC_000971;gene_id=XLOC_000971;oId=TCONS_00003520;transcript_id=TCONS_00003520;tss_id=TSS2738
 scaffold_1	StringTie	exon	64152216	64153010	.	+	.	ID=exon-16332;Parent=TCONS_00003520;exon_number=1;gene_id=XLOC_000971;transcript_id=TCONS_00003520
 scaffold_1	StringTie	exon	64159797	64160963	.	+	.	ID=exon-16333;Parent=TCONS_00003520;exon_number=2;gene_id=XLOC_000971;transcript_id=TCONS_00003520

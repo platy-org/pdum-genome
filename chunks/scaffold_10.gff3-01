@@ -9179,7 +9179,7 @@ scaffold_10	StringTie	transcript	41354335	41354589	.	-	.	ID=TCONS_00029054;Paren
 scaffold_10	StringTie	exon	41354335	41354589	.	-	.	ID=exon-123788;Parent=TCONS_00029054;exon_number=1;gene_id=XLOC_010111;transcript_id=TCONS_00029054
 scaffold_10	StringTie	transcript	41354972	41355253	.	-	.	ID=TCONS_00029055;Parent=XLOC_010111;gene_id=XLOC_010111;oId=TCONS_00029055;transcript_id=TCONS_00029055;tss_id=TSS23078
 scaffold_10	StringTie	exon	41354972	41355253	.	-	.	ID=exon-123789;Parent=TCONS_00029055;exon_number=1;gene_id=XLOC_010111;transcript_id=TCONS_00029055
-scaffold_10	StringTie	gene	41366410	41376036	.	-	.	ID=XLOC_010112;gene_id=XLOC_010112;oId=TCONS_00029056;transcript_id=TCONS_00029056;tss_id=TSS23079
+scaffold_10	StringTie	gene	41366410	41376036	.	-	.	ID=XLOC_010112;gene_id=XLOC_010112;oId=TCONS_00029056;transcript_id=TCONS_00029056;tss_id=TSS23079;name=Ferritin;annotator=Marlen Brodbeck (ORCID:0009-0006-6502-2560) / Jekely lab
 scaffold_10	StringTie	transcript	41366410	41376001	.	-	.	ID=TCONS_00029056;Parent=XLOC_010112;gene_id=XLOC_010112;oId=TCONS_00029056;transcript_id=TCONS_00029056;tss_id=TSS23079
 scaffold_10	StringTie	exon	41366410	41367444	.	-	.	ID=exon-123790;Parent=TCONS_00029056;exon_number=1;gene_id=XLOC_010112;transcript_id=TCONS_00029056
 scaffold_10	StringTie	exon	41368142	41368267	.	-	.	ID=exon-123791;Parent=TCONS_00029056;exon_number=2;gene_id=XLOC_010112;transcript_id=TCONS_00029056

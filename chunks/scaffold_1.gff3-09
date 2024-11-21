@@ -10720,7 +10720,7 @@ scaffold_1	StringTie	exon	183633796	183634098	.	-	.	ID=exon-98216;Parent=TCONS_0
 scaffold_1	StringTie	gene	183630435	183631172	.	+	.	ID=XLOC_008686;gene_id=XLOC_008686;oId=TCONS_00024770;transcript_id=TCONS_00024770;tss_id=TSS19793
 scaffold_1	StringTie	transcript	183630435	183631172	.	+	.	ID=TCONS_00024770;Parent=XLOC_008686;gene_id=XLOC_008686;oId=TCONS_00024770;transcript_id=TCONS_00024770;tss_id=TSS19793
 scaffold_1	StringTie	exon	183630435	183631172	.	+	.	ID=exon-105641;Parent=TCONS_00024770;exon_number=1;gene_id=XLOC_008686;transcript_id=TCONS_00024770
-scaffold_1	StringTie	gene	183639049	183647007	.	-	.	ID=XLOC_005716;gene_id=XLOC_005716;oId=TCONS_00021141;transcript_id=TCONS_00021141;tss_id=TSS16383
+scaffold_1	StringTie	gene	183639049	183647007	.	-	.	ID=XLOC_005716;gene_id=XLOC_005716;oId=TCONS_00021141;transcript_id=TCONS_00021141;tss_id=TSS16383;name=Tubulin gamma;annotator=SQS/Schneider lab
 scaffold_1	StringTie	transcript	183639049	183639599	.	-	.	ID=TCONS_00021141;Parent=XLOC_005716;gene_id=XLOC_005716;oId=TCONS_00021141;transcript_id=TCONS_00021141;tss_id=TSS16383
 scaffold_1	StringTie	exon	183639049	183639599	.	-	.	ID=exon-98217;Parent=TCONS_00021141;exon_number=1;gene_id=XLOC_005716;transcript_id=TCONS_00021141
 scaffold_1	StringTie	transcript	183639210	183647007	.	-	.	ID=TCONS_00021142;Parent=XLOC_005716;gene_id=XLOC_005716;oId=TCONS_00021142;transcript_id=TCONS_00021142;tss_id=TSS16384

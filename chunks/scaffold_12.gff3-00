@@ -603,7 +603,7 @@ scaffold_12	StringTie	transcript	2650107	2650326	.	-	.	ID=TCONS_00042389;Parent=
 scaffold_12	StringTie	exon	2650107	2650326	.	-	.	ID=exon-176850;Parent=TCONS_00042389;exon_number=1;gene_id=XLOC_015291;transcript_id=TCONS_00042389
 scaffold_12	StringTie	transcript	2653714	2654400	.	-	.	ID=TCONS_00042390;Parent=XLOC_015291;gene_id=XLOC_015291;oId=TCONS_00042390;transcript_id=TCONS_00042390;tss_id=TSS33908
 scaffold_12	StringTie	exon	2653714	2654400	.	-	.	ID=exon-176851;Parent=TCONS_00042390;exon_number=1;gene_id=XLOC_015291;transcript_id=TCONS_00042390
-scaffold_12	StringTie	gene	2671671	2680890	.	-	.	ID=XLOC_015292;gene_id=XLOC_015292;oId=TCONS_00042391;transcript_id=TCONS_00042391;tss_id=TSS33909
+scaffold_12	StringTie	gene	2671671	2680890	.	-	.	ID=XLOC_015292;gene_id=XLOC_015292;oId=TCONS_00042391;transcript_id=TCONS_00042391;tss_id=TSS33909;name=Tubulin zeta;annotator=SQS/Schneider lab
 scaffold_12	StringTie	transcript	2671671	2680884	.	-	.	ID=TCONS_00042391;Parent=XLOC_015292;gene_id=XLOC_015292;oId=TCONS_00042391;transcript_id=TCONS_00042391;tss_id=TSS33909
 scaffold_12	StringTie	exon	2671671	2671838	.	-	.	ID=exon-176852;Parent=TCONS_00042391;exon_number=1;gene_id=XLOC_015292;transcript_id=TCONS_00042391
 scaffold_12	StringTie	exon	2672413	2672576	.	-	.	ID=exon-176853;Parent=TCONS_00042391;exon_number=2;gene_id=XLOC_015292;transcript_id=TCONS_00042391

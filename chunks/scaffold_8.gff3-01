@@ -10015,7 +10015,7 @@ scaffold_8	StringTie	exon	34694068	34694364	.	-	.	ID=exon-589560;Parent=TCONS_00
 scaffold_8	StringTie	exon	34694787	34695034	.	-	.	ID=exon-589561;Parent=TCONS_00155452;exon_number=3;gene_id=XLOC_064476;transcript_id=TCONS_00155452
 scaffold_8	StringTie	transcript	34695014	34695238	.	-	.	ID=TCONS_00155453;Parent=XLOC_064476;gene_id=XLOC_064476;oId=TCONS_00155453;transcript_id=TCONS_00155453;tss_id=TSS125376
 scaffold_8	StringTie	exon	34695014	34695238	.	-	.	ID=exon-589562;Parent=TCONS_00155453;exon_number=1;gene_id=XLOC_064476;transcript_id=TCONS_00155453
-scaffold_8	StringTie	gene	34695358	34697609	.	-	.	ID=XLOC_064477;gene_id=XLOC_064477;oId=TCONS_00155454;transcript_id=TCONS_00155454;tss_id=TSS125377
+scaffold_8	StringTie	gene	34695358	34697609	.	-	.	ID=XLOC_064477;gene_id=XLOC_064477;oId=TCONS_00155454;transcript_id=TCONS_00155454;tss_id=TSS125377;name=Pknox-2;description=TALE-class pbx/knotted1 homeobox 2;annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_8	StringTie	transcript	34695358	34697609	.	-	.	ID=TCONS_00155454;Parent=XLOC_064477;gene_id=XLOC_064477;oId=TCONS_00155454;transcript_id=TCONS_00155454;tss_id=TSS125377
 scaffold_8	StringTie	exon	34695358	34695513	.	-	.	ID=exon-589563;Parent=TCONS_00155454;exon_number=1;gene_id=XLOC_064477;transcript_id=TCONS_00155454
 scaffold_8	StringTie	exon	34695788	34695985	.	-	.	ID=exon-589564;Parent=TCONS_00155454;exon_number=2;gene_id=XLOC_064477;transcript_id=TCONS_00155454
@@ -10476,7 +10476,7 @@ scaffold_8	StringTie	gene	35219393	35221184	.	-	.	ID=XLOC_064486;gene_id=XLOC_06
 scaffold_8	StringTie	transcript	35219393	35221184	.	-	.	ID=TCONS_00155505;Parent=XLOC_064486;gene_id=XLOC_064486;oId=TCONS_00155505;transcript_id=TCONS_00155505;tss_id=TSS125412
 scaffold_8	StringTie	exon	35219393	35219735	.	-	.	ID=exon-589922;Parent=TCONS_00155505;exon_number=1;gene_id=XLOC_064486;transcript_id=TCONS_00155505
 scaffold_8	StringTie	exon	35219959	35221184	.	-	.	ID=exon-589923;Parent=TCONS_00155505;exon_number=2;gene_id=XLOC_064486;transcript_id=TCONS_00155505
-scaffold_8	StringTie	gene	35261820	35296138	.	-	.	ID=XLOC_064487;gene_id=XLOC_064487;oId=TCONS_00155506;transcript_id=TCONS_00155506;tss_id=TSS125413
+scaffold_8	StringTie	gene	35261820	35296138	.	-	.	ID=XLOC_064487;gene_id=XLOC_064487;oId=TCONS_00155506;transcript_id=TCONS_00155506;tss_id=TSS125413;name=Repo;description=PRD-class reversed polarity homeobox;annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_8	StringTie	transcript	35261820	35296138	.	-	.	ID=TCONS_00155506;Parent=XLOC_064487;gene_id=XLOC_064487;oId=TCONS_00155506;transcript_id=TCONS_00155506;tss_id=TSS125413
 scaffold_8	StringTie	exon	35261820	35264223	.	-	.	ID=exon-589924;Parent=TCONS_00155506;exon_number=1;gene_id=XLOC_064487;transcript_id=TCONS_00155506
 scaffold_8	StringTie	exon	35268134	35268283	.	-	.	ID=exon-589925;Parent=TCONS_00155506;exon_number=2;gene_id=XLOC_064487;transcript_id=TCONS_00155506

@@ -282,7 +282,7 @@ scaffold_7	StringTie	exon	40587582	40588560	.	-	.	ID=exon-553845;Parent=TCONS_00
 scaffold_7	StringTie	exon	40589013	40590528	.	-	.	ID=exon-553846;Parent=TCONS_00146235;exon_number=3;gene_id=XLOC_060588;transcript_id=TCONS_00146235
 scaffold_7	StringTie	transcript	40581476	40586099	.	-	.	ID=TCONS_00146236;Parent=XLOC_060588;contained_in=TCONS_00146235;gene_id=XLOC_060588;oId=TCONS_00146236;transcript_id=TCONS_00146236;tss_id=TSS118045
 scaffold_7	StringTie	exon	40581476	40586099	.	-	.	ID=exon-553847;Parent=TCONS_00146236;exon_number=1;gene_id=XLOC_060588;transcript_id=TCONS_00146236
-scaffold_7	StringTie	gene	40604330	40609177	.	-	.	ID=XLOC_060589;gene_id=XLOC_060589;oId=TCONS_00146240;transcript_id=TCONS_00146240;tss_id=TSS118046
+scaffold_7	StringTie	gene	40604330	40609177	.	-	.	ID=XLOC_060589;gene_id=XLOC_060589;oId=TCONS_00146240;transcript_id=TCONS_00146240;tss_id=TSS118046;name=TALE-IV-2;description=TALE-class IV homebox 2;annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_7	StringTie	transcript	40604330	40609177	.	-	.	ID=TCONS_00146240;Parent=XLOC_060589;gene_id=XLOC_060589;oId=TCONS_00146240;transcript_id=TCONS_00146240;tss_id=TSS118046
 scaffold_7	StringTie	exon	40604330	40606343	.	-	.	ID=exon-553848;Parent=TCONS_00146240;exon_number=1;gene_id=XLOC_060589;transcript_id=TCONS_00146240
 scaffold_7	StringTie	exon	40606718	40606857	.	-	.	ID=exon-553849;Parent=TCONS_00146240;exon_number=2;gene_id=XLOC_060589;transcript_id=TCONS_00146240

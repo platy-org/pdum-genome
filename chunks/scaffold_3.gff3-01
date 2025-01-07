@@ -10567,7 +10567,7 @@ scaffold_3	StringTie	gene	45155498	45169269	.	-	.	ID=XLOC_041087;gene_id=XLOC_04
 scaffold_3	StringTie	transcript	45155498	45169269	.	-	.	ID=TCONS_00101019;Parent=XLOC_041087;gene_id=XLOC_041087;oId=TCONS_00101019;transcript_id=TCONS_00101019;tss_id=TSS81555
 scaffold_3	StringTie	exon	45155498	45162424	.	-	.	ID=exon-389333;Parent=TCONS_00101019;exon_number=1;gene_id=XLOC_041087;transcript_id=TCONS_00101019
 scaffold_3	StringTie	exon	45162714	45169269	.	-	.	ID=exon-389334;Parent=TCONS_00101019;exon_number=2;gene_id=XLOC_041087;transcript_id=TCONS_00101019
-scaffold_3	StringTie	gene	45155498	45304644	.	+	.	ID=XLOC_039605;gene_id=XLOC_039605;oId=TCONS_00096336;transcript_id=TCONS_00096336;tss_id=TSS77931
+scaffold_3	StringTie	gene	45155498	45304644	.	+	.	ID=XLOC_039605;gene_id=XLOC_039605;oId=TCONS_00096336;transcript_id=TCONS_00096336;tss_id=TSS77931;name=Zfhx;description=ZF-class zinc finger homeobox;annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_3	StringTie	transcript	45155498	45240701	.	+	.	ID=TCONS_00096335;Parent=XLOC_039605;gene_id=XLOC_039605;oId=TCONS_00096335;transcript_id=TCONS_00096335;tss_id=TSS77931
 scaffold_3	StringTie	exon	45155498	45159269	.	+	.	ID=exon-369757;Parent=TCONS_00096335;exon_number=1;gene_id=XLOC_039605;transcript_id=TCONS_00096335
 scaffold_3	StringTie	exon	45193156	45193212	.	+	.	ID=exon-369758;Parent=TCONS_00096335;exon_number=2;gene_id=XLOC_039605;transcript_id=TCONS_00096335

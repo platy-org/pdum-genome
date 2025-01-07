@@ -6515,7 +6515,7 @@ scaffold_4	StringTie	gene	11422402	11425039	.	-	.	ID=XLOC_047053;gene_id=XLOC_04
 scaffold_4	StringTie	transcript	11422402	11425039	.	-	.	ID=TCONS_00114030;Parent=XLOC_047053;gene_id=XLOC_047053;oId=TCONS_00114030;transcript_id=TCONS_00114030;tss_id=TSS92148
 scaffold_4	StringTie	exon	11422402	11423137	.	-	.	ID=exon-436742;Parent=TCONS_00114030;exon_number=1;gene_id=XLOC_047053;transcript_id=TCONS_00114030
 scaffold_4	StringTie	exon	11423543	11425039	.	-	.	ID=exon-436743;Parent=TCONS_00114030;exon_number=2;gene_id=XLOC_047053;transcript_id=TCONS_00114030
-scaffold_4	StringTie	gene	11466273	11477592	.	+	.	ID=XLOC_045810;gene_id=XLOC_045810;oId=TCONS_00110370;transcript_id=TCONS_00110370;tss_id=TSS89334
+scaffold_4	StringTie	gene	11466273	11477592	.	+	.	ID=XLOC_045810;gene_id=XLOC_045810;oId=TCONS_00110370;transcript_id=TCONS_00110370;tss_id=TSS89334;name=Bsx;description=ANTP-class brain-specific homeobox (bashed);annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_4	StringTie	transcript	11466273	11467567	.	+	.	ID=TCONS_00110370;Parent=XLOC_045810;gene_id=XLOC_045810;oId=TCONS_00110370;transcript_id=TCONS_00110370;tss_id=TSS89334
 scaffold_4	StringTie	exon	11466273	11467567	.	+	.	ID=exon-422198;Parent=TCONS_00110370;exon_number=1;gene_id=XLOC_045810;transcript_id=TCONS_00110370
 scaffold_4	StringTie	transcript	11466273	11477592	.	+	.	ID=TCONS_00110371;Parent=XLOC_045810;gene_id=XLOC_045810;oId=TCONS_00110371;transcript_id=TCONS_00110371;tss_id=TSS89334

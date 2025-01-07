@@ -9149,7 +9149,7 @@ scaffold_10	StringTie	exon	14315232	14317219	.	+	.	ID=exon-109008;Parent=TCONS_0
 scaffold_10	StringTie	exon	14317543	14317577	.	+	.	ID=exon-109009;Parent=TCONS_00025743;exon_number=2;gene_id=XLOC_009094;transcript_id=TCONS_00025743
 scaffold_10	StringTie	exon	14317765	14318806	.	+	.	ID=exon-109010;Parent=TCONS_00025743;exon_number=3;gene_id=XLOC_009094;transcript_id=TCONS_00025743
 scaffold_10	StringTie	exon	14318947	14319284	.	+	.	ID=exon-109011;Parent=TCONS_00025743;exon_number=4;gene_id=XLOC_009094;transcript_id=TCONS_00025743
-scaffold_10	StringTie	gene	14326879	14353487	.	-	.	ID=XLOC_009780;gene_id=XLOC_009780;oId=TCONS_00028006;transcript_id=TCONS_00028006;tss_id=TSS22298
+scaffold_10	StringTie	gene	14326879	14353487	.	-	.	ID=XLOC_009780;gene_id=XLOC_009780;oId=TCONS_00028006;transcript_id=TCONS_00028006;tss_id=TSS22298;name=Onecut;description=CUT-class one cut homeobox  (cut);annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_10	StringTie	transcript	14326879	14331577	.	-	.	ID=TCONS_00028006;Parent=XLOC_009780;gene_id=XLOC_009780;oId=TCONS_00028006;transcript_id=TCONS_00028006;tss_id=TSS22298
 scaffold_10	StringTie	exon	14326879	14331577	.	-	.	ID=exon-118878;Parent=TCONS_00028006;exon_number=1;gene_id=XLOC_009780;transcript_id=TCONS_00028006
 scaffold_10	StringTie	transcript	14326897	14338196	.	-	.	ID=TCONS_00028007;Parent=XLOC_009780;gene_id=XLOC_009780;oId=TCONS_00028007;transcript_id=TCONS_00028007;tss_id=TSS22299
@@ -10856,7 +10856,7 @@ scaffold_10	StringTie	exon	19607334	19607716	.	+	.	ID=exon-109569;Parent=TCONS_0
 scaffold_10	StringTie	gene	19616933	19617256	.	+	.	ID=XLOC_010580;gene_id=XLOC_010580;oId=TCONS_00029926;transcript_id=TCONS_00029927;tss_id=TSS23817
 scaffold_10	StringTie	transcript	19616933	19617256	.	+	.	ID=TCONS_00029927;Parent=XLOC_010580;gene_id=XLOC_010580;oId=TCONS_00029926;transcript_id=TCONS_00029927;tss_id=TSS23817
 scaffold_10	StringTie	exon	19616933	19617256	.	+	.	ID=exon-126664;Parent=TCONS_00029927;exon_number=1;gene_id=XLOC_010580;transcript_id=TCONS_00029927
-scaffold_10	StringTie	gene	19677670	19691547	.	+	.	ID=XLOC_009153;gene_id=XLOC_009153;oId=TCONS_00025881;transcript_id=TCONS_00025881;tss_id=TSS20675
+scaffold_10	StringTie	gene	19677670	19691547	.	+	.	ID=XLOC_009153;gene_id=XLOC_009153;oId=TCONS_00025881;transcript_id=TCONS_00025881;tss_id=TSS20675;name=Pitx-1;description=PRD-class pituitary homeodomain homeobox 1;annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_10	StringTie	transcript	19677670	19679261	.	+	.	ID=TCONS_00025881;Parent=XLOC_009153;gene_id=XLOC_009153;oId=TCONS_00025881;transcript_id=TCONS_00025881;tss_id=TSS20675
 scaffold_10	StringTie	exon	19677670	19679261	.	+	.	ID=exon-109570;Parent=TCONS_00025881;exon_number=1;gene_id=XLOC_009153;transcript_id=TCONS_00025881
 scaffold_10	StringTie	transcript	19677695	19691518	.	+	.	ID=TCONS_00025882;Parent=XLOC_009153;gene_id=XLOC_009153;oId=TCONS_00025882;transcript_id=TCONS_00025882;tss_id=TSS20675
@@ -10870,7 +10870,7 @@ scaffold_10	StringTie	exon	19689151	19690367	.	+	.	ID=exon-109573;Parent=TCONS_0
 scaffold_10	StringTie	exon	19690515	19691518	.	+	.	ID=exon-109574;Parent=TCONS_00025883;exon_number=4;gene_id=XLOC_009153;transcript_id=TCONS_00025883
 scaffold_10	StringTie	transcript	19689150	19691547	.	+	.	ID=TCONS_00025884;Parent=XLOC_009153;gene_id=XLOC_009153;oId=TCONS_00025884;transcript_id=TCONS_00025884;tss_id=TSS20676
 scaffold_10	StringTie	exon	19689150	19691547	.	+	.	ID=exon-109578;Parent=TCONS_00025884;exon_number=1;gene_id=XLOC_009153;transcript_id=TCONS_00025884
-scaffold_10	StringTie	gene	19700972	19746611	.	+	.	ID=XLOC_009154;gene_id=XLOC_009154;oId=TCONS_00025885;transcript_id=TCONS_00025885;tss_id=TSS20677
+scaffold_10	StringTie	gene	19700972	19746611	.	+	.	ID=XLOC_009154;gene_id=XLOC_009154;oId=TCONS_00025885;transcript_id=TCONS_00025885;tss_id=TSS20677;name=Pitx-2;description=PRD-class pituitary homeodomain homeobox 2;annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_10	StringTie	transcript	19700972	19746610	.	+	.	ID=TCONS_00025885;Parent=XLOC_009154;gene_id=XLOC_009154;oId=TCONS_00025885;transcript_id=TCONS_00025885;tss_id=TSS20677
 scaffold_10	StringTie	exon	19700972	19701635	.	+	.	ID=exon-109579;Parent=TCONS_00025885;exon_number=1;gene_id=XLOC_009154;transcript_id=TCONS_00025885
 scaffold_10	StringTie	exon	19742330	19742502	.	+	.	ID=exon-109580;Parent=TCONS_00025885;exon_number=2;gene_id=XLOC_009154;transcript_id=TCONS_00025885
@@ -10887,7 +10887,7 @@ scaffold_10	StringTie	gene	19708425	19781779	.	+	.	ID=XLOC_009155;gene_id=XLOC_0
 scaffold_10	StringTie	transcript	19708425	19781779	.	+	.	ID=TCONS_00025886;Parent=XLOC_009155;gene_id=XLOC_009155;oId=TCONS_00025886;transcript_id=TCONS_00025886;tss_id=TSS20680
 scaffold_10	StringTie	exon	19708425	19708716	.	+	.	ID=exon-109587;Parent=TCONS_00025886;exon_number=1;gene_id=XLOC_009155;transcript_id=TCONS_00025886
 scaffold_10	StringTie	exon	19781555	19781779	.	+	.	ID=exon-109588;Parent=TCONS_00025886;exon_number=2;gene_id=XLOC_009155;transcript_id=TCONS_00025886
-scaffold_10	StringTie	gene	19765598	19793102	.	+	.	ID=XLOC_009156;gene_id=XLOC_009156;oId=TCONS_00025890;transcript_id=TCONS_00025890;tss_id=TSS20681
+scaffold_10	StringTie	gene	19765598	19793102	.	+	.	ID=XLOC_009156;gene_id=XLOC_009156;oId=TCONS_00025890;transcript_id=TCONS_00025890;tss_id=TSS20681;name=Pitx-3;description=PRD-class pituitary homeodomain homeobox 3;annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_10	StringTie	transcript	19765598	19793102	.	+	.	ID=TCONS_00025890;Parent=XLOC_009156;gene_id=XLOC_009156;oId=TCONS_00025890;transcript_id=TCONS_00025890;tss_id=TSS20681
 scaffold_10	StringTie	exon	19765598	19766229	.	+	.	ID=exon-109589;Parent=TCONS_00025890;exon_number=1;gene_id=XLOC_009156;transcript_id=TCONS_00025890
 scaffold_10	StringTie	exon	19769764	19769981	.	+	.	ID=exon-109590;Parent=TCONS_00025890;exon_number=2;gene_id=XLOC_009156;transcript_id=TCONS_00025890
@@ -10920,7 +10920,7 @@ scaffold_10	StringTie	gene	19872871	19971884	.	+	.	ID=XLOC_009158;gene_id=XLOC_0
 scaffold_10	StringTie	transcript	19872871	19971884	.	+	.	ID=TCONS_00025895;Parent=XLOC_009158;gene_id=XLOC_009158;oId=TCONS_00025895;transcript_id=TCONS_00025895;tss_id=TSS20685
 scaffold_10	StringTie	exon	19872871	19873095	.	+	.	ID=exon-109598;Parent=TCONS_00025895;exon_number=1;gene_id=XLOC_009158;transcript_id=TCONS_00025895
 scaffold_10	StringTie	exon	19971381	19971884	.	+	.	ID=exon-109599;Parent=TCONS_00025895;exon_number=2;gene_id=XLOC_009158;transcript_id=TCONS_00025895
-scaffold_10	StringTie	gene	19913134	19938862	.	-	.	ID=XLOC_009843;gene_id=XLOC_009843;oId=TCONS_00028153;transcript_id=TCONS_00028153;tss_id=TSS22415
+scaffold_10	StringTie	gene	19913134	19938862	.	-	.	ID=XLOC_009843;gene_id=XLOC_009843;oId=TCONS_00028153;transcript_id=TCONS_00028153;tss_id=TSS22415;name=Pitx-4;description=PRD-class pituitary homeodomain homeobox 4;annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_10	StringTie	transcript	19913134	19938862	.	-	.	ID=TCONS_00028153;Parent=XLOC_009843;gene_id=XLOC_009843;oId=TCONS_00028153;transcript_id=TCONS_00028153;tss_id=TSS22415
 scaffold_10	StringTie	exon	19913134	19914645	.	-	.	ID=exon-119441;Parent=TCONS_00028153;exon_number=1;gene_id=XLOC_009843;transcript_id=TCONS_00028153
 scaffold_10	StringTie	exon	19936665	19936897	.	-	.	ID=exon-119442;Parent=TCONS_00028153;exon_number=2;gene_id=XLOC_009843;transcript_id=TCONS_00028153

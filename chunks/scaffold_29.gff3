@@ -2822,7 +2822,7 @@ scaffold_29	StringTie	exon	4020286	4020741	.	+	.	ID=exon-359518;Parent=TCONS_000
 scaffold_29	StringTie	gene	3966288	3966754	.	+	.	ID=XLOC_038912;gene_id=XLOC_038912;oId=TCONS_00094168;transcript_id=TCONS_00094168;tss_id=TSS76227
 scaffold_29	StringTie	transcript	3966288	3966754	.	+	.	ID=TCONS_00094168;Parent=XLOC_038912;gene_id=XLOC_038912;oId=TCONS_00094168;transcript_id=TCONS_00094168;tss_id=TSS76227
 scaffold_29	StringTie	exon	3966288	3966754	.	+	.	ID=exon-361519;Parent=TCONS_00094168;exon_number=1;gene_id=XLOC_038912;transcript_id=TCONS_00094168
-scaffold_29	StringTie	gene	3979588	3998794	.	+	.	ID=XLOC_038701;gene_id=XLOC_038701;oId=TCONS_00093659;transcript_id=TCONS_00093659;tss_id=TSS75808
+scaffold_29	StringTie	gene	3979588	3998794	.	+	.	ID=XLOC_038701;gene_id=XLOC_038701;oId=TCONS_00093659;transcript_id=TCONS_00093659;tss_id=TSS75808;name=Cdx;description=ANTP-class cdx parahox homeobox (caudal);annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_29	StringTie	transcript	3979588	3998794	.	+	.	ID=TCONS_00093659;Parent=XLOC_038701;gene_id=XLOC_038701;oId=TCONS_00093659;transcript_id=TCONS_00093659;tss_id=TSS75808
 scaffold_29	StringTie	exon	3979588	3979629	.	+	.	ID=exon-359519;Parent=TCONS_00093659;exon_number=1;gene_id=XLOC_038701;transcript_id=TCONS_00093659
 scaffold_29	StringTie	exon	3986682	3987225	.	+	.	ID=exon-359520;Parent=TCONS_00093659;exon_number=2;gene_id=XLOC_038701;transcript_id=TCONS_00093659

@@ -6308,7 +6308,7 @@ scaffold_121	StringTie	exon	674503	677614	.	-	.	ID=exon-187092;Parent=TCONS_0004
 scaffold_121	StringTie	transcript	674550	677624	.	-	.	ID=TCONS_00045184;Parent=XLOC_016728;gene_id=XLOC_016728;oId=TCONS_00045184;transcript_id=TCONS_00045184;tss_id=TSS36229
 scaffold_121	StringTie	exon	674550	676653	.	-	.	ID=exon-187093;Parent=TCONS_00045184;exon_number=1;gene_id=XLOC_016728;transcript_id=TCONS_00045184
 scaffold_121	StringTie	exon	677463	677624	.	-	.	ID=exon-187094;Parent=TCONS_00045184;exon_number=2;gene_id=XLOC_016728;transcript_id=TCONS_00045184
-scaffold_121	StringTie	gene	685100	734276	.	+	.	ID=XLOC_016706;gene_id=XLOC_016706;oId=TCONS_00045077;transcript_id=TCONS_00045077;tss_id=TSS36144
+scaffold_121	StringTie	gene	685100	734276	.	+	.	ID=XLOC_016706;gene_id=XLOC_016706;oId=TCONS_00045077;transcript_id=TCONS_00045077;tss_id=TSS36144;name=Cers-4;description=CERS-class ceraminde synthase homeobox 4 (longevity assurance gene 1);annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_121	StringTie	transcript	685100	685317	.	+	.	ID=TCONS_00045077;Parent=XLOC_016706;gene_id=XLOC_016706;oId=TCONS_00045077;transcript_id=TCONS_00045077;tss_id=TSS36144
 scaffold_121	StringTie	exon	685100	685317	.	+	.	ID=exon-186404;Parent=TCONS_00045077;exon_number=1;gene_id=XLOC_016706;transcript_id=TCONS_00045077
 scaffold_121	StringTie	transcript	685105	734276	.	+	.	ID=TCONS_00045078;Parent=XLOC_016706;gene_id=XLOC_016706;oId=TCONS_00045078;transcript_id=TCONS_00045078;tss_id=TSS36144
@@ -7814,7 +7814,7 @@ scaffold_126	StringTie	gene	484507	485303	.	+	.	ID=XLOC_016862;gene_id=XLOC_0168
 scaffold_126	StringTie	transcript	484507	485303	.	+	.	ID=TCONS_00045427;Parent=XLOC_016862;gene_id=XLOC_016862;oId=TCONS_00045427;transcript_id=TCONS_00045427;tss_id=TSS36433
 scaffold_126	StringTie	exon	484507	484910	.	+	.	ID=exon-187799;Parent=TCONS_00045427;exon_number=1;gene_id=XLOC_016862;transcript_id=TCONS_00045427
 scaffold_126	StringTie	exon	485050	485303	.	+	.	ID=exon-187800;Parent=TCONS_00045427;exon_number=2;gene_id=XLOC_016862;transcript_id=TCONS_00045427
-scaffold_126	StringTie	gene	506324	518804	.	-	.	ID=XLOC_016874;gene_id=XLOC_016874;oId=TCONS_00045450;transcript_id=TCONS_00045450;tss_id=TSS36453
+scaffold_126	StringTie	gene	506324	518804	.	-	.	ID=XLOC_016874;gene_id=XLOC_016874;oId=TCONS_00045450;transcript_id=TCONS_00045450;tss_id=TSS36453;name=TALE-2a;description=TALE-class unknown homeobox 2a;annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_126	StringTie	transcript	506324	518763	.	-	.	ID=TCONS_00045450;Parent=XLOC_016874;gene_id=XLOC_016874;oId=TCONS_00045450;transcript_id=TCONS_00045450;tss_id=TSS36453
 scaffold_126	StringTie	exon	506324	510025	.	-	.	ID=exon-187859;Parent=TCONS_00045450;exon_number=1;gene_id=XLOC_016874;transcript_id=TCONS_00045450
 scaffold_126	StringTie	exon	518455	518763	.	-	.	ID=exon-187860;Parent=TCONS_00045450;exon_number=2;gene_id=XLOC_016874;transcript_id=TCONS_00045450

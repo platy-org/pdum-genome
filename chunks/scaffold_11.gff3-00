@@ -1096,7 +1096,7 @@ scaffold_11	StringTie	exon	1499583	1500896	.	+	.	ID=exon-164417;Parent=TCONS_000
 scaffold_11	StringTie	gene	1525370	1527639	.	+	.	ID=XLOC_013455;gene_id=XLOC_013455;oId=TCONS_00038621;transcript_id=TCONS_00038621;tss_id=TSS30736
 scaffold_11	StringTie	transcript	1525370	1527639	.	+	.	ID=TCONS_00038621;Parent=XLOC_013455;gene_id=XLOC_013455;oId=TCONS_00038621;transcript_id=TCONS_00038621;tss_id=TSS30736
 scaffold_11	StringTie	exon	1525370	1527639	.	+	.	ID=exon-164418;Parent=TCONS_00038621;exon_number=1;gene_id=XLOC_013455;transcript_id=TCONS_00038621
-scaffold_11	StringTie	gene	1532525	1606533	.	-	.	ID=XLOC_012610;gene_id=XLOC_012610;oId=TCONS_00035728;transcript_id=TCONS_00035728;tss_id=TSS28491
+scaffold_11	StringTie	gene	1532525	1606533	.	-	.	ID=XLOC_012610;gene_id=XLOC_012610;oId=TCONS_00035728;transcript_id=TCONS_00035728;tss_id=TSS28491;name=Six1/2;description=SINE-class six1/2 homeobox (sine oculis);annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_11	StringTie	transcript	1532525	1533646	.	-	.	ID=TCONS_00035728;Parent=XLOC_012610;gene_id=XLOC_012610;oId=TCONS_00035728;transcript_id=TCONS_00035728;tss_id=TSS28491
 scaffold_11	StringTie	exon	1532525	1533646	.	-	.	ID=exon-150586;Parent=TCONS_00035728;exon_number=1;gene_id=XLOC_012610;transcript_id=TCONS_00035728
 scaffold_11	StringTie	transcript	1532528	1563790	.	-	.	ID=TCONS_00035729;Parent=XLOC_012610;gene_id=XLOC_012610;oId=TCONS_00035729;transcript_id=TCONS_00035729;tss_id=TSS28492

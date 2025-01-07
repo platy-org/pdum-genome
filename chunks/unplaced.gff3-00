@@ -9074,7 +9074,7 @@ scaffold_34	StringTie	transcript	870939	871139	.	-	.	ID=TCONS_00107590;Parent=XL
 scaffold_34	StringTie	exon	870939	871139	.	-	.	ID=exon-411376;Parent=TCONS_00107590;exon_number=1;gene_id=XLOC_044658;transcript_id=TCONS_00107590
 scaffold_34	StringTie	transcript	877025	877278	.	-	.	ID=TCONS_00107591;Parent=XLOC_044658;gene_id=XLOC_044658;oId=TCONS_00107591;transcript_id=TCONS_00107591;tss_id=TSS87087
 scaffold_34	StringTie	exon	877025	877278	.	-	.	ID=exon-411377;Parent=TCONS_00107591;exon_number=1;gene_id=XLOC_044658;transcript_id=TCONS_00107591
-scaffold_34	StringTie	gene	904219	936862	.	-	.	ID=XLOC_044659;gene_id=XLOC_044659;oId=TCONS_00107592;transcript_id=TCONS_00107592;tss_id=TSS87088
+scaffold_34	StringTie	gene	904219	936862	.	-	.	ID=XLOC_044659;gene_id=XLOC_044659;oId=TCONS_00107592;transcript_id=TCONS_00107592;tss_id=TSS87088;name=Arx-2;description=PRD-class aristaless related homeobox 2 (aristaless/pvull pstl homology 13);annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_34	StringTie	transcript	904219	936862	.	-	.	ID=TCONS_00107592;Parent=XLOC_044659;gene_id=XLOC_044659;oId=TCONS_00107592;transcript_id=TCONS_00107592;tss_id=TSS87088
 scaffold_34	StringTie	exon	904219	905613	.	-	.	ID=exon-411378;Parent=TCONS_00107592;exon_number=1;gene_id=XLOC_044659;transcript_id=TCONS_00107592
 scaffold_34	StringTie	exon	909130	909175	.	-	.	ID=exon-411379;Parent=TCONS_00107592;exon_number=2;gene_id=XLOC_044659;transcript_id=TCONS_00107592

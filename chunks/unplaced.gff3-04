@@ -738,7 +738,7 @@ scaffold_63	StringTie	gene	1437485	1460974	.	+	.	ID=XLOC_058221;gene_id=XLOC_058
 scaffold_63	StringTie	transcript	1437485	1460974	.	+	.	ID=TCONS_00138752;Parent=XLOC_058221;gene_id=XLOC_058221;oId=TCONS_00138752;transcript_id=TCONS_00138752;tss_id=TSS112151
 scaffold_63	StringTie	exon	1437485	1437506	.	+	.	ID=exon-523635;Parent=TCONS_00138752;exon_number=1;gene_id=XLOC_058221;transcript_id=TCONS_00138752
 scaffold_63	StringTie	exon	1458650	1460974	.	+	.	ID=exon-523636;Parent=TCONS_00138752;exon_number=2;gene_id=XLOC_058221;transcript_id=TCONS_00138752
-scaffold_63	StringTie	gene	1467945	1485539	.	+	.	ID=XLOC_058222;gene_id=XLOC_058222;oId=TCONS_00138753;transcript_id=TCONS_00138753;tss_id=TSS112152
+scaffold_63	StringTie	gene	1467945	1485539	.	+	.	ID=XLOC_058222;gene_id=XLOC_058222;oId=TCONS_00138753;transcript_id=TCONS_00138753;tss_id=TSS112152;name=Msxlx;description=ANTP-class msx-like homeobox;annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_63	StringTie	transcript	1467945	1473237	.	+	.	ID=TCONS_00138753;Parent=XLOC_058222;gene_id=XLOC_058222;oId=TCONS_00138753;transcript_id=TCONS_00138753;tss_id=TSS112152
 scaffold_63	StringTie	exon	1467945	1468777	.	+	.	ID=exon-523637;Parent=TCONS_00138753;exon_number=1;gene_id=XLOC_058222;transcript_id=TCONS_00138753
 scaffold_63	StringTie	exon	1470585	1473237	.	+	.	ID=exon-523638;Parent=TCONS_00138753;exon_number=2;gene_id=XLOC_058222;transcript_id=TCONS_00138753
@@ -756,7 +756,7 @@ scaffold_63	StringTie	exon	1483614	1485445	.	+	.	ID=exon-523646;Parent=TCONS_001
 scaffold_63	StringTie	gene	1562770	1563023	.	+	.	ID=XLOC_058296;gene_id=XLOC_058296;oId=TCONS_00138935;transcript_id=TCONS_00138935;tss_id=TSS112302
 scaffold_63	StringTie	transcript	1562770	1563023	.	+	.	ID=TCONS_00138935;Parent=XLOC_058296;gene_id=XLOC_058296;oId=TCONS_00138935;transcript_id=TCONS_00138935;tss_id=TSS112302
 scaffold_63	StringTie	exon	1562770	1563023	.	+	.	ID=exon-524353;Parent=TCONS_00138935;exon_number=1;gene_id=XLOC_058296;transcript_id=TCONS_00138935
-scaffold_63	StringTie	gene	1590048	1621796	.	+	.	ID=XLOC_058223;gene_id=XLOC_058223;oId=TCONS_00138757;transcript_id=TCONS_00138757;tss_id=TSS112154
+scaffold_63	StringTie	gene	1590048	1621796	.	+	.	ID=XLOC_058223;gene_id=XLOC_058223;oId=TCONS_00138757;transcript_id=TCONS_00138757;tss_id=TSS112154;name=NK2.2;description=ANTP-class NK2.2 homeobox (ventral nervous sytem defective);annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_63	StringTie	transcript	1590048	1621688	.	+	.	ID=TCONS_00138757;Parent=XLOC_058223;gene_id=XLOC_058223;oId=TCONS_00138757;transcript_id=TCONS_00138757;tss_id=TSS112154
 scaffold_63	StringTie	exon	1590048	1591225	.	+	.	ID=exon-523647;Parent=TCONS_00138757;exon_number=1;gene_id=XLOC_058223;transcript_id=TCONS_00138757
 scaffold_63	StringTie	exon	1605011	1605263	.	+	.	ID=exon-523648;Parent=TCONS_00138757;exon_number=2;gene_id=XLOC_058223;transcript_id=TCONS_00138757

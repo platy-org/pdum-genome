@@ -2529,7 +2529,7 @@ scaffold_9	StringTie	exon	51753994	51754187	.	+	.	ID=exon-610077;Parent=TCONS_00
 scaffold_9	StringTie	exon	51761779	51764197	.	+	.	ID=exon-610078;Parent=TCONS_00161424;exon_number=2;gene_id=XLOC_067278;transcript_id=TCONS_00161424
 scaffold_9	StringTie	transcript	51761777	51764639	.	+	.	ID=TCONS_00161425;Parent=XLOC_067278;gene_id=XLOC_067278;oId=TCONS_00161425;transcript_id=TCONS_00161425;tss_id=TSS130208
 scaffold_9	StringTie	exon	51761777	51764639	.	+	.	ID=exon-610079;Parent=TCONS_00161425;exon_number=1;gene_id=XLOC_067278;transcript_id=TCONS_00161425
-scaffold_9	StringTie	gene	51771024	51867773	.	-	.	ID=XLOC_068100;gene_id=XLOC_068100;oId=TCONS_00163920;transcript_id=TCONS_00163920;tss_id=TSS132092
+scaffold_9	StringTie	gene	51771024	51867773	.	-	.	ID=XLOC_068100;gene_id=XLOC_068100;oId=TCONS_00163920;transcript_id=TCONS_00163920;tss_id=TSS132092;name=Cmp;description=CUT-class compass homeobox (defective proventriculus);annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_9	StringTie	transcript	51771024	51790634	.	-	.	ID=TCONS_00163920;Parent=XLOC_068100;gene_id=XLOC_068100;oId=TCONS_00163920;transcript_id=TCONS_00163920;tss_id=TSS132092
 scaffold_9	StringTie	exon	51771024	51774978	.	-	.	ID=exon-620786;Parent=TCONS_00163920;exon_number=1;gene_id=XLOC_068100;transcript_id=TCONS_00163920
 scaffold_9	StringTie	exon	51775474	51775579	.	-	.	ID=exon-620787;Parent=TCONS_00163920;exon_number=2;gene_id=XLOC_068100;transcript_id=TCONS_00163920

@@ -5382,7 +5382,7 @@ scaffold_5	StringTie	gene	37081388	37082077	.	-	.	ID=XLOC_052203;gene_id=XLOC_05
 scaffold_5	StringTie	transcript	37081388	37082077	.	-	.	ID=TCONS_00125732;Parent=XLOC_052203;gene_id=XLOC_052203;oId=TCONS_00125731;transcript_id=TCONS_00125732;tss_id=TSS101565
 scaffold_5	StringTie	exon	37081388	37081736	.	-	.	ID=exon-478093;Parent=TCONS_00125732;exon_number=1;gene_id=XLOC_052203;transcript_id=TCONS_00125732
 scaffold_5	StringTie	exon	37081834	37082077	.	-	.	ID=exon-478094;Parent=TCONS_00125732;exon_number=2;gene_id=XLOC_052203;transcript_id=TCONS_00125732
-scaffold_5	StringTie	gene	37095937	37098904	.	+	.	ID=XLOC_051167;gene_id=XLOC_051167;oId=TCONS_00122672;transcript_id=TCONS_00122672;tss_id=TSS99176
+scaffold_5	StringTie	gene	37095937	37098904	.	+	.	ID=XLOC_051167;gene_id=XLOC_051167;oId=TCONS_00122672;transcript_id=TCONS_00122672;tss_id=TSS99176;name=PRD-V-1;description=PRD-class V homeobox 1;annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_5	StringTie	transcript	37095937	37098904	.	+	.	ID=TCONS_00122672;Parent=XLOC_051167;gene_id=XLOC_051167;oId=TCONS_00122672;transcript_id=TCONS_00122672;tss_id=TSS99176
 scaffold_5	StringTie	exon	37095937	37096109	.	+	.	ID=exon-465502;Parent=TCONS_00122672;exon_number=1;gene_id=XLOC_051167;transcript_id=TCONS_00122672
 scaffold_5	StringTie	exon	37097629	37097719	.	+	.	ID=exon-465503;Parent=TCONS_00122672;exon_number=2;gene_id=XLOC_051167;transcript_id=TCONS_00122672
@@ -5419,7 +5419,7 @@ scaffold_5	StringTie	exon	37103450	37103546	.	-	.	ID=exon-478116;Parent=TCONS_00
 scaffold_5	StringTie	exon	37108378	37109306	.	-	.	ID=exon-478117;Parent=TCONS_00125736;exon_number=9;gene_id=XLOC_052204;transcript_id=TCONS_00125736
 scaffold_5	StringTie	transcript	37108374	37109306	.	-	.	ID=TCONS_00125737;Parent=XLOC_052204;gene_id=XLOC_052204;oId=TCONS_00125736;transcript_id=TCONS_00125737;tss_id=TSS101566
 scaffold_5	StringTie	exon	37108374	37109306	.	-	.	ID=exon-478118;Parent=TCONS_00125737;exon_number=1;gene_id=XLOC_052204;transcript_id=TCONS_00125737
-scaffold_5	StringTie	gene	37129521	37153855	.	-	.	ID=XLOC_052205;gene_id=XLOC_052205;oId=TCONS_00125738;transcript_id=TCONS_00125739;tss_id=TSS101569
+scaffold_5	StringTie	gene	37129521	37153855	.	-	.	ID=XLOC_052205;gene_id=XLOC_052205;oId=TCONS_00125738;transcript_id=TCONS_00125739;tss_id=TSS101569;name=Tlx;description=ANTP-class T-cell leukemia homeobox (C15);annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_5	StringTie	transcript	37129521	37153855	.	-	.	ID=TCONS_00125738;Parent=XLOC_052205;gene_id=XLOC_052205;oId=TCONS_00125737;transcript_id=TCONS_00125738;tss_id=TSS101569
 scaffold_5	StringTie	exon	37129521	37131778	.	-	.	ID=exon-478123;Parent=TCONS_00125738;exon_number=1;gene_id=XLOC_052205;transcript_id=TCONS_00125738
 scaffold_5	StringTie	exon	37143629	37143845	.	-	.	ID=exon-478124;Parent=TCONS_00125738;exon_number=2;gene_id=XLOC_052205;transcript_id=TCONS_00125738

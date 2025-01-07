@@ -1723,7 +1723,7 @@ scaffold_11	StringTie	exon	16581897	16582763	.	+	.	ID=exon-138598;Parent=TCONS_0
 scaffold_11	StringTie	exon	16582840	16583875	.	+	.	ID=exon-138599;Parent=TCONS_00033188;exon_number=2;gene_id=XLOC_011955;transcript_id=TCONS_00033188
 scaffold_11	StringTie	exon	16584090	16584286	.	+	.	ID=exon-138600;Parent=TCONS_00033188;exon_number=3;gene_id=XLOC_011955;transcript_id=TCONS_00033188
 scaffold_11	StringTie	exon	16584765	16585098	.	+	.	ID=exon-138601;Parent=TCONS_00033188;exon_number=4;gene_id=XLOC_011955;transcript_id=TCONS_00033188
-scaffold_11	StringTie	gene	16585155	16603099	.	-	.	ID=XLOC_012864;gene_id=XLOC_012864;oId=TCONS_00036665;transcript_id=TCONS_00036665;tss_id=TSS29219
+scaffold_11	StringTie	gene	16585155	16603099	.	-	.	ID=XLOC_012864;gene_id=XLOC_012864;oId=TCONS_00036665;transcript_id=TCONS_00036665;tss_id=TSS29219;name=Hlx;description=ANTP-class H2.0 like homeobox (homeodomain protein 2.0);annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_11	StringTie	transcript	16585155	16603099	.	-	.	ID=TCONS_00036665;Parent=XLOC_012864;gene_id=XLOC_012864;oId=TCONS_00036665;transcript_id=TCONS_00036665;tss_id=TSS29219
 scaffold_11	StringTie	exon	16585155	16585807	.	-	.	ID=exon-154833;Parent=TCONS_00036665;exon_number=1;gene_id=XLOC_012864;transcript_id=TCONS_00036665
 scaffold_11	StringTie	exon	16590319	16590554	.	-	.	ID=exon-154834;Parent=TCONS_00036665;exon_number=2;gene_id=XLOC_012864;transcript_id=TCONS_00036665
@@ -11211,7 +11211,7 @@ scaffold_11	StringTie	gene	30338701	30404456	.	-	.	ID=XLOC_013063;gene_id=XLOC_0
 scaffold_11	StringTie	transcript	30338701	30404456	.	-	.	ID=TCONS_00037345;Parent=XLOC_013063;gene_id=XLOC_013063;oId=TCONS_00037345;transcript_id=TCONS_00037345;tss_id=TSS29761
 scaffold_11	StringTie	exon	30338701	30338922	.	-	.	ID=exon-158141;Parent=TCONS_00037345;exon_number=1;gene_id=XLOC_013063;transcript_id=TCONS_00037345
 scaffold_11	StringTie	exon	30398186	30404456	.	-	.	ID=exon-158142;Parent=TCONS_00037345;exon_number=2;gene_id=XLOC_013063;transcript_id=TCONS_00037345
-scaffold_11	StringTie	gene	30341319	30345605	.	+	.	ID=XLOC_012179;gene_id=XLOC_012179;oId=TCONS_00034015;transcript_id=TCONS_00034015;tss_id=TSS27167
+scaffold_11	StringTie	gene	30341319	30345605	.	+	.	ID=XLOC_012179;gene_id=XLOC_012179;oId=TCONS_00034015;transcript_id=TCONS_00034015;tss_id=TSS27167;name=ANTP-2;description=ANTP-class unknown homeobox 2;annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_11	StringTie	transcript	30341319	30345605	.	+	.	ID=TCONS_00034014;Parent=XLOC_012179;gene_id=XLOC_012179;oId=TCONS_00034014;transcript_id=TCONS_00034014;tss_id=TSS27167
 scaffold_11	StringTie	exon	30341319	30341405	.	+	.	ID=exon-142222;Parent=TCONS_00034014;exon_number=1;gene_id=XLOC_012179;transcript_id=TCONS_00034014
 scaffold_11	StringTie	exon	30342321	30343072	.	+	.	ID=exon-142223;Parent=TCONS_00034014;exon_number=2;gene_id=XLOC_012179;transcript_id=TCONS_00034014

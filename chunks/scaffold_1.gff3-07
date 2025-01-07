@@ -4977,7 +4977,7 @@ scaffold_1	StringTie	transcript	141145845	141150171	.	+	.	ID=TCONS_00024106;Pare
 scaffold_1	StringTie	exon	141145845	141150171	.	+	.	ID=exon-104977;Parent=TCONS_00024106;exon_number=1;gene_id=XLOC_008043;transcript_id=TCONS_00024106
 scaffold_1	StringTie	transcript	141149970	141150179	.	+	.	ID=TCONS_00024107;Parent=XLOC_008043;contained_in=TCONS_00024106;gene_id=XLOC_008043;oId=TCONS_00024107;transcript_id=TCONS_00024107;tss_id=TSS19135
 scaffold_1	StringTie	exon	141149970	141150179	.	+	.	ID=exon-104978;Parent=TCONS_00024107;exon_number=1;gene_id=XLOC_008043;transcript_id=TCONS_00024107
-scaffold_1	StringTie	gene	141150485	141182022	.	+	.	ID=XLOC_002124;gene_id=XLOC_002124;oId=TCONS_00008123;transcript_id=TCONS_00008123;tss_id=TSS6355
+scaffold_1	StringTie	gene	141150485	141182022	.	+	.	ID=XLOC_002124;gene_id=XLOC_002124;oId=TCONS_00008123;transcript_id=TCONS_00008123;tss_id=TSS6355;name=Pou6;description=POU-class 6 homeobox (POU domain motif 3);annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_1	StringTie	transcript	141150485	141182022	.	+	.	ID=TCONS_00008121;Parent=XLOC_002124;gene_id=XLOC_002124;oId=TCONS_00008121;transcript_id=TCONS_00008121;tss_id=TSS6355
 scaffold_1	StringTie	exon	141150485	141150839	.	+	.	ID=exon-36450;Parent=TCONS_00008121;exon_number=1;gene_id=XLOC_002124;transcript_id=TCONS_00008121
 scaffold_1	StringTie	exon	141163180	141163309	.	+	.	ID=exon-36451;Parent=TCONS_00008121;exon_number=2;gene_id=XLOC_002124;transcript_id=TCONS_00008121

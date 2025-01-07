@@ -337,7 +337,7 @@ scaffold_36	StringTie	exon	769215	769416	.	-	.	ID=exon-413932;Parent=TCONS_00108
 scaffold_36	StringTie	gene	768673	769008	.	+	.	ID=XLOC_045046;gene_id=XLOC_045046;oId=TCONS_00108391;transcript_id=TCONS_00108391;tss_id=TSS87752
 scaffold_36	StringTie	transcript	768673	769008	.	+	.	ID=TCONS_00108391;Parent=XLOC_045046;gene_id=XLOC_045046;oId=TCONS_00108391;transcript_id=TCONS_00108391;tss_id=TSS87752
 scaffold_36	StringTie	exon	768673	769008	.	+	.	ID=exon-414339;Parent=TCONS_00108391;exon_number=1;gene_id=XLOC_045046;transcript_id=TCONS_00108391
-scaffold_36	StringTie	gene	772754	788048	.	-	.	ID=XLOC_044998;gene_id=XLOC_044998;oId=TCONS_00108256;transcript_id=TCONS_00108256;tss_id=TSS87638
+scaffold_36	StringTie	gene	772754	788048	.	-	.	ID=XLOC_044998;gene_id=XLOC_044998;oId=TCONS_00108256;transcript_id=TCONS_00108256;tss_id=TSS87638;name=TALE-I;description=TALE-class I homeobox;annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_36	StringTie	transcript	772754	788048	.	-	.	ID=TCONS_00108256;Parent=XLOC_044998;gene_id=XLOC_044998;oId=TCONS_00108256;transcript_id=TCONS_00108256;tss_id=TSS87638
 scaffold_36	StringTie	exon	772754	776785	.	-	.	ID=exon-413933;Parent=TCONS_00108256;exon_number=1;gene_id=XLOC_044998;transcript_id=TCONS_00108256
 scaffold_36	StringTie	exon	777563	777618	.	-	.	ID=exon-413934;Parent=TCONS_00108256;exon_number=2;gene_id=XLOC_044998;transcript_id=TCONS_00108256
@@ -557,7 +557,7 @@ scaffold_36	StringTie	transcript	884509	884711	.	-	.	ID=TCONS_00108296;Parent=XL
 scaffold_36	StringTie	exon	884509	884711	.	-	.	ID=exon-414097;Parent=TCONS_00108296;exon_number=1;gene_id=XLOC_045003;transcript_id=TCONS_00108296
 scaffold_36	StringTie	transcript	885056	885354	.	-	.	ID=TCONS_00108297;Parent=XLOC_045003;gene_id=XLOC_045003;oId=TCONS_00108297;transcript_id=TCONS_00108297;tss_id=TSS87674
 scaffold_36	StringTie	exon	885056	885354	.	-	.	ID=exon-414098;Parent=TCONS_00108297;exon_number=1;gene_id=XLOC_045003;transcript_id=TCONS_00108297
-scaffold_36	StringTie	gene	886378	997824	.	-	.	ID=XLOC_045004;gene_id=XLOC_045004;oId=TCONS_00108298;transcript_id=TCONS_00108298;tss_id=TSS87675
+scaffold_36	StringTie	gene	886378	997824	.	-	.	ID=XLOC_045004;gene_id=XLOC_045004;oId=TCONS_00108298;transcript_id=TCONS_00108298;tss_id=TSS87675;name=Zeb;description=ZF-class zinc finger E-box binding homeobox;annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_36	StringTie	transcript	886378	997824	.	-	.	ID=TCONS_00108298;Parent=XLOC_045004;gene_id=XLOC_045004;oId=TCONS_00108298;transcript_id=TCONS_00108298;tss_id=TSS87675
 scaffold_36	StringTie	exon	886378	892494	.	-	.	ID=exon-414099;Parent=TCONS_00108298;exon_number=1;gene_id=XLOC_045004;transcript_id=TCONS_00108298
 scaffold_36	StringTie	exon	892920	893115	.	-	.	ID=exon-414100;Parent=TCONS_00108298;exon_number=2;gene_id=XLOC_045004;transcript_id=TCONS_00108298
@@ -1960,12 +1960,12 @@ scaffold_37	StringTie	transcript	767935	768189	.	+	.	ID=TCONS_00108486;Parent=XL
 scaffold_37	StringTie	exon	767935	768189	.	+	.	ID=exon-414550;Parent=TCONS_00108486;exon_number=1;gene_id=XLOC_045107;transcript_id=TCONS_00108486
 scaffold_37	StringTie	transcript	768725	769157	.	+	.	ID=TCONS_00108487;Parent=XLOC_045107;gene_id=XLOC_045107;oId=TCONS_00108487;transcript_id=TCONS_00108487;tss_id=TSS87839
 scaffold_37	StringTie	exon	768725	769157	.	+	.	ID=exon-414551;Parent=TCONS_00108487;exon_number=1;gene_id=XLOC_045107;transcript_id=TCONS_00108487
-scaffold_37	StringTie	gene	770638	786346	.	-	.	ID=XLOC_045162;gene_id=XLOC_045162;oId=TCONS_00108712;transcript_id=TCONS_00108712;tss_id=TSS88020
+scaffold_37	StringTie	gene	770638	786346	.	-	.	ID=XLOC_045162;gene_id=XLOC_045162;oId=TCONS_00108712;transcript_id=TCONS_00108712;tss_id=TSS88020;name=Xlox;description=ANTP-class xlox parahox homeobox (pancreatic duodenal homeobox);annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_37	StringTie	transcript	770638	786346	.	-	.	ID=TCONS_00108712;Parent=XLOC_045162;gene_id=XLOC_045162;oId=TCONS_00108712;transcript_id=TCONS_00108712;tss_id=TSS88020
 scaffold_37	StringTie	exon	770638	771285	.	-	.	ID=exon-415450;Parent=TCONS_00108712;exon_number=1;gene_id=XLOC_045162;transcript_id=TCONS_00108712
 scaffold_37	StringTie	exon	772365	773618	.	-	.	ID=exon-415451;Parent=TCONS_00108712;exon_number=2;gene_id=XLOC_045162;transcript_id=TCONS_00108712
 scaffold_37	StringTie	exon	785413	786346	.	-	.	ID=exon-415452;Parent=TCONS_00108712;exon_number=3;gene_id=XLOC_045162;transcript_id=TCONS_00108712
-scaffold_37	StringTie	gene	845108	848363	.	+	.	ID=XLOC_045108;gene_id=XLOC_045108;oId=TCONS_00108488;transcript_id=TCONS_00108488;tss_id=TSS87840
+scaffold_37	StringTie	gene	845108	848363	.	+	.	ID=XLOC_045108;gene_id=XLOC_045108;oId=TCONS_00108488;transcript_id=TCONS_00108488;tss_id=TSS87840;name=Gsx;description=ANTP-class genetic screen parahox homeobox (intermediate neuroblasts defective);annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_37	StringTie	transcript	845108	848363	.	+	.	ID=TCONS_00108488;Parent=XLOC_045108;gene_id=XLOC_045108;oId=TCONS_00108488;transcript_id=TCONS_00108488;tss_id=TSS87840
 scaffold_37	StringTie	exon	845108	845929	.	+	.	ID=exon-414552;Parent=TCONS_00108488;exon_number=1;gene_id=XLOC_045108;transcript_id=TCONS_00108488
 scaffold_37	StringTie	exon	846996	848363	.	+	.	ID=exon-414553;Parent=TCONS_00108488;exon_number=2;gene_id=XLOC_045108;transcript_id=TCONS_00108488
@@ -2924,7 +2924,7 @@ scaffold_37	StringTie	exon	2919314	2919948	.	-	.	ID=exon-415766;Parent=TCONS_001
 scaffold_37	StringTie	exon	2922590	2922608	.	-	.	ID=exon-415767;Parent=TCONS_00108790;exon_number=2;gene_id=XLOC_045193;transcript_id=TCONS_00108790
 scaffold_37	StringTie	exon	2923798	2924259	.	-	.	ID=exon-415768;Parent=TCONS_00108790;exon_number=3;gene_id=XLOC_045193;transcript_id=TCONS_00108790
 scaffold_37	StringTie	exon	2924784	2925421	.	-	.	ID=exon-415769;Parent=TCONS_00108790;exon_number=4;gene_id=XLOC_045193;transcript_id=TCONS_00108790
-scaffold_37	StringTie	gene	2987562	3005189	.	+	.	ID=XLOC_045132;gene_id=XLOC_045132;oId=TCONS_00108586;transcript_id=TCONS_00108586;tss_id=TSS87924
+scaffold_37	StringTie	gene	2987562	3005189	.	+	.	ID=XLOC_045132;gene_id=XLOC_045132;oId=TCONS_00108586;transcript_id=TCONS_00108586;tss_id=TSS87924;name=Dmbx;description=ANTP-class diencephalon/mesencephalon homeobox;annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_37	StringTie	transcript	2987562	2988272	.	+	.	ID=TCONS_00108586;Parent=XLOC_045132;gene_id=XLOC_045132;oId=TCONS_00108586;transcript_id=TCONS_00108586;tss_id=TSS87924
 scaffold_37	StringTie	exon	2987562	2988272	.	+	.	ID=exon-414879;Parent=TCONS_00108586;exon_number=1;gene_id=XLOC_045132;transcript_id=TCONS_00108586
 scaffold_37	StringTie	transcript	2987565	3005189	.	+	.	ID=TCONS_00108587;Parent=XLOC_045132;gene_id=XLOC_045132;oId=TCONS_00108587;transcript_id=TCONS_00108587;tss_id=TSS87924

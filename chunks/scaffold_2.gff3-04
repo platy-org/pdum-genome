@@ -12297,7 +12297,7 @@ scaffold_2	StringTie	exon	77893882	77895884	.	+	.	ID=exon-317111;Parent=TCONS_00
 scaffold_2	StringTie	gene	77916673	77917673	.	+	.	ID=XLOC_033333;gene_id=XLOC_033333;oId=TCONS_00081836;transcript_id=TCONS_00081836;tss_id=TSS66211
 scaffold_2	StringTie	transcript	77916673	77917673	.	+	.	ID=TCONS_00081836;Parent=XLOC_033333;gene_id=XLOC_033333;oId=TCONS_00081836;transcript_id=TCONS_00081836;tss_id=TSS66211
 scaffold_2	StringTie	exon	77916673	77917673	.	+	.	ID=exon-317112;Parent=TCONS_00081836;exon_number=1;gene_id=XLOC_033333;transcript_id=TCONS_00081836
-scaffold_2	StringTie	gene	77921473	77952881	.	-	.	ID=XLOC_027840;contained_in=TCONS_00074791;gene_id=XLOC_027840;oId=TCONS_00074790;transcript_id=TCONS_00074790;tss_id=TSS59618
+scaffold_2	StringTie	gene	77921473	77952881	.	-	.	ID=XLOC_027840;contained_in=TCONS_00074791;gene_id=XLOC_027840;oId=TCONS_00074790;transcript_id=TCONS_00074790;tss_id=TSS59618;name=Uncx-1;description=PRD-class unc homeobox 1 (unc-4/ods-site);annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_2	StringTie	transcript	77921473	77922776	.	-	.	ID=TCONS_00074790;Parent=XLOC_027840;contained_in=TCONS_00074791;gene_id=XLOC_027840;oId=TCONS_00074790;transcript_id=TCONS_00074790;tss_id=TSS59618
 scaffold_2	StringTie	exon	77921473	77922776	.	-	.	ID=exon-302283;Parent=TCONS_00074790;exon_number=1;gene_id=XLOC_027840;transcript_id=TCONS_00074790
 scaffold_2	StringTie	transcript	77921473	77952854	.	-	.	ID=TCONS_00074791;Parent=XLOC_027840;gene_id=XLOC_027840;oId=TCONS_00074791;transcript_id=TCONS_00074791;tss_id=TSS59619

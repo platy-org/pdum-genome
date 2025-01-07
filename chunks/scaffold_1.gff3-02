@@ -4212,7 +4212,7 @@ scaffold_1	StringTie	gene	48846368	48849475	.	-	.	ID=XLOC_003648;gene_id=XLOC_00
 scaffold_1	StringTie	transcript	48846368	48849475	.	-	.	ID=TCONS_00013744;Parent=XLOC_003648;gene_id=XLOC_003648;oId=TCONS_00013744;transcript_id=TCONS_00013744;tss_id=TSS10671
 scaffold_1	StringTie	exon	48846368	48847978	.	-	.	ID=exon-63082;Parent=TCONS_00013744;exon_number=1;gene_id=XLOC_003648;transcript_id=TCONS_00013744
 scaffold_1	StringTie	exon	48848341	48849475	.	-	.	ID=exon-63083;Parent=TCONS_00013744;exon_number=2;gene_id=XLOC_003648;transcript_id=TCONS_00013744
-scaffold_1	StringTie	gene	48877605	48924067	.	-	.	ID=XLOC_003649;gene_id=XLOC_003649;oId=TCONS_00013746;transcript_id=TCONS_00013746;tss_id=TSS10672
+scaffold_1	StringTie	gene	48877605	48924067	.	-	.	ID=XLOC_003649;gene_id=XLOC_003649;oId=TCONS_00013746;transcript_id=TCONS_00013746;tss_id=TSS10672;name=Rax;description=PRD-class retina and anterior neural fold homeobox (retinal homeobox);annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_1	StringTie	transcript	48877605	48878706	.	-	.	ID=TCONS_00013746;Parent=XLOC_003649;gene_id=XLOC_003649;oId=TCONS_00013746;transcript_id=TCONS_00013746;tss_id=TSS10672
 scaffold_1	StringTie	exon	48877605	48878706	.	-	.	ID=exon-63084;Parent=TCONS_00013746;exon_number=1;gene_id=XLOC_003649;transcript_id=TCONS_00013746
 scaffold_1	StringTie	transcript	48877605	48924065	.	-	.	ID=TCONS_00013747;Parent=XLOC_003649;gene_id=XLOC_003649;oId=TCONS_00013747;transcript_id=TCONS_00013747;tss_id=TSS10673
@@ -4249,7 +4249,7 @@ scaffold_1	StringTie	exon	48920466	48920961	.	+	.	ID=exon-103490;Parent=TCONS_00
 scaffold_1	StringTie	gene	48935878	48936876	.	+	.	ID=XLOC_006603;gene_id=XLOC_006603;oId=TCONS_00022620;transcript_id=TCONS_00022620;tss_id=TSS17655
 scaffold_1	StringTie	transcript	48935878	48936876	.	+	.	ID=TCONS_00022620;Parent=XLOC_006603;gene_id=XLOC_006603;oId=TCONS_00022620;transcript_id=TCONS_00022620;tss_id=TSS17655
 scaffold_1	StringTie	exon	48935878	48936876	.	+	.	ID=exon-103491;Parent=TCONS_00022620;exon_number=1;gene_id=XLOC_006603;transcript_id=TCONS_00022620
-scaffold_1	StringTie	gene	48951536	48967037	.	-	.	ID=XLOC_003650;gene_id=XLOC_003650;oId=TCONS_00013750;transcript_id=TCONS_00013750;tss_id=TSS10675
+scaffold_1	StringTie	gene	48951536	48967037	.	-	.	ID=XLOC_003650;gene_id=XLOC_003650;oId=TCONS_00013750;transcript_id=TCONS_00013750;tss_id=TSS10675;name=Hbn;description=PRD-class homeobrain homeobox;annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_1	StringTie	transcript	48951536	48967037	.	-	.	ID=TCONS_00013750;Parent=XLOC_003650;gene_id=XLOC_003650;oId=TCONS_00013750;transcript_id=TCONS_00013750;tss_id=TSS10675
 scaffold_1	StringTie	exon	48951536	48953240	.	-	.	ID=exon-63090;Parent=TCONS_00013750;exon_number=1;gene_id=XLOC_003650;transcript_id=TCONS_00013750
 scaffold_1	StringTie	exon	48963747	48964084	.	-	.	ID=exon-63091;Parent=TCONS_00013750;exon_number=2;gene_id=XLOC_003650;transcript_id=TCONS_00013750

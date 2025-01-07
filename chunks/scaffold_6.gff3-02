@@ -5502,7 +5502,7 @@ scaffold_6	StringTie	exon	55353210	55353694	.	+	.	ID=exon-503624;Parent=TCONS_00
 scaffold_6	StringTie	exon	55354095	55355678	.	+	.	ID=exon-503625;Parent=TCONS_00133398;exon_number=2;gene_id=XLOC_055725;transcript_id=TCONS_00133398
 scaffold_6	StringTie	transcript	55353267	55355797	.	+	.	ID=TCONS_00133399;Parent=XLOC_055725;gene_id=XLOC_055725;oId=TCONS_00133399;transcript_id=TCONS_00133399;tss_id=TSS107817
 scaffold_6	StringTie	exon	55353267	55355797	.	+	.	ID=exon-503626;Parent=TCONS_00133399;exon_number=1;gene_id=XLOC_055725;transcript_id=TCONS_00133399
-scaffold_6	StringTie	gene	55364305	55438702	.	+	.	ID=XLOC_055726;gene_id=XLOC_055726;oId=TCONS_00133400;transcript_id=TCONS_00133400;tss_id=TSS107818
+scaffold_6	StringTie	gene	55364305	55438702	.	+	.	ID=XLOC_055726;gene_id=XLOC_055726;oId=TCONS_00133400;transcript_id=TCONS_00133400;tss_id=TSS107818;name=Pbx-1;description=TALE-class pre-B-cell leukemia homeobox (extradenticle);annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_6	StringTie	transcript	55364305	55436062	.	+	.	ID=TCONS_00133400;Parent=XLOC_055726;gene_id=XLOC_055726;oId=TCONS_00133400;transcript_id=TCONS_00133400;tss_id=TSS107818
 scaffold_6	StringTie	exon	55364305	55364918	.	+	.	ID=exon-503627;Parent=TCONS_00133400;exon_number=1;gene_id=XLOC_055726;transcript_id=TCONS_00133400
 scaffold_6	StringTie	exon	55365786	55365859	.	+	.	ID=exon-503628;Parent=TCONS_00133400;exon_number=2;gene_id=XLOC_055726;transcript_id=TCONS_00133400

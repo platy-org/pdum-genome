@@ -552,7 +552,7 @@ scaffold_21	StringTie	exon	1747862	1747944	.	+	.	ID=exon-325110;Parent=TCONS_000
 scaffold_21	StringTie	exon	1748361	1751315	.	+	.	ID=exon-325111;Parent=TCONS_00084495;exon_number=2;gene_id=XLOC_034817;transcript_id=TCONS_00084495
 scaffold_21	StringTie	transcript	1748361	1751183	.	+	.	ID=TCONS_00084496;Parent=XLOC_034817;contained_in=TCONS_00084495;gene_id=XLOC_034817;oId=TCONS_00084496;transcript_id=TCONS_00084496;tss_id=TSS68461
 scaffold_21	StringTie	exon	1748361	1751183	.	+	.	ID=exon-325112;Parent=TCONS_00084496;exon_number=1;gene_id=XLOC_034817;transcript_id=TCONS_00084496
-scaffold_21	StringTie	gene	1761645	1864631	.	+	.	ID=XLOC_034818;gene_id=XLOC_034818;oId=TCONS_00084498;transcript_id=TCONS_00084498;tss_id=TSS68462
+scaffold_21	StringTie	gene	1761645	1864631	.	+	.	ID=XLOC_034818;gene_id=XLOC_034818;oId=TCONS_00084498;transcript_id=TCONS_00084498;tss_id=TSS68462;name=Mkx;description=TALE-class mohawk homeobox;annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_21	StringTie	transcript	1761645	1823645	.	+	.	ID=TCONS_00084497;Parent=XLOC_034818;gene_id=XLOC_034818;oId=TCONS_00084497;transcript_id=TCONS_00084497;tss_id=TSS68462
 scaffold_21	StringTie	exon	1761645	1761803	.	+	.	ID=exon-325115;Parent=TCONS_00084497;exon_number=1;gene_id=XLOC_034818;transcript_id=TCONS_00084497
 scaffold_21	StringTie	exon	1763995	1765533	.	+	.	ID=exon-325116;Parent=TCONS_00084497;exon_number=2;gene_id=XLOC_034818;transcript_id=TCONS_00084497

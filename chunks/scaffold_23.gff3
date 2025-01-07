@@ -2988,7 +2988,7 @@ scaffold_23	StringTie	gene	5557222	5568845	.	+	.	ID=XLOC_036035;gene_id=XLOC_036
 scaffold_23	StringTie	transcript	5557222	5568845	.	+	.	ID=TCONS_00087226;Parent=XLOC_036035;gene_id=XLOC_036035;oId=TCONS_00087226;transcript_id=TCONS_00087226;tss_id=TSS70684
 scaffold_23	StringTie	exon	5557222	5557559	.	+	.	ID=exon-334598;Parent=TCONS_00087226;exon_number=1;gene_id=XLOC_036035;transcript_id=TCONS_00087226
 scaffold_23	StringTie	exon	5565043	5568845	.	+	.	ID=exon-334599;Parent=TCONS_00087226;exon_number=2;gene_id=XLOC_036035;transcript_id=TCONS_00087226
-scaffold_23	StringTie	gene	5569769	5718804	.	+	.	ID=XLOC_036036;gene_id=XLOC_036036;oId=TCONS_00087227;transcript_id=TCONS_00087227;tss_id=TSS70685
+scaffold_23	StringTie	gene	5569769	5718804	.	+	.	ID=XLOC_036036;gene_id=XLOC_036036;oId=TCONS_00087227;transcript_id=TCONS_00087227;tss_id=TSS70685;name=Cux;description=CUT-class cut-like homeobox (cut);annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_23	StringTie	transcript	5569769	5587571	.	+	.	ID=TCONS_00087227;Parent=XLOC_036036;gene_id=XLOC_036036;oId=TCONS_00087227;transcript_id=TCONS_00087227;tss_id=TSS70685
 scaffold_23	StringTie	exon	5569769	5587571	.	+	.	ID=exon-334600;Parent=TCONS_00087227;exon_number=1;gene_id=XLOC_036036;transcript_id=TCONS_00087227
 scaffold_23	StringTie	transcript	5571625	5593519	.	+	.	ID=TCONS_00087228;Parent=XLOC_036036;gene_id=XLOC_036036;oId=TCONS_00087228;transcript_id=TCONS_00087228;tss_id=TSS70686

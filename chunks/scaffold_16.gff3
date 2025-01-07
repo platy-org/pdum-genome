@@ -3751,7 +3751,7 @@ scaffold_16	StringTie	exon	10002257	10002490	.	+	.	ID=exon-226503;Parent=TCONS_0
 scaffold_16	StringTie	exon	10004224	10007382	.	+	.	ID=exon-226504;Parent=TCONS_00055710;exon_number=4;gene_id=XLOC_021214;transcript_id=TCONS_00055710
 scaffold_16	StringTie	transcript	10002256	10002490	.	+	.	ID=TCONS_00055711;Parent=XLOC_021214;gene_id=XLOC_021214;oId=TCONS_00055711;transcript_id=TCONS_00055711;tss_id=TSS44581
 scaffold_16	StringTie	exon	10002256	10002490	.	+	.	ID=exon-226505;Parent=TCONS_00055711;exon_number=1;gene_id=XLOC_021214;transcript_id=TCONS_00055711
-scaffold_16	StringTie	gene	10071263	10128108	.	+	.	ID=XLOC_021215;gene_id=XLOC_021215;oId=TCONS_00055712;transcript_id=TCONS_00055712;tss_id=TSS44582
+scaffold_16	StringTie	gene	10071263	10128108	.	+	.	ID=XLOC_021215;gene_id=XLOC_021215;oId=TCONS_00055712;transcript_id=TCONS_00055712;tss_id=TSS44582;name=Cers-2;description=CERS-class ceraminde synthase homeobox 2 (longevity assurance gene 1);annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_16	StringTie	transcript	10071263	10084926	.	+	.	ID=TCONS_00055712;Parent=XLOC_021215;gene_id=XLOC_021215;oId=TCONS_00055712;transcript_id=TCONS_00055712;tss_id=TSS44582
 scaffold_16	StringTie	exon	10071263	10071533	.	+	.	ID=exon-226506;Parent=TCONS_00055712;exon_number=1;gene_id=XLOC_021215;transcript_id=TCONS_00055712
 scaffold_16	StringTie	exon	10079283	10079415	.	+	.	ID=exon-226507;Parent=TCONS_00055712;exon_number=2;gene_id=XLOC_021215;transcript_id=TCONS_00055712
@@ -3784,7 +3784,7 @@ scaffold_16	StringTie	exon	10126032	10128108	.	+	.	ID=exon-226526;Parent=TCONS_0
 scaffold_16	StringTie	gene	10078026	10078582	.	+	.	ID=XLOC_021674;gene_id=XLOC_021674;oId=TCONS_00056900;transcript_id=TCONS_00056900;tss_id=TSS45484
 scaffold_16	StringTie	transcript	10078026	10078582	.	+	.	ID=TCONS_00056900;Parent=XLOC_021674;gene_id=XLOC_021674;oId=TCONS_00056900;transcript_id=TCONS_00056900;tss_id=TSS45484
 scaffold_16	StringTie	exon	10078026	10078582	.	+	.	ID=exon-231783;Parent=TCONS_00056900;exon_number=1;gene_id=XLOC_021674;transcript_id=TCONS_00056900
-scaffold_16	StringTie	gene	10093461	10114958	.	+	.	ID=XLOC_021216;gene_id=XLOC_021216;oId=TCONS_00055719;transcript_id=TCONS_00055719;tss_id=TSS44588
+scaffold_16	StringTie	gene	10093461	10114958	.	+	.	ID=XLOC_021216;gene_id=XLOC_021216;oId=TCONS_00055719;transcript_id=TCONS_00055719;tss_id=TSS44588;name=Cers-3;description=CERS-class ceraminde synthase homeobox 3 (longevity assurance gene 1);annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_16	StringTie	transcript	10093461	10107996	.	+	.	ID=TCONS_00055719;Parent=XLOC_021216;gene_id=XLOC_021216;oId=TCONS_00055719;transcript_id=TCONS_00055719;tss_id=TSS44588
 scaffold_16	StringTie	exon	10093461	10093745	.	+	.	ID=exon-226527;Parent=TCONS_00055719;exon_number=1;gene_id=XLOC_021216;transcript_id=TCONS_00055719
 scaffold_16	StringTie	exon	10103817	10103874	.	+	.	ID=exon-226528;Parent=TCONS_00055719;exon_number=2;gene_id=XLOC_021216;transcript_id=TCONS_00055719
@@ -6566,7 +6566,7 @@ scaffold_16	StringTie	exon	14120327	14121634	.	+	.	ID=exon-227305;Parent=TCONS_0
 scaffold_16	StringTie	gene	14115226	14115925	.	+	.	ID=XLOC_021729;gene_id=XLOC_021729;oId=TCONS_00056956;transcript_id=TCONS_00056956;tss_id=TSS45540
 scaffold_16	StringTie	transcript	14115226	14115925	.	+	.	ID=TCONS_00056956;Parent=XLOC_021729;gene_id=XLOC_021729;oId=TCONS_00056956;transcript_id=TCONS_00056956;tss_id=TSS45540
 scaffold_16	StringTie	exon	14115226	14115925	.	+	.	ID=exon-231839;Parent=TCONS_00056956;exon_number=1;gene_id=XLOC_021729;transcript_id=TCONS_00056956
-scaffold_16	StringTie	gene	14171617	14211897	.	-	.	ID=XLOC_021495;gene_id=XLOC_021495;oId=TCONS_00056558;transcript_id=TCONS_00056558;tss_id=TSS45209
+scaffold_16	StringTie	gene	14171617	14211897	.	-	.	ID=XLOC_021495;gene_id=XLOC_021495;oId=TCONS_00056558;transcript_id=TCONS_00056558;tss_id=TSS45209;name=Vsx-1;description=PRD-class visual system homeobox 1;annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_16	StringTie	transcript	14171617	14176752	.	-	.	ID=TCONS_00056558;Parent=XLOC_021495;gene_id=XLOC_021495;oId=TCONS_00056558;transcript_id=TCONS_00056558;tss_id=TSS45209
 scaffold_16	StringTie	exon	14171617	14171665	.	-	.	ID=exon-230766;Parent=TCONS_00056558;exon_number=1;gene_id=XLOC_021495;transcript_id=TCONS_00056558
 scaffold_16	StringTie	exon	14171721	14176752	.	-	.	ID=exon-230767;Parent=TCONS_00056558;exon_number=2;gene_id=XLOC_021495;transcript_id=TCONS_00056558
@@ -6584,7 +6584,7 @@ scaffold_16	StringTie	gene	14208539	14220250	.	+	.	ID=XLOC_021277;gene_id=XLOC_0
 scaffold_16	StringTie	transcript	14208539	14220250	.	+	.	ID=TCONS_00055917;Parent=XLOC_021277;gene_id=XLOC_021277;oId=TCONS_00055917;transcript_id=TCONS_00055917;tss_id=TSS44728
 scaffold_16	StringTie	exon	14208539	14208860	.	+	.	ID=exon-227306;Parent=TCONS_00055917;exon_number=1;gene_id=XLOC_021277;transcript_id=TCONS_00055917
 scaffold_16	StringTie	exon	14220089	14220250	.	+	.	ID=exon-227307;Parent=TCONS_00055917;exon_number=2;gene_id=XLOC_021277;transcript_id=TCONS_00055917
-scaffold_16	StringTie	gene	14238945	14310430	.	-	.	ID=XLOC_021496;gene_id=XLOC_021496;oId=TCONS_00056562;transcript_id=TCONS_00056562;tss_id=TSS45213
+scaffold_16	StringTie	gene	14238945	14310430	.	-	.	ID=XLOC_021496;gene_id=XLOC_021496;oId=TCONS_00056562;transcript_id=TCONS_00056562;tss_id=TSS45213;name=Vsx-2;description=PRD-class visual system homeobox 2;annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_16	StringTie	transcript	14238945	14240868	.	-	.	ID=TCONS_00056562;Parent=XLOC_021496;gene_id=XLOC_021496;oId=TCONS_00056562;transcript_id=TCONS_00056562;tss_id=TSS45213
 scaffold_16	StringTie	exon	14238945	14240868	.	-	.	ID=exon-230775;Parent=TCONS_00056562;exon_number=1;gene_id=XLOC_021496;transcript_id=TCONS_00056562
 scaffold_16	StringTie	transcript	14238946	14310430	.	-	.	ID=TCONS_00056563;Parent=XLOC_021496;gene_id=XLOC_021496;oId=TCONS_00056563;transcript_id=TCONS_00056563;tss_id=TSS45214
@@ -8494,7 +8494,7 @@ scaffold_16	StringTie	transcript	16303895	16304967	.	+	.	ID=TCONS_00056992;Paren
 scaffold_16	StringTie	exon	16303895	16304967	.	+	.	ID=exon-231875;Parent=TCONS_00056992;exon_number=1;gene_id=XLOC_021765;transcript_id=TCONS_00056992
 scaffold_16	StringTie	transcript	16304489	16304942	.	+	.	ID=TCONS_00056993;Parent=XLOC_021765;contained_in=TCONS_00056992;gene_id=XLOC_021765;oId=TCONS_00056993;transcript_id=TCONS_00056993;tss_id=TSS45577
 scaffold_16	StringTie	exon	16304489	16304942	.	+	.	ID=exon-231876;Parent=TCONS_00056993;exon_number=1;gene_id=XLOC_021765;transcript_id=TCONS_00056993
-scaffold_16	StringTie	gene	16399299	16476274	.	-	.	ID=XLOC_021539;gene_id=XLOC_021539;oId=TCONS_00056733;transcript_id=TCONS_00056733;tss_id=TSS45331
+scaffold_16	StringTie	gene	16399299	16476274	.	-	.	ID=XLOC_021539;gene_id=XLOC_021539;oId=TCONS_00056733;transcript_id=TCONS_00056733;tss_id=TSS45331;name=Prox;description=PROS-class prospero homeobox;annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_16	StringTie	transcript	16399299	16476274	.	-	.	ID=TCONS_00056733;Parent=XLOC_021539;gene_id=XLOC_021539;oId=TCONS_00056733;transcript_id=TCONS_00056733;tss_id=TSS45331
 scaffold_16	StringTie	exon	16399299	16406995	.	-	.	ID=exon-231549;Parent=TCONS_00056733;exon_number=1;gene_id=XLOC_021539;transcript_id=TCONS_00056733
 scaffold_16	StringTie	exon	16428430	16428574	.	-	.	ID=exon-231550;Parent=TCONS_00056733;exon_number=2;gene_id=XLOC_021539;transcript_id=TCONS_00056733

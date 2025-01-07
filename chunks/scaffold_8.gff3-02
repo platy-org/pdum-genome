@@ -6372,7 +6372,7 @@ scaffold_8	StringTie	gene	50264797	50266765	.	-	.	ID=XLOC_064748;gene_id=XLOC_06
 scaffold_8	StringTie	transcript	50264797	50266765	.	-	.	ID=TCONS_00156206;Parent=XLOC_064748;gene_id=XLOC_064748;oId=TCONS_00156206;transcript_id=TCONS_00156206;tss_id=TSS125964
 scaffold_8	StringTie	exon	50264797	50265997	.	-	.	ID=exon-593132;Parent=TCONS_00156206;exon_number=1;gene_id=XLOC_064748;transcript_id=TCONS_00156206
 scaffold_8	StringTie	exon	50266194	50266765	.	-	.	ID=exon-593133;Parent=TCONS_00156206;exon_number=2;gene_id=XLOC_064748;transcript_id=TCONS_00156206
-scaffold_8	StringTie	gene	50296720	50365651	.	+	.	ID=XLOC_063825;gene_id=XLOC_063825;oId=TCONS_00153593;transcript_id=TCONS_00153593;tss_id=TSS123950
+scaffold_8	StringTie	gene	50296720	50365651	.	+	.	ID=XLOC_063825;gene_id=XLOC_063825;oId=TCONS_00153593;transcript_id=TCONS_00153593;tss_id=TSS123950;name=Shox;description=PRD-class short statue homeobox;annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_8	StringTie	transcript	50296720	50297661	.	+	.	ID=TCONS_00153593;Parent=XLOC_063825;gene_id=XLOC_063825;oId=TCONS_00153593;transcript_id=TCONS_00153593;tss_id=TSS123950
 scaffold_8	StringTie	exon	50296720	50297661	.	+	.	ID=exon-581218;Parent=TCONS_00153593;exon_number=1;gene_id=XLOC_063825;transcript_id=TCONS_00153593
 scaffold_8	StringTie	transcript	50296734	50365651	.	+	.	ID=TCONS_00153594;Parent=XLOC_063825;gene_id=XLOC_063825;oId=TCONS_00153594;transcript_id=TCONS_00153594;tss_id=TSS123950

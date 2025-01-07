@@ -1975,7 +1975,7 @@ scaffold_1	StringTie	transcript	172798767	172799637	.	-	.	ID=TCONS_00020470;Pare
 scaffold_1	StringTie	exon	172798767	172799637	.	-	.	ID=exon-94665;Parent=TCONS_00020470;exon_number=1;gene_id=XLOC_005520;transcript_id=TCONS_00020470
 scaffold_1	StringTie	transcript	172812988	172813941	.	-	.	ID=TCONS_00020471;Parent=XLOC_005520;contained_in=TCONS_00020469;gene_id=XLOC_005520;oId=TCONS_00020471;transcript_id=TCONS_00020471;tss_id=TSS15864
 scaffold_1	StringTie	exon	172812988	172813941	.	-	.	ID=exon-94666;Parent=TCONS_00020471;exon_number=1;gene_id=XLOC_005520;transcript_id=TCONS_00020471
-scaffold_1	StringTie	gene	172816127	172820850	.	+	.	ID=XLOC_002610;gene_id=XLOC_002610;oId=TCONS_00010054;transcript_id=TCONS_00010054;tss_id=TSS7853
+scaffold_1	StringTie	gene	172816127	172820850	.	+	.	ID=XLOC_002610;gene_id=XLOC_002610;oId=TCONS_00010054;transcript_id=TCONS_00010054;tss_id=TSS7853;name=Tgif;description=TALE-class TGFB induced factor homeobox (achintya/vismay);annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_1	StringTie	transcript	172816127	172816350	.	+	.	ID=TCONS_00010054;Parent=XLOC_002610;gene_id=XLOC_002610;oId=TCONS_00010054;transcript_id=TCONS_00010054;tss_id=TSS7853
 scaffold_1	StringTie	exon	172816127	172816350	.	+	.	ID=exon-45037;Parent=TCONS_00010054;exon_number=1;gene_id=XLOC_002610;transcript_id=TCONS_00010054
 scaffold_1	StringTie	transcript	172816195	172820500	.	+	.	ID=TCONS_00010055;Parent=XLOC_002610;gene_id=XLOC_002610;oId=TCONS_00010055;transcript_id=TCONS_00010055;tss_id=TSS7853
@@ -2306,7 +2306,7 @@ scaffold_1	StringTie	exon	173239458	173240376	.	+	.	ID=exon-105479;Parent=TCONS_
 scaffold_1	StringTie	gene	173241027	173241492	.	+	.	ID=XLOC_008528;gene_id=XLOC_008528;oId=TCONS_00024609;transcript_id=TCONS_00024609;tss_id=TSS19633
 scaffold_1	StringTie	transcript	173241027	173241492	.	+	.	ID=TCONS_00024609;Parent=XLOC_008528;gene_id=XLOC_008528;oId=TCONS_00024609;transcript_id=TCONS_00024609;tss_id=TSS19633
 scaffold_1	StringTie	exon	173241027	173241492	.	+	.	ID=exon-105480;Parent=TCONS_00024609;exon_number=1;gene_id=XLOC_008528;transcript_id=TCONS_00024609
-scaffold_1	StringTie	gene	173241778	173265090	.	+	.	ID=XLOC_002618;gene_id=XLOC_002618;oId=TCONS_00010078;transcript_id=TCONS_00010078;tss_id=TSS7871
+scaffold_1	StringTie	gene	173241778	173265090	.	+	.	ID=XLOC_002618;gene_id=XLOC_002618;oId=TCONS_00010078;transcript_id=TCONS_00010078;tss_id=TSS7871;name=Cers-1;description=CERS-class ceraminde synthase homeobox 1 (longevity assurance gene 1);annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_1	StringTie	transcript	173241778	173265090	.	+	.	ID=TCONS_00010076;Parent=XLOC_002618;gene_id=XLOC_002618;oId=TCONS_00010076;transcript_id=TCONS_00010076;tss_id=TSS7871
 scaffold_1	StringTie	exon	173241778	173241993	.	+	.	ID=exon-45136;Parent=TCONS_00010076;exon_number=1;gene_id=XLOC_002618;transcript_id=TCONS_00010076
 scaffold_1	StringTie	exon	173251525	173251657	.	+	.	ID=exon-45137;Parent=TCONS_00010076;exon_number=2;gene_id=XLOC_002618;transcript_id=TCONS_00010076

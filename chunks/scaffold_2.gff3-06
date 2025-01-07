@@ -10515,7 +10515,7 @@ scaffold_2	StringTie	transcript	110312260	110312530	.	+	.	ID=TCONS_00070373;Pare
 scaffold_2	StringTie	exon	110312260	110312530	.	+	.	ID=exon-282254;Parent=TCONS_00070373;exon_number=1;gene_id=XLOC_026596;transcript_id=TCONS_00070373
 scaffold_2	StringTie	transcript	110344465	110344716	.	+	.	ID=TCONS_00070374;Parent=XLOC_026596;gene_id=XLOC_026596;oId=TCONS_00070374;transcript_id=TCONS_00070374;tss_id=TSS56201
 scaffold_2	StringTie	exon	110344465	110344716	.	+	.	ID=exon-282255;Parent=TCONS_00070374;exon_number=1;gene_id=XLOC_026596;transcript_id=TCONS_00070374
-scaffold_2	StringTie	gene	110371490	110387884	.	-	.	ID=XLOC_028402;gene_id=XLOC_028402;oId=TCONS_00076642;transcript_id=TCONS_00076642;tss_id=TSS61089
+scaffold_2	StringTie	gene	110371490	110387884	.	-	.	ID=XLOC_028402;gene_id=XLOC_028402;oId=TCONS_00076642;transcript_id=TCONS_00076642;tss_id=TSS61089;name=Drgx;description=PRD-class dorsal root ganglia homeobox;annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_2	StringTie	transcript	110371490	110387884	.	-	.	ID=TCONS_00076642;Parent=XLOC_028402;gene_id=XLOC_028402;oId=TCONS_00076642;transcript_id=TCONS_00076642;tss_id=TSS61089
 scaffold_2	StringTie	exon	110371490	110372253	.	-	.	ID=exon-310917;Parent=TCONS_00076642;exon_number=1;gene_id=XLOC_028402;transcript_id=TCONS_00076642
 scaffold_2	StringTie	exon	110372368	110372468	.	-	.	ID=exon-310918;Parent=TCONS_00076642;exon_number=2;gene_id=XLOC_028402;transcript_id=TCONS_00076642

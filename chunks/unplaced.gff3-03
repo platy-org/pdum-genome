@@ -5501,7 +5501,7 @@ scaffold_55	StringTie	exon	2342584	2344320	.	+	.	ID=exon-490533;Parent=TCONS_001
 scaffold_55	StringTie	gene	2361447	2363863	.	+	.	ID=XLOC_054552;gene_id=XLOC_054552;oId=TCONS_00129979;transcript_id=TCONS_00129979;tss_id=TSS105181
 scaffold_55	StringTie	transcript	2361447	2363863	.	+	.	ID=TCONS_00129979;Parent=XLOC_054552;gene_id=XLOC_054552;oId=TCONS_00129979;transcript_id=TCONS_00129979;tss_id=TSS105181
 scaffold_55	StringTie	exon	2361447	2363863	.	+	.	ID=exon-491079;Parent=TCONS_00129979;exon_number=1;gene_id=XLOC_054552;transcript_id=TCONS_00129979
-scaffold_55	StringTie	gene	2397807	2429248	.	-	.	ID=XLOC_054488;contained_in=TCONS_00129913;gene_id=XLOC_054488;oId=TCONS_00129912;transcript_id=TCONS_00129912;tss_id=TSS105114
+scaffold_55	StringTie	gene	2397807	2429248	.	-	.	ID=XLOC_054488;contained_in=TCONS_00129913;gene_id=XLOC_054488;oId=TCONS_00129912;transcript_id=TCONS_00129912;tss_id=TSS105114;name=Phox;description=PRD-class paired-like homeodomain homeobox (putative homeodomain protein);annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_55	StringTie	transcript	2397807	2398280	.	-	.	ID=TCONS_00129912;Parent=XLOC_054488;contained_in=TCONS_00129913;gene_id=XLOC_054488;oId=TCONS_00129912;transcript_id=TCONS_00129912;tss_id=TSS105114
 scaffold_55	StringTie	exon	2397807	2398280	.	-	.	ID=exon-491007;Parent=TCONS_00129912;exon_number=1;gene_id=XLOC_054488;transcript_id=TCONS_00129912
 scaffold_55	StringTie	transcript	2397807	2429248	.	-	.	ID=TCONS_00129913;Parent=XLOC_054488;gene_id=XLOC_054488;oId=TCONS_00129913;transcript_id=TCONS_00129913;tss_id=TSS105115

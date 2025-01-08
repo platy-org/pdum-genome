@@ -11620,7 +11620,7 @@ scaffold_186	StringTie	gene	115511	117923	.	+	.	ID=XLOC_023972;gene_id=XLOC_0239
 scaffold_186	StringTie	transcript	115511	117923	.	+	.	ID=TCONS_00061625;Parent=XLOC_023972;gene_id=XLOC_023972;oId=TCONS_00061625;transcript_id=TCONS_00061625;tss_id=TSS49352
 scaffold_186	StringTie	exon	115511	115788	.	+	.	ID=exon-248325;Parent=TCONS_00061625;exon_number=1;gene_id=XLOC_023972;transcript_id=TCONS_00061625
 scaffold_186	StringTie	exon	117296	117923	.	+	.	ID=exon-248326;Parent=TCONS_00061625;exon_number=2;gene_id=XLOC_023972;transcript_id=TCONS_00061625
-scaffold_186	StringTie	gene	134617	151538	.	+	.	ID=XLOC_023973;gene_id=XLOC_023973;oId=TCONS_00061626;transcript_id=TCONS_00061626;tss_id=TSS49353
+scaffold_186	StringTie	gene	134617	151538	.	+	.	ID=XLOC_023973;gene_id=XLOC_023973;oId=TCONS_00061626;transcript_id=TCONS_00061626;tss_id=TSS49353;name=Uncx-2;description=PRD-class unc homeobox 2 (unc-4/ods-site);annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_186	StringTie	transcript	134617	151026	.	+	.	ID=TCONS_00061626;Parent=XLOC_023973;gene_id=XLOC_023973;oId=TCONS_00061626;transcript_id=TCONS_00061626;tss_id=TSS49353
 scaffold_186	StringTie	exon	134617	134708	.	+	.	ID=exon-248327;Parent=TCONS_00061626;exon_number=1;gene_id=XLOC_023973;transcript_id=TCONS_00061626
 scaffold_186	StringTie	exon	143680	143846	.	+	.	ID=exon-248328;Parent=TCONS_00061626;exon_number=2;gene_id=XLOC_023973;transcript_id=TCONS_00061626

@@ -1,0 +1,45 @@
+name: Extract Data from GFF3 Change
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+
+jobs:
+  extract-data:
+    if: github.event.pull_request.additions == 1 && github.event.pull_request.deletions == 1 && github.event.pull_request.changed_files == 1
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+        with:
+          ref: ${{ github.head_ref }}
+
+      - name: Extract changed line
+        id: extract
+        run: |
+          DIFF=$(git diff ${{ github.base_ref }} ${{ github.head_ref }})
+          ADDED_LINE=$(echo "$DIFF" | grep '^+[^#]' | sed 's/^+//') # Filter out comment lines
+          echo "added_line=$ADDED_LINE" >> $GITHUB_OUTPUT
+
+      - name: Extract gene_id and new attributes
+        id: attributes
+        run: |
+          ADDED_LINE="${{ steps.extract.outputs.added_line }}"
+          GENE_ID=$(echo "$ADDED_LINE" | awk -F'\t' '{split($9, a, ";"); for(i in a) { if (a[i] ~ /gene_id=/) { sub(/gene_id=/, "", a[i]); print a[i]; } }}')
+
+          # Get original attributes from base ref
+          FILE_PATH=$(echo "$DIFF" | grep '^---' | sed 's/--- a\///')
+          ORIGINAL_LINE=$(git show ${{ github.base_ref }}:$FILE_PATH | awk -v line_num=$(echo "$ADDED_LINE" | cut -f 4) 'NR==line_num')
+          ORIGINAL_ATTRIBUTES=$(echo "$ORIGINAL_LINE" | awk -F'\t' '{print $9}')
+
+          # Find new attributes using comm command
+          NEW_ATTRIBUTES=$(comm -13 <(echo "$ORIGINAL_ATTRIBUTES" | tr ';' '\n' | sort) <(echo "$ADDED_LINE" | cut -f9 | tr ';' '\n' | sort) | tr '\n' ';' | sed 's/;$//')
+
+          echo "gene_id=$GENE_ID" >> $GITHUB_OUTPUT
+          echo "new_attributes=$NEW_ATTRIBUTES" >> $GITHUB_OUTPUT
+
+      - name: Print gene_id and new attributes
+        run: |
+          echo "Gene ID: ${{ steps.attributes.outputs.gene_id }}"
+          echo "New Attributes: ${{ steps.attributes.outputs.new_attributes }}"

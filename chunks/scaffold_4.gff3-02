@@ -7177,7 +7177,7 @@ scaffold_4	StringTie	exon	61339530	61339663	.	+	.	ID=exon-431544;Parent=TCONS_00
 scaffold_4	StringTie	exon	61340542	61340810	.	+	.	ID=exon-431545;Parent=TCONS_00112722;exon_number=4;gene_id=XLOC_046603;transcript_id=TCONS_00112722
 scaffold_4	StringTie	transcript	61340541	61341400	.	+	.	ID=TCONS_00112723;Parent=XLOC_046603;gene_id=XLOC_046603;oId=TCONS_00112723;transcript_id=TCONS_00112723;tss_id=TSS91158
 scaffold_4	StringTie	exon	61340541	61341400	.	+	.	ID=exon-431546;Parent=TCONS_00112723;exon_number=1;gene_id=XLOC_046603;transcript_id=TCONS_00112723
-scaffold_4	StringTie	gene	61341615	61437950	.	+	.	ID=XLOC_046604;gene_id=XLOC_046604;oId=TCONS_00112725;transcript_id=TCONS_00112725;tss_id=TSS91159
+scaffold_4	StringTie	gene	61341615	61437950	.	+	.	ID=XLOC_046604;gene_id=XLOC_046604;oId=TCONS_00112725;transcript_id=TCONS_00112725;tss_id=TSS91159;name=Pou2;description=POU-class 2 homeobox (nubbin);annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_4	StringTie	transcript	61341615	61367658	.	+	.	ID=TCONS_00112724;Parent=XLOC_046604;gene_id=XLOC_046604;oId=TCONS_00112724;transcript_id=TCONS_00112724;tss_id=TSS91159
 scaffold_4	StringTie	exon	61341615	61341947	.	+	.	ID=exon-431558;Parent=TCONS_00112724;exon_number=1;gene_id=XLOC_046604;transcript_id=TCONS_00112724
 scaffold_4	StringTie	exon	61355607	61355731	.	+	.	ID=exon-431559;Parent=TCONS_00112724;exon_number=2;gene_id=XLOC_046604;transcript_id=TCONS_00112724
@@ -7323,7 +7323,7 @@ scaffold_4	StringTie	gene	61425476	61430916	.	+	.	ID=XLOC_046608;gene_id=XLOC_04
 scaffold_4	StringTie	transcript	61425476	61430916	.	+	.	ID=TCONS_00112749;Parent=XLOC_046608;gene_id=XLOC_046608;oId=TCONS_00112749;transcript_id=TCONS_00112749;tss_id=TSS91178
 scaffold_4	StringTie	exon	61425476	61426610	.	+	.	ID=exon-431632;Parent=TCONS_00112749;exon_number=1;gene_id=XLOC_046608;transcript_id=TCONS_00112749
 scaffold_4	StringTie	exon	61429595	61430916	.	+	.	ID=exon-431633;Parent=TCONS_00112749;exon_number=2;gene_id=XLOC_046608;transcript_id=TCONS_00112749
-scaffold_4	StringTie	gene	61431090	61508167	.	+	.	ID=XLOC_046609;gene_id=XLOC_046609;oId=TCONS_00112750;transcript_id=TCONS_00112750;tss_id=TSS91179
+scaffold_4	StringTie	gene	61431090	61508167	.	+	.	ID=XLOC_046609;gene_id=XLOC_046609;oId=TCONS_00112750;transcript_id=TCONS_00112750;tss_id=TSS91179;name=Pknox-1;description=TALE-class pbx/knotted1 homeobox 1;annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_4	StringTie	transcript	61431090	61433545	.	+	.	ID=TCONS_00112750;Parent=XLOC_046609;gene_id=XLOC_046609;oId=TCONS_00112750;transcript_id=TCONS_00112750;tss_id=TSS91179
 scaffold_4	StringTie	exon	61431090	61433545	.	+	.	ID=exon-431634;Parent=TCONS_00112750;exon_number=1;gene_id=XLOC_046609;transcript_id=TCONS_00112750
 scaffold_4	StringTie	transcript	61431141	61505765	.	+	.	ID=TCONS_00112751;Parent=XLOC_046609;gene_id=XLOC_046609;oId=TCONS_00112751;transcript_id=TCONS_00112751;tss_id=TSS91179

@@ -9060,7 +9060,7 @@ scaffold_12	StringTie	exon	40122315	40122473	.	+	.	ID=exon-175157;Parent=TCONS_0
 scaffold_12	StringTie	exon	40122834	40125747	.	+	.	ID=exon-175158;Parent=TCONS_00042000;exon_number=2;gene_id=XLOC_015183;transcript_id=TCONS_00042000
 scaffold_12	StringTie	transcript	40122530	40125726	.	+	.	ID=TCONS_00042001;Parent=XLOC_015183;gene_id=XLOC_015183;oId=TCONS_00042001;transcript_id=TCONS_00042001;tss_id=TSS33619
 scaffold_12	StringTie	exon	40122530	40125726	.	+	.	ID=exon-175159;Parent=TCONS_00042001;exon_number=1;gene_id=XLOC_015183;transcript_id=TCONS_00042001
-scaffold_12	StringTie	gene	40122315	40146438	.	-	.	ID=XLOC_015825;gene_id=XLOC_015825;oId=TCONS_00043952;transcript_id=TCONS_00043952;tss_id=TSS35093
+scaffold_12	StringTie	gene	40122315	40146438	.	-	.	ID=XLOC_015825;gene_id=XLOC_015825;oId=TCONS_00043952;transcript_id=TCONS_00043952;tss_id=TSS35093;name=wnt1;annotator=Guillaume Balavoine/Balavoine lab
 scaffold_12	StringTie	transcript	40122315	40125110	.	-	.	ID=TCONS_00043951;Parent=XLOC_015825;gene_id=XLOC_015825;oId=TCONS_00043951;transcript_id=TCONS_00043951;tss_id=TSS35093
 scaffold_12	StringTie	exon	40122315	40122498	.	-	.	ID=exon-184061;Parent=TCONS_00043951;exon_number=1;gene_id=XLOC_015825;transcript_id=TCONS_00043951
 scaffold_12	StringTie	exon	40122843	40123461	.	-	.	ID=exon-184062;Parent=TCONS_00043951;exon_number=2;gene_id=XLOC_015825;transcript_id=TCONS_00043951

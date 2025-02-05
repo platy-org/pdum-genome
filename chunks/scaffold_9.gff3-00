@@ -735,7 +735,7 @@ scaffold_9	StringTie	exon	724856	725385	.	+	.	ID=exon-621404;Parent=TCONS_001640
 scaffold_9	StringTie	gene	742431	743251	.	+	.	ID=XLOC_068152;gene_id=XLOC_068152;oId=TCONS_00164072;transcript_id=TCONS_00164072;tss_id=TSS132198
 scaffold_9	StringTie	transcript	742431	743251	.	+	.	ID=TCONS_00164072;Parent=XLOC_068152;gene_id=XLOC_068152;oId=TCONS_00164072;transcript_id=TCONS_00164072;tss_id=TSS132198
 scaffold_9	StringTie	exon	742431	743251	.	+	.	ID=exon-621405;Parent=TCONS_00164072;exon_number=1;gene_id=XLOC_068152;transcript_id=TCONS_00164072
-scaffold_9	StringTie	gene	763819	779004	.	-	.	ID=XLOC_067341;gene_id=XLOC_067341;oId=TCONS_00161648;transcript_id=TCONS_00161648;tss_id=TSS130363
+scaffold_9	StringTie	gene	763819	779004	.	-	.	ID=XLOC_067341;gene_id=XLOC_067341;oId=TCONS_00161648;transcript_id=TCONS_00161648;tss_id=TSS130363;name=Hopx;description=PRD-class homeodomain only protein homeobox;annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_9	StringTie	transcript	763819	779004	.	-	.	ID=TCONS_00161646;Parent=XLOC_067341;gene_id=XLOC_067341;oId=TCONS_00161646;transcript_id=TCONS_00161646;tss_id=TSS130363
 scaffold_9	StringTie	exon	763819	765460	.	-	.	ID=exon-611165;Parent=TCONS_00161646;exon_number=1;gene_id=XLOC_067341;transcript_id=TCONS_00161646
 scaffold_9	StringTie	exon	765927	766027	.	-	.	ID=exon-611166;Parent=TCONS_00161646;exon_number=2;gene_id=XLOC_067341;transcript_id=TCONS_00161646

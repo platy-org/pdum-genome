@@ -1037,7 +1037,7 @@ scaffold_1	StringTie	exon	114608622	114612952	.	+	.	ID=exon-104531;Parent=TCONS_
 scaffold_1	StringTie	gene	114616849	114619614	.	+	.	ID=XLOC_007616;gene_id=XLOC_007616;oId=TCONS_00023661;transcript_id=TCONS_00023661;tss_id=TSS18691
 scaffold_1	StringTie	transcript	114616849	114619614	.	+	.	ID=TCONS_00023661;Parent=XLOC_007616;gene_id=XLOC_007616;oId=TCONS_00023661;transcript_id=TCONS_00023661;tss_id=TSS18691
 scaffold_1	StringTie	exon	114616849	114619614	.	+	.	ID=exon-104532;Parent=TCONS_00023661;exon_number=1;gene_id=XLOC_007616;transcript_id=TCONS_00023661
-scaffold_1	StringTie	gene	114642736	114645666	.	-	.	ID=XLOC_004670;contained_in=TCONS_00017348;gene_id=XLOC_004670;oId=TCONS_00017346;transcript_id=TCONS_00017346;tss_id=TSS13423
+scaffold_1	StringTie	gene	114642736	114645666	.	-	.	ID=XLOC_004670;contained_in=TCONS_00017348;gene_id=XLOC_004670;oId=TCONS_00017346;transcript_id=TCONS_00017346;tss_id=TSS13423,name=myc;annotator=Michail Grinberg/SPBU Embryo
 scaffold_1	StringTie	transcript	114642736	114644103	.	-	.	ID=TCONS_00017346;Parent=XLOC_004670;contained_in=TCONS_00017348;gene_id=XLOC_004670;oId=TCONS_00017346;transcript_id=TCONS_00017346;tss_id=TSS13423
 scaffold_1	StringTie	exon	114642736	114644103	.	-	.	ID=exon-79848;Parent=TCONS_00017346;exon_number=1;gene_id=XLOC_004670;transcript_id=TCONS_00017346
 scaffold_1	StringTie	transcript	114642736	114645666	.	-	.	ID=TCONS_00017347;Parent=XLOC_004670;gene_id=XLOC_004670;oId=TCONS_00017347;transcript_id=TCONS_00017347;tss_id=TSS13424

@@ -2929,7 +2929,7 @@ scaffold_12	StringTie	exon	4168668	4168838	.	-	.	ID=exon-177918;Parent=TCONS_000
 scaffold_12	StringTie	exon	4169452	4169595	.	-	.	ID=exon-177919;Parent=TCONS_00042578;exon_number=12;gene_id=XLOC_015339;transcript_id=TCONS_00042578
 scaffold_12	StringTie	transcript	4168501	4168851	.	-	.	ID=TCONS_00042579;Parent=XLOC_015339;gene_id=XLOC_015339;oId=TCONS_00042579;transcript_id=TCONS_00042579;tss_id=TSS34049
 scaffold_12	StringTie	exon	4168501	4168851	.	-	.	ID=exon-177920;Parent=TCONS_00042579;exon_number=1;gene_id=XLOC_015339;transcript_id=TCONS_00042579
-scaffold_12	StringTie	gene	4120862	4236779	.	+	.	ID=XLOC_014654;gene_id=XLOC_014654;oId=TCONS_00040235;transcript_id=TCONS_00040235;tss_id=TSS32213
+scaffold_12	StringTie	gene	4120862	4236779	.	+	.	ID=XLOC_014654;gene_id=XLOC_014654;oId=TCONS_00040235;transcript_id=TCONS_00040235;tss_id=TSS32213;name=Frizzled-5/8;annotator=SQS/Schneider lab
 scaffold_12	StringTie	transcript	4120862	4236779	.	+	.	ID=TCONS_00040235;Parent=XLOC_014654;gene_id=XLOC_014654;oId=TCONS_00040235;transcript_id=TCONS_00040235;tss_id=TSS32213
 scaffold_12	StringTie	exon	4120862	4121817	.	+	.	ID=exon-168192;Parent=TCONS_00040235;exon_number=1;gene_id=XLOC_014654;transcript_id=TCONS_00040235
 scaffold_12	StringTie	exon	4169513	4169595	.	+	.	ID=exon-168193;Parent=TCONS_00040235;exon_number=2;gene_id=XLOC_014654;transcript_id=TCONS_00040235

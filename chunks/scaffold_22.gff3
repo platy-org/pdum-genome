@@ -26,7 +26,7 @@ scaffold_22	StringTie	exon	155473	155610	.	-	.	ID=exon-331263;Parent=TCONS_00086
 scaffold_22	StringTie	exon	157181	157248	.	-	.	ID=exon-331264;Parent=TCONS_00086265;exon_number=9;gene_id=XLOC_035562;transcript_id=TCONS_00086265
 scaffold_22	StringTie	transcript	148634	149104	.	-	.	ID=TCONS_00086266;Parent=XLOC_035562;gene_id=XLOC_035562;oId=TCONS_00086266;transcript_id=TCONS_00086266;tss_id=TSS69895
 scaffold_22	StringTie	exon	148634	149104	.	-	.	ID=exon-331265;Parent=TCONS_00086266;exon_number=1;gene_id=XLOC_035562;transcript_id=TCONS_00086266
-scaffold_22	StringTie	gene	316734	356441	.	+	.	ID=XLOC_035420;gene_id=XLOC_035420;oId=TCONS_00085750;transcript_id=TCONS_00085750;tss_id=TSS69499
+scaffold_22	StringTie	gene	316734	356441	.	+	.	ID=XLOC_035420;gene_id=XLOC_035420;oId=TCONS_00085750;transcript_id=TCONS_00085750;tss_id=TSS69499;name=Meox;description=ANTP-class mesenchyme homeobox (buttonless);annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_22	StringTie	transcript	316734	356441	.	+	.	ID=TCONS_00085749;Parent=XLOC_035420;gene_id=XLOC_035420;oId=TCONS_00085749;transcript_id=TCONS_00085749;tss_id=TSS69499
 scaffold_22	StringTie	exon	316734	317154	.	+	.	ID=exon-329427;Parent=TCONS_00085749;exon_number=1;gene_id=XLOC_035420;transcript_id=TCONS_00085749
 scaffold_22	StringTie	exon	317665	318182	.	+	.	ID=exon-329428;Parent=TCONS_00085749;exon_number=2;gene_id=XLOC_035420;transcript_id=TCONS_00085749
@@ -2572,7 +2572,7 @@ scaffold_22	StringTie	transcript	4350951	4353226	.	+	.	ID=TCONS_00086032;Parent=
 scaffold_22	StringTie	exon	4350951	4351158	.	+	.	ID=exon-330490;Parent=TCONS_00086032;exon_number=1;gene_id=XLOC_035500;transcript_id=TCONS_00086032
 scaffold_22	StringTie	exon	4351966	4352081	.	+	.	ID=exon-330491;Parent=TCONS_00086032;exon_number=2;gene_id=XLOC_035500;transcript_id=TCONS_00086032
 scaffold_22	StringTie	exon	4352811	4353226	.	+	.	ID=exon-330492;Parent=TCONS_00086032;exon_number=3;gene_id=XLOC_035500;transcript_id=TCONS_00086032
-scaffold_22	StringTie	gene	4370940	4371661	.	+	.	ID=XLOC_035785;gene_id=XLOC_035785;oId=TCONS_00086731;transcript_id=TCONS_00086731;tss_id=TSS70270
+scaffold_22	StringTie	gene	4370940	4371661	.	+	.	ID=XLOC_035785;gene_id=XLOC_035785;oId=TCONS_00086731;transcript_id=TCONS_00086731;tss_id=TSS70270;name=Nedx;description=ANTP-class next to distalless homeobox (lateral muscles scarcer);annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_22	StringTie	transcript	4370940	4371661	.	+	.	ID=TCONS_00086731;Parent=XLOC_035785;gene_id=XLOC_035785;oId=TCONS_00086731;transcript_id=TCONS_00086731;tss_id=TSS70270
 scaffold_22	StringTie	exon	4370940	4371661	.	+	.	ID=exon-333048;Parent=TCONS_00086731;exon_number=1;gene_id=XLOC_035785;transcript_id=TCONS_00086731
 scaffold_22	StringTie	gene	4379220	4380065	.	+	.	ID=XLOC_035786;gene_id=XLOC_035786;oId=TCONS_00086732;transcript_id=TCONS_00086732;tss_id=TSS70271
@@ -2590,7 +2590,7 @@ scaffold_22	StringTie	exon	4450736	4451657	.	+	.	ID=exon-330496;Parent=TCONS_000
 scaffold_22	StringTie	exon	4475515	4475865	.	+	.	ID=exon-330497;Parent=TCONS_00086035;exon_number=2;gene_id=XLOC_035502;transcript_id=TCONS_00086035
 scaffold_22	StringTie	transcript	4475513	4475873	.	+	.	ID=TCONS_00086036;Parent=XLOC_035502;gene_id=XLOC_035502;oId=TCONS_00086036;transcript_id=TCONS_00086036;tss_id=TSS69720
 scaffold_22	StringTie	exon	4475513	4475873	.	+	.	ID=exon-330498;Parent=TCONS_00086036;exon_number=1;gene_id=XLOC_035502;transcript_id=TCONS_00086036
-scaffold_22	StringTie	gene	4502913	4521808	.	+	.	ID=XLOC_035503;gene_id=XLOC_035503;oId=TCONS_00086037;transcript_id=TCONS_00086037;tss_id=TSS69721
+scaffold_22	StringTie	gene	4502913	4521808	.	+	.	ID=XLOC_035503;gene_id=XLOC_035503;oId=TCONS_00086037;transcript_id=TCONS_00086037;tss_id=TSS69721;name=Dlx;description=ANTP-class distal-less homeobox;annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_22	StringTie	transcript	4502913	4504056	.	+	.	ID=TCONS_00086037;Parent=XLOC_035503;gene_id=XLOC_035503;oId=TCONS_00086037;transcript_id=TCONS_00086037;tss_id=TSS69721
 scaffold_22	StringTie	exon	4502913	4504056	.	+	.	ID=exon-330499;Parent=TCONS_00086037;exon_number=1;gene_id=XLOC_035503;transcript_id=TCONS_00086037
 scaffold_22	StringTie	transcript	4502919	4521808	.	+	.	ID=TCONS_00086038;Parent=XLOC_035503;gene_id=XLOC_035503;oId=TCONS_00086038;transcript_id=TCONS_00086038;tss_id=TSS69721

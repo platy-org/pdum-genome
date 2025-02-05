@@ -2831,7 +2831,7 @@ scaffold_29	StringTie	exon	3997269	3998794	.	+	.	ID=exon-359522;Parent=TCONS_000
 scaffold_29	StringTie	transcript	3986041	3987791	.	+	.	ID=TCONS_00093660;Parent=XLOC_038701;gene_id=XLOC_038701;oId=TCONS_00093660;transcript_id=TCONS_00093660;tss_id=TSS75809
 scaffold_29	StringTie	exon	3986041	3986176	.	+	.	ID=exon-359523;Parent=TCONS_00093660;exon_number=1;gene_id=XLOC_038701;transcript_id=TCONS_00093660
 scaffold_29	StringTie	exon	3986682	3987791	.	+	.	ID=exon-359524;Parent=TCONS_00093660;exon_number=2;gene_id=XLOC_038701;transcript_id=TCONS_00093660
-scaffold_29	StringTie	transcript	3986041	3998794	.	+	.	ID=TCONS_00093661;Parent=XLOC_038701;gene_id=XLOC_038701;oId=TCONS_00093661;transcript_id=TCONS_00093661;tss_id=TSS75809, name=cdx;annotator=wahyu cristine/Schneider lab
+scaffold_29	StringTie	transcript	3986041	3998794	.	+	.	ID=TCONS_00093661;Parent=XLOC_038701;gene_id=XLOC_038701;oId=TCONS_00093661;transcript_id=TCONS_00093661;tss_id=TSS75809;name=cdx;annotator=wahyu cristine/Schneider lab
 scaffold_29	StringTie	exon	3986041	3986176	.	+	.	ID=exon-359525;Parent=TCONS_00093661;exon_number=1;gene_id=XLOC_038701;transcript_id=TCONS_00093661
 scaffold_29	StringTie	exon	3986682	3987225	.	+	.	ID=exon-359526;Parent=TCONS_00093661;exon_number=2;gene_id=XLOC_038701;transcript_id=TCONS_00093661
 scaffold_29	StringTie	exon	3996793	3996971	.	+	.	ID=exon-359527;Parent=TCONS_00093661;exon_number=3;gene_id=XLOC_038701;transcript_id=TCONS_00093661

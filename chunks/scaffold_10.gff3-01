@@ -10512,7 +10512,7 @@ scaffold_10	StringTie	transcript	43102378	43102613	.	+	.	ID=TCONS_00026937;Paren
 scaffold_10	StringTie	exon	43102378	43102613	.	+	.	ID=exon-113721;Parent=TCONS_00026937;exon_number=1;gene_id=XLOC_009449;transcript_id=TCONS_00026937
 scaffold_10	StringTie	transcript	43104683	43106863	.	+	.	ID=TCONS_00026938;Parent=XLOC_009449;contained_in=TCONS_00026935;gene_id=XLOC_009449;oId=TCONS_00026938;transcript_id=TCONS_00026938;tss_id=TSS21481
 scaffold_10	StringTie	exon	43104683	43106863	.	+	.	ID=exon-113722;Parent=TCONS_00026938;exon_number=1;gene_id=XLOC_009449;transcript_id=TCONS_00026938
-scaffold_10	StringTie	gene	43135621	43144290	.	+	.	ID=XLOC_009450;gene_id=XLOC_009450;oId=TCONS_00026939;transcript_id=TCONS_00026939;tss_id=TSS21482
+scaffold_10	StringTie	gene	43135621	43144290	.	+	.	ID=XLOC_009450;gene_id=XLOC_009450;oId=TCONS_00026939;transcript_id=TCONS_00026939;tss_id=TSS21482;name=Dbx-1;description=ANTP-class developing brain homeobox 1;annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_10	StringTie	transcript	43135621	43144290	.	+	.	ID=TCONS_00026939;Parent=XLOC_009450;gene_id=XLOC_009450;oId=TCONS_00026939;transcript_id=TCONS_00026939;tss_id=TSS21482
 scaffold_10	StringTie	exon	43135621	43135962	.	+	.	ID=exon-113723;Parent=TCONS_00026939;exon_number=1;gene_id=XLOC_009450;transcript_id=TCONS_00026939
 scaffold_10	StringTie	exon	43139194	43139390	.	+	.	ID=exon-113724;Parent=TCONS_00026939;exon_number=2;gene_id=XLOC_009450;transcript_id=TCONS_00026939
@@ -10520,7 +10520,7 @@ scaffold_10	StringTie	exon	43143624	43144290	.	+	.	ID=exon-113725;Parent=TCONS_0
 scaffold_10	StringTie	gene	43170939	43173993	.	+	.	ID=XLOC_010906;gene_id=XLOC_010906;oId=TCONS_00030264;transcript_id=TCONS_00030264;tss_id=TSS24153
 scaffold_10	StringTie	transcript	43170939	43173993	.	+	.	ID=TCONS_00030264;Parent=XLOC_010906;gene_id=XLOC_010906;oId=TCONS_00030264;transcript_id=TCONS_00030264;tss_id=TSS24153
 scaffold_10	StringTie	exon	43170939	43173993	.	+	.	ID=exon-127001;Parent=TCONS_00030264;exon_number=1;gene_id=XLOC_010906;transcript_id=TCONS_00030264
-scaffold_10	StringTie	gene	43186072	43201936	.	-	.	ID=XLOC_010144;gene_id=XLOC_010144;oId=TCONS_00029170;transcript_id=TCONS_00029171;tss_id=TSS23167
+scaffold_10	StringTie	gene	43186072	43201936	.	-	.	ID=XLOC_010144;gene_id=XLOC_010144;oId=TCONS_00029170;transcript_id=TCONS_00029171;tss_id=TSS23167;name=Dbx-2;description=ANTP-class developing brain homeobox 2;annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_10	StringTie	transcript	43186072	43201936	.	-	.	ID=TCONS_00029171;Parent=XLOC_010144;gene_id=XLOC_010144;oId=TCONS_00029170;transcript_id=TCONS_00029171;tss_id=TSS23167
 scaffold_10	StringTie	exon	43186072	43186631	.	-	.	ID=exon-124260;Parent=TCONS_00029171;exon_number=1;gene_id=XLOC_010144;transcript_id=TCONS_00029171
 scaffold_10	StringTie	exon	43190471	43190667	.	-	.	ID=exon-124261;Parent=TCONS_00029171;exon_number=2;gene_id=XLOC_010144;transcript_id=TCONS_00029171

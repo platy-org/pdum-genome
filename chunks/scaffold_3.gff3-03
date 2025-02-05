@@ -7801,7 +7801,7 @@ scaffold_3	StringTie	exon	90891892	90894193	.	+	.	ID=exon-377673;Parent=TCONS_00
 scaffold_3	StringTie	gene	90800347	90802266	.	+	.	ID=XLOC_043180;gene_id=XLOC_043180;oId=TCONS_00104647;transcript_id=TCONS_00104647;tss_id=TSS84601
 scaffold_3	StringTie	transcript	90800347	90802266	.	+	.	ID=TCONS_00104647;Parent=XLOC_043180;gene_id=XLOC_043180;oId=TCONS_00104647;transcript_id=TCONS_00104647;tss_id=TSS84601
 scaffold_3	StringTie	exon	90800347	90802266	.	+	.	ID=exon-401375;Parent=TCONS_00104647;exon_number=1;gene_id=XLOC_043180;transcript_id=TCONS_00104647
-scaffold_3	StringTie	gene	90823165	90832106	.	-	.	ID=XLOC_041736;gene_id=XLOC_041736;oId=TCONS_00102821;transcript_id=TCONS_00102821;tss_id=TSS82920
+scaffold_3	StringTie	gene	90823165	90832106	.	-	.	ID=XLOC_041736;gene_id=XLOC_041736;oId=TCONS_00102821;transcript_id=TCONS_00102821;tss_id=TSS82920;name=TALE-2b;description=TALE-class unknown homeobox 2b;annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_3	StringTie	transcript	90823165	90826902	.	-	.	ID=TCONS_00102821;Parent=XLOC_041736;gene_id=XLOC_041736;oId=TCONS_00102821;transcript_id=TCONS_00102821;tss_id=TSS82920
 scaffold_3	StringTie	exon	90823165	90826902	.	-	.	ID=exon-397579;Parent=TCONS_00102821;exon_number=1;gene_id=XLOC_041736;transcript_id=TCONS_00102821
 scaffold_3	StringTie	transcript	90823200	90832043	.	-	.	ID=TCONS_00102822;Parent=XLOC_041736;gene_id=XLOC_041736;oId=TCONS_00102822;transcript_id=TCONS_00102822;tss_id=TSS82921

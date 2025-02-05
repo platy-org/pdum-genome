@@ -1276,7 +1276,7 @@ scaffold_4	StringTie	gene	75619117	75620088	.	+	.	ID=XLOC_046800;gene_id=XLOC_04
 scaffold_4	StringTie	transcript	75619117	75620088	.	+	.	ID=TCONS_00113366;Parent=XLOC_046800;gene_id=XLOC_046800;oId=TCONS_00113366;transcript_id=TCONS_00113366;tss_id=TSS91628
 scaffold_4	StringTie	exon	75619117	75619375	.	+	.	ID=exon-433984;Parent=TCONS_00113366;exon_number=1;gene_id=XLOC_046800;transcript_id=TCONS_00113366
 scaffold_4	StringTie	exon	75619428	75620088	.	+	.	ID=exon-433985;Parent=TCONS_00113366;exon_number=2;gene_id=XLOC_046800;transcript_id=TCONS_00113366
-scaffold_4	StringTie	gene	75679598	75683272	.	+	.	ID=XLOC_046801;gene_id=XLOC_046801;oId=TCONS_00113367;transcript_id=TCONS_00113367;tss_id=TSS91629
+scaffold_4	StringTie	gene	75679598	75683272	.	+	.	ID=XLOC_046801;gene_id=XLOC_046801;oId=TCONS_00113367;transcript_id=TCONS_00113367;tss_id=TSS91629;name=MIP/allatostatin B receptor;annotator=Liz Williams/Williams lab;PMID=23569279
 scaffold_4	StringTie	transcript	75679598	75683272	.	+	.	ID=TCONS_00113367;Parent=XLOC_046801;gene_id=XLOC_046801;oId=TCONS_00113367;transcript_id=TCONS_00113367;tss_id=TSS91629
 scaffold_4	StringTie	exon	75679598	75683272	.	+	.	ID=exon-433986;Parent=TCONS_00113367;exon_number=1;gene_id=XLOC_046801;transcript_id=TCONS_00113367
 scaffold_4	StringTie	transcript	75679599	75683211	.	+	.	ID=TCONS_00113368;Parent=XLOC_046801;gene_id=XLOC_046801;oId=TCONS_00113368;transcript_id=TCONS_00113368;tss_id=TSS91629

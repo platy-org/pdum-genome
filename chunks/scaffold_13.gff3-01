@@ -4341,7 +4341,7 @@ scaffold_13	StringTie	exon	32915721	32917366	.	+	.	ID=exon-201078;Parent=TCONS_0
 scaffold_13	StringTie	gene	32920672	32921432	.	+	.	ID=XLOC_018323;gene_id=XLOC_018323;oId=TCONS_00048866;transcript_id=TCONS_00048866;tss_id=TSS39121
 scaffold_13	StringTie	transcript	32920672	32921432	.	+	.	ID=TCONS_00048866;Parent=XLOC_018323;gene_id=XLOC_018323;oId=TCONS_00048866;transcript_id=TCONS_00048866;tss_id=TSS39121
 scaffold_13	StringTie	exon	32920672	32921432	.	+	.	ID=exon-201079;Parent=TCONS_00048866;exon_number=1;gene_id=XLOC_018323;transcript_id=TCONS_00048866
-scaffold_13	StringTie	gene	32950630	32969899	.	+	.	ID=XLOC_017413;gene_id=XLOC_017413;oId=TCONS_00047072;transcript_id=TCONS_00047072;tss_id=TSS37679
+scaffold_13	StringTie	gene	32950630	32969899	.	+	.	ID=XLOC_017413;gene_id=XLOC_017413;oId=TCONS_00047072;transcript_id=TCONS_00047072;tss_id=TSS37679;name=FoxL2;annotator=SQS/Schneider lab
 scaffold_13	StringTie	transcript	32950630	32954412	.	+	.	ID=TCONS_00047072;Parent=XLOC_017413;gene_id=XLOC_017413;oId=TCONS_00047072;transcript_id=TCONS_00047072;tss_id=TSS37679
 scaffold_13	StringTie	exon	32950630	32951087	.	+	.	ID=exon-194605;Parent=TCONS_00047072;exon_number=1;gene_id=XLOC_017413;transcript_id=TCONS_00047072
 scaffold_13	StringTie	exon	32951398	32954412	.	+	.	ID=exon-194606;Parent=TCONS_00047072;exon_number=2;gene_id=XLOC_017413;transcript_id=TCONS_00047072

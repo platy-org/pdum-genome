@@ -2350,7 +2350,7 @@ scaffold_7	StringTie	exon	66398156	66399869	.	+	.	ID=exon-560696;Parent=TCONS_00
 scaffold_7	StringTie	gene	66405513	66405807	.	+	.	ID=XLOC_062054;gene_id=XLOC_062054;oId=TCONS_00148573;transcript_id=TCONS_00148573;tss_id=TSS120076
 scaffold_7	StringTie	transcript	66405513	66405807	.	+	.	ID=TCONS_00148573;Parent=XLOC_062054;gene_id=XLOC_062054;oId=TCONS_00148573;transcript_id=TCONS_00148573;tss_id=TSS120076
 scaffold_7	StringTie	exon	66405513	66405807	.	+	.	ID=exon-560697;Parent=TCONS_00148573;exon_number=1;gene_id=XLOC_062054;transcript_id=TCONS_00148573
-scaffold_7	StringTie	gene	66416995	66417277	.	+	.	ID=XLOC_062055;gene_id=XLOC_062055;oId=TCONS_00148574;transcript_id=TCONS_00148574;tss_id=TSS120077
+scaffold_7	StringTie	gene	66416995	66417277	.	+	.	ID=XLOC_062055;gene_id=XLOC_062055;oId=TCONS_00148574;transcript_id=TCONS_00148574;tss_id=TSS120077;name=Prop;description=PRD-class prophet of pit1 homeobox;annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_7	StringTie	transcript	66416995	66417277	.	+	.	ID=TCONS_00148574;Parent=XLOC_062055;gene_id=XLOC_062055;oId=TCONS_00148574;transcript_id=TCONS_00148574;tss_id=TSS120077
 scaffold_7	StringTie	exon	66416995	66417277	.	+	.	ID=exon-560698;Parent=TCONS_00148574;exon_number=1;gene_id=XLOC_062055;transcript_id=TCONS_00148574
 scaffold_7	StringTie	gene	66428037	66428694	.	+	.	ID=XLOC_062056;gene_id=XLOC_062056;oId=TCONS_00148575;transcript_id=TCONS_00148575;tss_id=TSS120078

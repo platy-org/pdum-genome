@@ -80,7 +80,7 @@ scaffold_1	StringTie	exon	59160386	59162172	.	-	.	ID=exon-66330;Parent=TCONS_000
 scaffold_1	StringTie	exon	59170215	59170382	.	-	.	ID=exon-66331;Parent=TCONS_00014422;exon_number=2;gene_id=XLOC_003827;transcript_id=TCONS_00014422
 scaffold_1	StringTie	exon	59170882	59171110	.	-	.	ID=exon-66332;Parent=TCONS_00014422;exon_number=3;gene_id=XLOC_003827;transcript_id=TCONS_00014422
 scaffold_1	StringTie	exon	59198426	59205545	.	-	.	ID=exon-66333;Parent=TCONS_00014422;exon_number=4;gene_id=XLOC_003827;transcript_id=TCONS_00014422
-scaffold_1	StringTie	gene	59197479	59247048	.	+	.	ID=XLOC_000902;gene_id=XLOC_000902;oId=TCONS_00003228;transcript_id=TCONS_00003228;tss_id=TSS2513
+scaffold_1	StringTie	gene	59197479	59247048	.	+	.	ID=XLOC_000902;gene_id=XLOC_000902;oId=TCONS_00003228;transcript_id=TCONS_00003228;tss_id=TSS2513;name=Hmbox;description=HNF-class homeobox containing homeobox;annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_1	StringTie	transcript	59197479	59244613	.	+	.	ID=TCONS_00003228;Parent=XLOC_000902;gene_id=XLOC_000902;oId=TCONS_00003228;transcript_id=TCONS_00003228;tss_id=TSS2513
 scaffold_1	StringTie	exon	59197479	59200358	.	+	.	ID=exon-15128;Parent=TCONS_00003228;exon_number=1;gene_id=XLOC_000902;transcript_id=TCONS_00003228
 scaffold_1	StringTie	exon	59229696	59230477	.	+	.	ID=exon-15129;Parent=TCONS_00003228;exon_number=2;gene_id=XLOC_000902;transcript_id=TCONS_00003228

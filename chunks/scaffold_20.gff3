@@ -2408,7 +2408,7 @@ scaffold_20	StringTie	transcript	5286522	5292467	.	-	.	ID=TCONS_00083512;Parent=
 scaffold_20	StringTie	exon	5286522	5287986	.	-	.	ID=exon-322198;Parent=TCONS_00083512;exon_number=1;gene_id=XLOC_034262;transcript_id=TCONS_00083512
 scaffold_20	StringTie	exon	5288100	5288380	.	-	.	ID=exon-322199;Parent=TCONS_00083512;exon_number=2;gene_id=XLOC_034262;transcript_id=TCONS_00083512
 scaffold_20	StringTie	exon	5292356	5292467	.	-	.	ID=exon-322200;Parent=TCONS_00083512;exon_number=3;gene_id=XLOC_034262;transcript_id=TCONS_00083512
-scaffold_20	StringTie	gene	5289030	5319761	.	-	.	ID=XLOC_034263;gene_id=XLOC_034263;oId=TCONS_00083514;transcript_id=TCONS_00083514;tss_id=TSS67614
+scaffold_20	StringTie	gene	5289030	5319761	.	-	.	ID=XLOC_034263;gene_id=XLOC_034263;oId=TCONS_00083514;transcript_id=TCONS_00083514;tss_id=TSS67614;name=Tubulin epsilon;annotator=SQS/Schneider lab
 scaffold_20	StringTie	transcript	5289030	5319761	.	-	.	ID=TCONS_00083513;Parent=XLOC_034263;gene_id=XLOC_034263;oId=TCONS_00083513;transcript_id=TCONS_00083513;tss_id=TSS67614
 scaffold_20	StringTie	exon	5289030	5289104	.	-	.	ID=exon-322215;Parent=TCONS_00083513;exon_number=1;gene_id=XLOC_034263;transcript_id=TCONS_00083513
 scaffold_20	StringTie	exon	5292993	5293526	.	-	.	ID=exon-322216;Parent=TCONS_00083513;exon_number=2;gene_id=XLOC_034263;transcript_id=TCONS_00083513

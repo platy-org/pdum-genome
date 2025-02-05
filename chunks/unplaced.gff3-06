@@ -5736,7 +5736,7 @@ scaffold_95	StringTie	exon	750792	754601	.	+	.	ID=exon-625030;Parent=TCONS_00165
 scaffold_95	StringTie	gene	774356	774765	.	+	.	ID=XLOC_069343;gene_id=XLOC_069343;oId=TCONS_00165706;transcript_id=TCONS_00165706;tss_id=TSS133673
 scaffold_95	StringTie	transcript	774356	774765	.	+	.	ID=TCONS_00165706;Parent=XLOC_069343;gene_id=XLOC_069343;oId=TCONS_00165706;transcript_id=TCONS_00165706;tss_id=TSS133673
 scaffold_95	StringTie	exon	774356	774765	.	+	.	ID=exon-625031;Parent=TCONS_00165706;exon_number=1;gene_id=XLOC_069343;transcript_id=TCONS_00165706
-scaffold_95	StringTie	gene	797179	873601	.	-	.	ID=XLOC_069317;gene_id=XLOC_069317;oId=TCONS_00165657;transcript_id=TCONS_00165657;tss_id=TSS133634
+scaffold_95	StringTie	gene	797179	873601	.	-	.	ID=XLOC_069317;gene_id=XLOC_069317;oId=TCONS_00165657;transcript_id=TCONS_00165657;tss_id=TSS133634;name=Emx-1;description=ANTP-class empty spiracles homeobox 1;annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_95	StringTie	transcript	797179	864575	.	-	.	ID=TCONS_00165656;Parent=XLOC_069317;gene_id=XLOC_069317;oId=TCONS_00165656;transcript_id=TCONS_00165656;tss_id=TSS133634
 scaffold_95	StringTie	exon	797179	799537	.	-	.	ID=exon-624865;Parent=TCONS_00165656;exon_number=1;gene_id=XLOC_069317;transcript_id=TCONS_00165656
 scaffold_95	StringTie	exon	834035	834204	.	-	.	ID=exon-624866;Parent=TCONS_00165656;exon_number=2;gene_id=XLOC_069317;transcript_id=TCONS_00165656
@@ -5784,7 +5784,7 @@ scaffold_95	StringTie	exon	983067	983291	.	+	.	ID=exon-625035;Parent=TCONS_00165
 scaffold_95	StringTie	gene	990474	990711	.	+	.	ID=XLOC_069348;gene_id=XLOC_069348;oId=TCONS_00165711;transcript_id=TCONS_00165711;tss_id=TSS133678
 scaffold_95	StringTie	transcript	990474	990711	.	+	.	ID=TCONS_00165711;Parent=XLOC_069348;gene_id=XLOC_069348;oId=TCONS_00165711;transcript_id=TCONS_00165711;tss_id=TSS133678
 scaffold_95	StringTie	exon	990474	990711	.	+	.	ID=exon-625036;Parent=TCONS_00165711;exon_number=1;gene_id=XLOC_069348;transcript_id=TCONS_00165711
-scaffold_95	StringTie	gene	1001919	1029197	.	-	.	ID=XLOC_069321;gene_id=XLOC_069321;oId=TCONS_00165665;transcript_id=TCONS_00165665;tss_id=TSS133640
+scaffold_95	StringTie	gene	1001919	1029197	.	-	.	ID=XLOC_069321;gene_id=XLOC_069321;oId=TCONS_00165665;transcript_id=TCONS_00165665;tss_id=TSS133640;name=Emx-2;description=ANTP-class empty spiracles homeobox 2;annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_95	StringTie	transcript	1001919	1029197	.	-	.	ID=TCONS_00165665;Parent=XLOC_069321;gene_id=XLOC_069321;oId=TCONS_00165665;transcript_id=TCONS_00165665;tss_id=TSS133640
 scaffold_95	StringTie	exon	1001919	1003072	.	-	.	ID=exon-624881;Parent=TCONS_00165665;exon_number=1;gene_id=XLOC_069321;transcript_id=TCONS_00165665
 scaffold_95	StringTie	exon	1014199	1014365	.	-	.	ID=exon-624882;Parent=TCONS_00165665;exon_number=2;gene_id=XLOC_069321;transcript_id=TCONS_00165665

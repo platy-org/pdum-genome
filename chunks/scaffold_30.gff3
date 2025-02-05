@@ -1929,7 +1929,7 @@ scaffold_30	StringTie	exon	4258549	4260548	.	-	.	ID=exon-402926;Parent=TCONS_001
 scaffold_30	StringTie	transcript	4258691	4261029	.	-	.	ID=TCONS_00105263;Parent=XLOC_043537;gene_id=XLOC_043537;oId=TCONS_00105263;transcript_id=TCONS_00105263;tss_id=TSS85143
 scaffold_30	StringTie	exon	4258691	4260546	.	-	.	ID=exon-402927;Parent=TCONS_00105263;exon_number=1;gene_id=XLOC_043537;transcript_id=TCONS_00105263
 scaffold_30	StringTie	exon	4260932	4261029	.	-	.	ID=exon-402928;Parent=TCONS_00105263;exon_number=2;gene_id=XLOC_043537;transcript_id=TCONS_00105263
-scaffold_30	StringTie	gene	4279115	4302679	.	-	.	ID=XLOC_043538;gene_id=XLOC_043538;oId=TCONS_00105264;transcript_id=TCONS_00105264;tss_id=TSS85144
+scaffold_30	StringTie	gene	4279115	4302679	.	-	.	ID=XLOC_043538;gene_id=XLOC_043538;oId=TCONS_00105264;transcript_id=TCONS_00105264;tss_id=TSS85144;name=Evx;description=ANTP-class even-skipped homeobox;annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_30	StringTie	transcript	4279115	4302679	.	-	.	ID=TCONS_00105264;Parent=XLOC_043538;gene_id=XLOC_043538;oId=TCONS_00105264;transcript_id=TCONS_00105264;tss_id=TSS85144
 scaffold_30	StringTie	exon	4279115	4280793	.	-	.	ID=exon-402929;Parent=TCONS_00105264;exon_number=1;gene_id=XLOC_043538;transcript_id=TCONS_00105264
 scaffold_30	StringTie	exon	4281165	4281322	.	-	.	ID=exon-402930;Parent=TCONS_00105264;exon_number=2;gene_id=XLOC_043538;transcript_id=TCONS_00105264

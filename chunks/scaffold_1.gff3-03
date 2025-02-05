@@ -4219,7 +4219,7 @@ scaffold_1	StringTie	transcript	64856274	64856480	.	-	.	ID=TCONS_00014759;Parent
 scaffold_1	StringTie	exon	64856274	64856480	.	-	.	ID=exon-67799;Parent=TCONS_00014759;exon_number=1;gene_id=XLOC_003931;transcript_id=TCONS_00014759
 scaffold_1	StringTie	transcript	64857922	64858253	.	-	.	ID=TCONS_00014760;Parent=XLOC_003931;gene_id=XLOC_003931;oId=TCONS_00014760;transcript_id=TCONS_00014760;tss_id=TSS11448
 scaffold_1	StringTie	exon	64857922	64858253	.	-	.	ID=exon-67800;Parent=TCONS_00014760;exon_number=1;gene_id=XLOC_003931;transcript_id=TCONS_00014760
-scaffold_1	StringTie	gene	64858306	64861764	.	+	.	ID=XLOC_000984;gene_id=XLOC_000984;oId=TCONS_00003573;transcript_id=TCONS_00003573;tss_id=TSS2774
+scaffold_1	StringTie	gene	64858306	64861764	.	+	.	ID=XLOC_000984;gene_id=XLOC_000984;oId=TCONS_00003573;transcript_id=TCONS_00003573;tss_id=TSS2774;name=tektin2;annotator=Steffanie Meha/Schneider lab
 scaffold_1	StringTie	transcript	64858306	64861127	.	+	.	ID=TCONS_00003572;Parent=XLOC_000984;gene_id=XLOC_000984;oId=TCONS_00003572;transcript_id=TCONS_00003572;tss_id=TSS2774
 scaffold_1	StringTie	exon	64858306	64858508	.	+	.	ID=exon-16679;Parent=TCONS_00003572;exon_number=1;gene_id=XLOC_000984;transcript_id=TCONS_00003572
 scaffold_1	StringTie	exon	64858836	64859270	.	+	.	ID=exon-16680;Parent=TCONS_00003572;exon_number=2;gene_id=XLOC_000984;transcript_id=TCONS_00003572

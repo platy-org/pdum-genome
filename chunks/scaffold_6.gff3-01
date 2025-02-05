@@ -498,7 +498,7 @@ scaffold_6	StringTie	exon	21920742	21921928	.	+	.	ID=exon-497755;Parent=TCONS_00
 scaffold_6	StringTie	gene	21938800	21939168	.	+	.	ID=XLOC_057249;gene_id=XLOC_057249;oId=TCONS_00137238;transcript_id=TCONS_00137239;tss_id=TSS110789
 scaffold_6	StringTie	transcript	21938800	21939168	.	+	.	ID=TCONS_00137239;Parent=XLOC_057249;gene_id=XLOC_057249;oId=TCONS_00137238;transcript_id=TCONS_00137239;tss_id=TSS110789
 scaffold_6	StringTie	exon	21938800	21939168	.	+	.	ID=exon-519561;Parent=TCONS_00137239;exon_number=1;gene_id=XLOC_057249;transcript_id=TCONS_00137239
-scaffold_6	StringTie	gene	21946230	21954218	.	+	.	ID=XLOC_055250;gene_id=XLOC_055250;oId=TCONS_00131830;transcript_id=TCONS_00131830;tss_id=TSS106617
+scaffold_6	StringTie	gene	21946230	21954218	.	+	.	ID=XLOC_055250;gene_id=XLOC_055250;oId=TCONS_00131830;transcript_id=TCONS_00131830;tss_id=TSS106617;name=Lhx6/8;description=LIM-class lim domain 6/8 homeobox (arrowhead);annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_6	StringTie	transcript	21946230	21954218	.	+	.	ID=TCONS_00131830;Parent=XLOC_055250;gene_id=XLOC_055250;oId=TCONS_00131830;transcript_id=TCONS_00131830;tss_id=TSS106617
 scaffold_6	StringTie	exon	21946230	21948403	.	+	.	ID=exon-497756;Parent=TCONS_00131830;exon_number=1;gene_id=XLOC_055250;transcript_id=TCONS_00131830
 scaffold_6	StringTie	exon	21950129	21950340	.	+	.	ID=exon-497757;Parent=TCONS_00131830;exon_number=2;gene_id=XLOC_055250;transcript_id=TCONS_00131830
@@ -538,7 +538,7 @@ scaffold_6	StringTie	transcript	22046086	22052666	.	-	.	ID=TCONS_00134928;Parent
 scaffold_6	StringTie	exon	22046086	22046562	.	-	.	ID=exon-510315;Parent=TCONS_00134928;exon_number=1;gene_id=XLOC_056240;transcript_id=TCONS_00134928
 scaffold_6	StringTie	exon	22049158	22050154	.	-	.	ID=exon-510316;Parent=TCONS_00134928;exon_number=2;gene_id=XLOC_056240;transcript_id=TCONS_00134928
 scaffold_6	StringTie	exon	22050231	22052666	.	-	.	ID=exon-510317;Parent=TCONS_00134928;exon_number=3;gene_id=XLOC_056240;transcript_id=TCONS_00134928
-scaffold_6	StringTie	gene	22066081	22088690	.	+	.	ID=XLOC_055252;gene_id=XLOC_055252;oId=TCONS_00131836;transcript_id=TCONS_00131836;tss_id=TSS106621
+scaffold_6	StringTie	gene	22066081	22088690	.	+	.	ID=XLOC_055252;gene_id=XLOC_055252;oId=TCONS_00131836;transcript_id=TCONS_00131836;tss_id=TSS106621;name=Prrx;description=PRD-class paired-related homeobox;annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_6	StringTie	transcript	22066081	22088690	.	+	.	ID=TCONS_00131836;Parent=XLOC_055252;gene_id=XLOC_055252;oId=TCONS_00131836;transcript_id=TCONS_00131836;tss_id=TSS106621
 scaffold_6	StringTie	exon	22066081	22066694	.	+	.	ID=exon-497768;Parent=TCONS_00131836;exon_number=1;gene_id=XLOC_055252;transcript_id=TCONS_00131836
 scaffold_6	StringTie	exon	22084413	22084615	.	+	.	ID=exon-497769;Parent=TCONS_00131836;exon_number=2;gene_id=XLOC_055252;transcript_id=TCONS_00131836
@@ -8520,7 +8520,7 @@ scaffold_6	StringTie	exon	38468058	38468803	.	+	.	ID=exon-519792;Parent=TCONS_00
 scaffold_6	StringTie	gene	38480543	38482584	.	+	.	ID=XLOC_057475;gene_id=XLOC_057475;oId=TCONS_00137470;transcript_id=TCONS_00137471;tss_id=TSS111018
 scaffold_6	StringTie	transcript	38480543	38482584	.	+	.	ID=TCONS_00137471;Parent=XLOC_057475;gene_id=XLOC_057475;oId=TCONS_00137470;transcript_id=TCONS_00137471;tss_id=TSS111018
 scaffold_6	StringTie	exon	38480543	38482584	.	+	.	ID=exon-519793;Parent=TCONS_00137471;exon_number=1;gene_id=XLOC_057475;transcript_id=TCONS_00137471
-scaffold_6	StringTie	gene	38495909	38566842	.	+	.	ID=XLOC_055462;gene_id=XLOC_055462;oId=TCONS_00132576;transcript_id=TCONS_00132576;tss_id=TSS107181
+scaffold_6	StringTie	gene	38495909	38566842	.	+	.	ID=XLOC_055462;gene_id=XLOC_055462;oId=TCONS_00132576;transcript_id=TCONS_00132576;tss_id=TSS107181;name=Lmx;description=LIM-class lim domain homeobox;annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_6	StringTie	transcript	38495909	38566842	.	+	.	ID=TCONS_00132576;Parent=XLOC_055462;gene_id=XLOC_055462;oId=TCONS_00132576;transcript_id=TCONS_00132576;tss_id=TSS107181
 scaffold_6	StringTie	exon	38495909	38495936	.	+	.	ID=exon-500763;Parent=TCONS_00132576;exon_number=1;gene_id=XLOC_055462;transcript_id=TCONS_00132576
 scaffold_6	StringTie	exon	38496802	38497040	.	+	.	ID=exon-500764;Parent=TCONS_00132576;exon_number=2;gene_id=XLOC_055462;transcript_id=TCONS_00132576
@@ -12660,7 +12660,7 @@ scaffold_6	StringTie	exon	45038989	45039564	.	+	.	ID=exon-502022;Parent=TCONS_00
 scaffold_6	StringTie	gene	45047984	45048277	.	+	.	ID=XLOC_057571;gene_id=XLOC_057571;oId=TCONS_00137568;transcript_id=TCONS_00137569;tss_id=TSS111115
 scaffold_6	StringTie	transcript	45047984	45048277	.	+	.	ID=TCONS_00137569;Parent=XLOC_057571;gene_id=XLOC_057571;oId=TCONS_00137568;transcript_id=TCONS_00137569;tss_id=TSS111115
 scaffold_6	StringTie	exon	45047984	45048277	.	+	.	ID=exon-519891;Parent=TCONS_00137569;exon_number=1;gene_id=XLOC_057571;transcript_id=TCONS_00137569
-scaffold_6	StringTie	gene	45131408	45152349	.	-	.	ID=XLOC_056544;gene_id=XLOC_056544;oId=TCONS_00135849;transcript_id=TCONS_00135849;tss_id=TSS109669
+scaffold_6	StringTie	gene	45131408	45152349	.	-	.	ID=XLOC_056544;gene_id=XLOC_056544;oId=TCONS_00135849;transcript_id=TCONS_00135849;tss_id=TSS109669;name=Barhl;description=ANTP-class barh-like homeobox (B-H);annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_6	StringTie	transcript	45131408	45152349	.	-	.	ID=TCONS_00135849;Parent=XLOC_056544;gene_id=XLOC_056544;oId=TCONS_00135849;transcript_id=TCONS_00135849;tss_id=TSS109669
 scaffold_6	StringTie	exon	45131408	45133339	.	-	.	ID=exon-514591;Parent=TCONS_00135849;exon_number=1;gene_id=XLOC_056544;transcript_id=TCONS_00135849
 scaffold_6	StringTie	exon	45139001	45139214	.	-	.	ID=exon-514592;Parent=TCONS_00135849;exon_number=2;gene_id=XLOC_056544;transcript_id=TCONS_00135849

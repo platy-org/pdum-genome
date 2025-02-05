@@ -4892,7 +4892,7 @@ scaffold_6	StringTie	transcript	30600108	30601676	.	+	.	ID=TCONS_00132240;Parent
 scaffold_6	StringTie	exon	30600108	30601054	.	+	.	ID=exon-499597;Parent=TCONS_00132240;exon_number=1;gene_id=XLOC_055366;transcript_id=TCONS_00132240
 scaffold_6	StringTie	exon	30601177	30601676	.	+	.	ID=exon-499598;Parent=TCONS_00132240;exon_number=2;gene_id=XLOC_055366;transcript_id=TCONS_00132240
 scaffold_6	StringTie	gene	30600108	30639157	.	-	.	ID=XLOC_056341;gene_id=XLOC_056341;oId=TCONS_00135236;transcript_id=TCONS_00135236;tss_id=TSS109191
-scaffold_6	StringTie	transcript	30600108	30639155	.	-	.	ID=TCONS_00135235;Parent=XLOC_056341;gene_id=XLOC_056341;oId=TCONS_00135235;transcript_id=TCONS_00135235;tss_id=TSS109191
+scaffold_6	StringTie	transcript	30600108	30639155	.	-	.	ID=TCONS_00135235;Parent=XLOC_056341;gene_id=XLOC_056341;oId=TCONS_00135235;transcript_id=TCONS_00135235;tss_id=TSS109191;name=dbh (dopamine beta-hydroxylase);annotator=Benedikt R. Duerr (ORCID:0000-0003-4052-9577) / Jekely lab
 scaffold_6	StringTie	exon	30600108	30601679	.	-	.	ID=exon-511548;Parent=TCONS_00135235;exon_number=1;gene_id=XLOC_056341;transcript_id=TCONS_00135235
 scaffold_6	StringTie	exon	30602952	30603105	.	-	.	ID=exon-511549;Parent=TCONS_00135235;exon_number=2;gene_id=XLOC_056341;transcript_id=TCONS_00135235
 scaffold_6	StringTie	exon	30605397	30605524	.	-	.	ID=exon-511550;Parent=TCONS_00135235;exon_number=3;gene_id=XLOC_056341;transcript_id=TCONS_00135235

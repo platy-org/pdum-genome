@@ -1233,7 +1233,7 @@ scaffold_9	StringTie	transcript	23117411	23123088	.	-	.	ID=TCONS_00162776;Parent
 scaffold_9	StringTie	exon	23117411	23123088	.	-	.	ID=exon-615863;Parent=TCONS_00162776;exon_number=1;gene_id=XLOC_067707;transcript_id=TCONS_00162776
 scaffold_9	StringTie	transcript	23121196	23123090	.	-	.	ID=TCONS_00162777;Parent=XLOC_067707;contained_in=TCONS_00162776;gene_id=XLOC_067707;oId=TCONS_00162777;transcript_id=TCONS_00162777;tss_id=TSS131212
 scaffold_9	StringTie	exon	23121196	23123090	.	-	.	ID=exon-615864;Parent=TCONS_00162777;exon_number=1;gene_id=XLOC_067707;transcript_id=TCONS_00162777
-scaffold_9	StringTie	gene	23123768	23182969	.	-	.	ID=XLOC_067708;gene_id=XLOC_067708;oId=TCONS_00162778;transcript_id=TCONS_00162778;tss_id=TSS131213
+scaffold_9	StringTie	gene	23123768	23182969	.	-	.	ID=XLOC_067708;gene_id=XLOC_067708;oId=TCONS_00162778;transcript_id=TCONS_00162778;tss_id=TSS131213;name=TALE-IV-1;description=TALE-class IV homebox 1;annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_9	StringTie	transcript	23123768	23159320	.	-	.	ID=TCONS_00162778;Parent=XLOC_067708;gene_id=XLOC_067708;oId=TCONS_00162778;transcript_id=TCONS_00162778;tss_id=TSS131213
 scaffold_9	StringTie	exon	23123768	23127177	.	-	.	ID=exon-615865;Parent=TCONS_00162778;exon_number=1;gene_id=XLOC_067708;transcript_id=TCONS_00162778
 scaffold_9	StringTie	exon	23129379	23129503	.	-	.	ID=exon-615866;Parent=TCONS_00162778;exon_number=2;gene_id=XLOC_067708;transcript_id=TCONS_00162778
@@ -3887,7 +3887,7 @@ scaffold_9	StringTie	exon	28444574	28445064	.	+	.	ID=exon-605989;Parent=TCONS_00
 scaffold_9	StringTie	gene	28461695	28462108	.	+	.	ID=XLOC_068607;gene_id=XLOC_068607;oId=TCONS_00164537;transcript_id=TCONS_00164537;tss_id=TSS132659
 scaffold_9	StringTie	transcript	28461695	28462108	.	+	.	ID=TCONS_00164537;Parent=XLOC_068607;gene_id=XLOC_068607;oId=TCONS_00164537;transcript_id=TCONS_00164537;tss_id=TSS132659
 scaffold_9	StringTie	exon	28461695	28462108	.	+	.	ID=exon-621870;Parent=TCONS_00164537;exon_number=1;gene_id=XLOC_068607;transcript_id=TCONS_00164537
-scaffold_9	StringTie	gene	28473037	28490162	.	+	.	ID=XLOC_066948;gene_id=XLOC_066948;oId=TCONS_00160371;transcript_id=TCONS_00160371;tss_id=TSS129403
+scaffold_9	StringTie	gene	28473037	28490162	.	+	.	ID=XLOC_066948;gene_id=XLOC_066948;oId=TCONS_00160371;transcript_id=TCONS_00160371;tss_id=TSS129403;name=PRD-VII;description=PRD-class VII homeobox;annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_9	StringTie	transcript	28473037	28490162	.	+	.	ID=TCONS_00160371;Parent=XLOC_066948;gene_id=XLOC_066948;oId=TCONS_00160371;transcript_id=TCONS_00160371;tss_id=TSS129403
 scaffold_9	StringTie	exon	28473037	28473983	.	+	.	ID=exon-605990;Parent=TCONS_00160371;exon_number=1;gene_id=XLOC_066948;transcript_id=TCONS_00160371
 scaffold_9	StringTie	exon	28483823	28484192	.	+	.	ID=exon-605991;Parent=TCONS_00160371;exon_number=2;gene_id=XLOC_066948;transcript_id=TCONS_00160371

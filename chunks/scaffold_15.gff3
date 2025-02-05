@@ -6157,7 +6157,7 @@ scaffold_15	StringTie	exon	9204668	9205104	.	-	.	ID=exon-220376;Parent=TCONS_000
 scaffold_15	StringTie	exon	9213858	9214304	.	-	.	ID=exon-220377;Parent=TCONS_00053975;exon_number=4;gene_id=XLOC_020369;transcript_id=TCONS_00053975
 scaffold_15	StringTie	transcript	9200962	9205177	.	-	.	ID=TCONS_00053976;Parent=XLOC_020369;gene_id=XLOC_020369;oId=TCONS_00053976;transcript_id=TCONS_00053976;tss_id=TSS43143
 scaffold_15	StringTie	exon	9200962	9205177	.	-	.	ID=exon-220378;Parent=TCONS_00053976;exon_number=1;gene_id=XLOC_020369;transcript_id=TCONS_00053976
-scaffold_15	StringTie	gene	9221829	9223200	.	-	.	ID=XLOC_020370;gene_id=XLOC_020370;oId=TCONS_00053977;transcript_id=TCONS_00053977;tss_id=TSS43144
+scaffold_15	StringTie	gene	9221829	9223200	.	-	.	ID=XLOC_020370;gene_id=XLOC_020370;oId=TCONS_00053977;transcript_id=TCONS_00053977;tss_id=TSS43144;name=FzCRD-3;annotator=SQS/Schneider lab
 scaffold_15	StringTie	transcript	9221829	9223183	.	-	.	ID=TCONS_00053977;Parent=XLOC_020370;gene_id=XLOC_020370;oId=TCONS_00053977;transcript_id=TCONS_00053977;tss_id=TSS43144
 scaffold_15	StringTie	exon	9221829	9222717	.	-	.	ID=exon-220379;Parent=TCONS_00053977;exon_number=1;gene_id=XLOC_020370;transcript_id=TCONS_00053977
 scaffold_15	StringTie	exon	9222936	9223183	.	-	.	ID=exon-220380;Parent=TCONS_00053977;exon_number=2;gene_id=XLOC_020370;transcript_id=TCONS_00053977

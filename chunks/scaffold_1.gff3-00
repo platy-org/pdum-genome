@@ -4425,7 +4425,7 @@ scaffold_1	StringTie	exon	9898249	9898330	.	-	.	ID=exon-54167;Parent=TCONS_00011
 scaffold_1	StringTie	gene	9912861	9914367	.	+	.	ID=XLOC_000128;gene_id=XLOC_000128;oId=TCONS_00000414;transcript_id=TCONS_00000414;tss_id=TSS321
 scaffold_1	StringTie	transcript	9912861	9914367	.	+	.	ID=TCONS_00000414;Parent=XLOC_000128;gene_id=XLOC_000128;oId=TCONS_00000414;transcript_id=TCONS_00000414;tss_id=TSS321
 scaffold_1	StringTie	exon	9912861	9914367	.	+	.	ID=exon-1762;Parent=TCONS_00000414;exon_number=1;gene_id=XLOC_000128;transcript_id=TCONS_00000414
-scaffold_1	StringTie	gene	9996642	10068440	.	+	.	ID=XLOC_000129;gene_id=XLOC_000129;oId=TCONS_00000415;transcript_id=TCONS_00000415;tss_id=TSS322
+scaffold_1	StringTie	gene	9996642	10068440	.	+	.	ID=XLOC_000129;gene_id=XLOC_000129;oId=TCONS_00000415;transcript_id=TCONS_00000415;tss_id=TSS322;name=Pou4;description=POU-class 4 homeobox (abnormal chemosensory jump 6);annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_1	StringTie	transcript	9996642	10036992	.	+	.	ID=TCONS_00000415;Parent=XLOC_000129;gene_id=XLOC_000129;oId=TCONS_00000415;transcript_id=TCONS_00000415;tss_id=TSS322
 scaffold_1	StringTie	exon	9996642	9996730	.	+	.	ID=exon-1763;Parent=TCONS_00000415;exon_number=1;gene_id=XLOC_000129;transcript_id=TCONS_00000415
 scaffold_1	StringTie	exon	10018689	10018833	.	+	.	ID=exon-1764;Parent=TCONS_00000415;exon_number=2;gene_id=XLOC_000129;transcript_id=TCONS_00000415

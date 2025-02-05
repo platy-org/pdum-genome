@@ -132,7 +132,7 @@ scaffold_27	StringTie	gene	83346	84836	.	-	.	ID=XLOC_037961;gene_id=XLOC_037961;
 scaffold_27	StringTie	transcript	83346	84836	.	-	.	ID=TCONS_00092028;Parent=XLOC_037961;gene_id=XLOC_037961;oId=TCONS_00092028;transcript_id=TCONS_00092028;tss_id=TSS74479
 scaffold_27	StringTie	exon	83346	84535	.	-	.	ID=exon-353160;Parent=TCONS_00092028;exon_number=1;gene_id=XLOC_037961;transcript_id=TCONS_00092028
 scaffold_27	StringTie	exon	84600	84836	.	-	.	ID=exon-353161;Parent=TCONS_00092028;exon_number=2;gene_id=XLOC_037961;transcript_id=TCONS_00092028
-scaffold_27	StringTie	gene	136348	167376	.	+	.	ID=XLOC_037852;gene_id=XLOC_037852;oId=TCONS_00091648;transcript_id=TCONS_00091648;tss_id=TSS74204
+scaffold_27	StringTie	gene	136348	167376	.	+	.	ID=XLOC_037852;gene_id=XLOC_037852;oId=TCONS_00091648;transcript_id=TCONS_00091648;tss_id=TSS74204;name=Post1;description=ANTP-class post1 hox9-15 homeobox (abdominal-b);annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_27	StringTie	transcript	136348	138796	.	+	.	ID=TCONS_00091648;Parent=XLOC_037852;gene_id=XLOC_037852;oId=TCONS_00091648;transcript_id=TCONS_00091648;tss_id=TSS74204
 scaffold_27	StringTie	exon	136348	138796	.	+	.	ID=exon-351850;Parent=TCONS_00091648;exon_number=1;gene_id=XLOC_037852;transcript_id=TCONS_00091648
 scaffold_27	StringTie	transcript	136364	167376	.	+	.	ID=TCONS_00091649;Parent=XLOC_037852;gene_id=XLOC_037852;oId=TCONS_00091649;transcript_id=TCONS_00091649;tss_id=TSS74204
@@ -1658,7 +1658,7 @@ scaffold_27	StringTie	gene	2185599	2188443	.	+	.	ID=XLOC_037882;gene_id=XLOC_037
 scaffold_27	StringTie	transcript	2185599	2188443	.	+	.	ID=TCONS_00091746;Parent=XLOC_037882;gene_id=XLOC_037882;oId=TCONS_00091746;transcript_id=TCONS_00091746;tss_id=TSS74275
 scaffold_27	StringTie	exon	2185599	2186763	.	+	.	ID=exon-352302;Parent=TCONS_00091746;exon_number=1;gene_id=XLOC_037882;transcript_id=TCONS_00091746
 scaffold_27	StringTie	exon	2186854	2188443	.	+	.	ID=exon-352303;Parent=TCONS_00091746;exon_number=2;gene_id=XLOC_037882;transcript_id=TCONS_00091746
-scaffold_27	StringTie	gene	2198526	2242717	.	+	.	ID=XLOC_037883;gene_id=XLOC_037883;oId=TCONS_00091747;transcript_id=TCONS_00091747;tss_id=TSS74276
+scaffold_27	StringTie	gene	2198526	2242717	.	+	.	ID=XLOC_037883;gene_id=XLOC_037883;oId=TCONS_00091747;transcript_id=TCONS_00091747;tss_id=TSS74276;name=Post2;description=ANTP-class post2 hox9-15 homeobox (abdominal-b);annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_27	StringTie	transcript	2198526	2242717	.	+	.	ID=TCONS_00091747;Parent=XLOC_037883;gene_id=XLOC_037883;oId=TCONS_00091747;transcript_id=TCONS_00091747;tss_id=TSS74276
 scaffold_27	StringTie	exon	2198526	2198889	.	+	.	ID=exon-352304;Parent=TCONS_00091747;exon_number=1;gene_id=XLOC_037883;transcript_id=TCONS_00091747
 scaffold_27	StringTie	exon	2212051	2212589	.	+	.	ID=exon-352305;Parent=TCONS_00091747;exon_number=2;gene_id=XLOC_037883;transcript_id=TCONS_00091747
@@ -1703,7 +1703,7 @@ scaffold_27	StringTie	exon	2287008	2287980	.	-	.	ID=exon-353832;Parent=TCONS_000
 scaffold_27	StringTie	transcript	2285166	2297643	.	-	.	ID=TCONS_00092164;Parent=XLOC_038001;contained_in=TCONS_00092161;gene_id=XLOC_038001;oId=TCONS_00092164;transcript_id=TCONS_00092164;tss_id=TSS74573
 scaffold_27	StringTie	exon	2285166	2286860	.	-	.	ID=exon-353833;Parent=TCONS_00092164;exon_number=1;gene_id=XLOC_038001;transcript_id=TCONS_00092164
 scaffold_27	StringTie	exon	2287048	2297643	.	-	.	ID=exon-353834;Parent=TCONS_00092164;exon_number=2;gene_id=XLOC_038001;transcript_id=TCONS_00092164
-scaffold_27	StringTie	gene	2274154	2297643	.	+	.	ID=XLOC_037884;gene_id=XLOC_037884;oId=TCONS_00091753;transcript_id=TCONS_00091753;tss_id=TSS74281
+scaffold_27	StringTie	gene	2274154	2297643	.	+	.	ID=XLOC_037884;gene_id=XLOC_037884;oId=TCONS_00091753;transcript_id=TCONS_00091753;tss_id=TSS74281;name=Lox2;description=ANTP-class lox2 hox6-8 homeobox (abdominal-a);annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_27	StringTie	transcript	2274154	2295255	.	+	.	ID=TCONS_00091753;Parent=XLOC_037884;gene_id=XLOC_037884;oId=TCONS_00091753;transcript_id=TCONS_00091753;tss_id=TSS74281
 scaffold_27	StringTie	exon	2274154	2274284	.	+	.	ID=exon-352316;Parent=TCONS_00091753;exon_number=1;gene_id=XLOC_037884;transcript_id=TCONS_00091753
 scaffold_27	StringTie	exon	2292263	2295255	.	+	.	ID=exon-352317;Parent=TCONS_00091753;exon_number=2;gene_id=XLOC_037884;transcript_id=TCONS_00091753
@@ -2053,7 +2053,7 @@ scaffold_27	StringTie	gene	2899453	2921832	.	-	.	ID=XLOC_038017;gene_id=XLOC_038
 scaffold_27	StringTie	transcript	2899453	2921832	.	-	.	ID=TCONS_00092188;Parent=XLOC_038017;gene_id=XLOC_038017;oId=TCONS_00092188;transcript_id=TCONS_00092188;tss_id=TSS74594
 scaffold_27	StringTie	exon	2899453	2914819	.	-	.	ID=exon-353901;Parent=TCONS_00092188;exon_number=1;gene_id=XLOC_038017;transcript_id=TCONS_00092188
 scaffold_27	StringTie	exon	2914892	2921832	.	-	.	ID=exon-353902;Parent=TCONS_00092188;exon_number=2;gene_id=XLOC_038017;transcript_id=TCONS_00092188
-scaffold_27	StringTie	gene	2899453	2961572	.	+	.	ID=XLOC_037892;gene_id=XLOC_037892;oId=TCONS_00091803;transcript_id=TCONS_00091803;tss_id=TSS74311
+scaffold_27	StringTie	gene	2899453	2961572	.	+	.	ID=XLOC_037892;gene_id=XLOC_037892;oId=TCONS_00091803;transcript_id=TCONS_00091803;tss_id=TSS74311;name=Lox4;description=ANTP-class lox4 hox6-8 homeobox (ultrabithorax);annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_27	StringTie	transcript	2899453	2959067	.	+	.	ID=TCONS_00091802;Parent=XLOC_037892;gene_id=XLOC_037892;oId=TCONS_00091802;transcript_id=TCONS_00091802;tss_id=TSS74311
 scaffold_27	StringTie	exon	2899453	2910668	.	+	.	ID=exon-352494;Parent=TCONS_00091802;exon_number=1;gene_id=XLOC_037892;transcript_id=TCONS_00091802
 scaffold_27	StringTie	exon	2953691	2955334	.	+	.	ID=exon-352495;Parent=TCONS_00091802;exon_number=2;gene_id=XLOC_037892;transcript_id=TCONS_00091802
@@ -2245,7 +2245,7 @@ scaffold_27	StringTie	transcript	3121889	3123807	.	+	.	ID=TCONS_00091838;Parent=
 scaffold_27	StringTie	exon	3121889	3123807	.	+	.	ID=exon-352577;Parent=TCONS_00091838;exon_number=1;gene_id=XLOC_037894;transcript_id=TCONS_00091838
 scaffold_27	StringTie	transcript	3172166	3183577	.	+	.	ID=TCONS_00091841;Parent=XLOC_037894;gene_id=XLOC_037894;oId=TCONS_00091841;transcript_id=TCONS_00091841;tss_id=TSS74326
 scaffold_27	StringTie	exon	3172166	3183577	.	+	.	ID=exon-352578;Parent=TCONS_00091841;exon_number=1;gene_id=XLOC_037894;transcript_id=TCONS_00091841
-scaffold_27	StringTie	gene	2993525	3006271	.	+	.	ID=XLOC_037895;gene_id=XLOC_037895;oId=TCONS_00091814;transcript_id=TCONS_00091814;tss_id=TSS74327
+scaffold_27	StringTie	gene	2993525	3006271	.	+	.	ID=XLOC_037895;gene_id=XLOC_037895;oId=TCONS_00091814;transcript_id=TCONS_00091814;tss_id=TSS74327;name=Hox7;description=ANTP-class hox7 hox6-8 homeobox (antennapedia);annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_27	StringTie	transcript	2993525	3006271	.	+	.	ID=TCONS_00091814;Parent=XLOC_037895;gene_id=XLOC_037895;oId=TCONS_00091814;transcript_id=TCONS_00091814;tss_id=TSS74327
 scaffold_27	StringTie	exon	2993525	2995359	.	+	.	ID=exon-352579;Parent=TCONS_00091814;exon_number=1;gene_id=XLOC_037895;transcript_id=TCONS_00091814
 scaffold_27	StringTie	exon	2995655	2997995	.	+	.	ID=exon-352580;Parent=TCONS_00091814;exon_number=2;gene_id=XLOC_037895;transcript_id=TCONS_00091814
@@ -2341,7 +2341,7 @@ scaffold_27	StringTie	gene	3234390	3246030	.	-	.	ID=XLOC_038028;gene_id=XLOC_038
 scaffold_27	StringTie	transcript	3234390	3246030	.	-	.	ID=TCONS_00092211;Parent=XLOC_038028;gene_id=XLOC_038028;oId=TCONS_00092211;transcript_id=TCONS_00092211;tss_id=TSS74609
 scaffold_27	StringTie	exon	3234390	3241566	.	-	.	ID=exon-353969;Parent=TCONS_00092211;exon_number=1;gene_id=XLOC_038028;transcript_id=TCONS_00092211
 scaffold_27	StringTie	exon	3241663	3246030	.	-	.	ID=exon-353970;Parent=TCONS_00092211;exon_number=2;gene_id=XLOC_038028;transcript_id=TCONS_00092211
-scaffold_27	StringTie	gene	3234390	3255513	.	+	.	ID=XLOC_037905;gene_id=XLOC_037905;oId=TCONS_00091847;transcript_id=TCONS_00091847;tss_id=TSS74340
+scaffold_27	StringTie	gene	3234390	3255513	.	+	.	ID=XLOC_037905;gene_id=XLOC_037905;oId=TCONS_00091847;transcript_id=TCONS_00091847;tss_id=TSS74340;name=Lox5;description=ANTP-class lox5 hox6-8 homeobox (fushi tarazu);annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_27	StringTie	transcript	3234390	3255477	.	+	.	ID=TCONS_00091846;Parent=XLOC_037905;gene_id=XLOC_037905;oId=TCONS_00091846;transcript_id=TCONS_00091846;tss_id=TSS74340
 scaffold_27	StringTie	exon	3234390	3237565	.	+	.	ID=exon-352609;Parent=TCONS_00091846;exon_number=1;gene_id=XLOC_037905;transcript_id=TCONS_00091846
 scaffold_27	StringTie	exon	3249729	3255477	.	+	.	ID=exon-352610;Parent=TCONS_00091846;exon_number=2;gene_id=XLOC_037905;transcript_id=TCONS_00091846
@@ -2359,7 +2359,7 @@ scaffold_27	StringTie	exon	3259369	3262444	.	+	.	ID=exon-354822;Parent=TCONS_000
 scaffold_27	StringTie	gene	3268295	3272535	.	+	.	ID=XLOC_038125;gene_id=XLOC_038125;oId=TCONS_00092408;transcript_id=TCONS_00092408;tss_id=TSS74779
 scaffold_27	StringTie	transcript	3268295	3272535	.	+	.	ID=TCONS_00092408;Parent=XLOC_038125;gene_id=XLOC_038125;oId=TCONS_00092408;transcript_id=TCONS_00092408;tss_id=TSS74779
 scaffold_27	StringTie	exon	3268295	3272535	.	+	.	ID=exon-354823;Parent=TCONS_00092408;exon_number=1;gene_id=XLOC_038125;transcript_id=TCONS_00092408
-scaffold_27	StringTie	gene	3276607	3359542	.	-	.	ID=XLOC_038029;gene_id=XLOC_038029;oId=TCONS_00092212;transcript_id=TCONS_00092212;tss_id=TSS74610
+scaffold_27	StringTie	gene	3276607	3359542	.	-	.	ID=XLOC_038029;gene_id=XLOC_038029;oId=TCONS_00092212;transcript_id=TCONS_00092212;tss_id=TSS74610;name=Hox5;description=ANTP-class hox5 homeobox (sex combs reduced);annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_27	StringTie	transcript	3276607	3288138	.	-	.	ID=TCONS_00092212;Parent=XLOC_038029;gene_id=XLOC_038029;oId=TCONS_00092212;transcript_id=TCONS_00092212;tss_id=TSS74610
 scaffold_27	StringTie	exon	3276607	3276991	.	-	.	ID=exon-353971;Parent=TCONS_00092212;exon_number=1;gene_id=XLOC_038029;transcript_id=TCONS_00092212
 scaffold_27	StringTie	exon	3287757	3288138	.	-	.	ID=exon-353972;Parent=TCONS_00092212;exon_number=2;gene_id=XLOC_038029;transcript_id=TCONS_00092212
@@ -2541,7 +2541,7 @@ scaffold_27	StringTie	gene	3457359	3467089	.	+	.	ID=XLOC_037909;gene_id=XLOC_037
 scaffold_27	StringTie	transcript	3457359	3467089	.	+	.	ID=TCONS_00091863;Parent=XLOC_037909;gene_id=XLOC_037909;oId=TCONS_00091863;transcript_id=TCONS_00091863;tss_id=TSS74355
 scaffold_27	StringTie	exon	3457359	3465120	.	+	.	ID=exon-352689;Parent=TCONS_00091863;exon_number=1;gene_id=XLOC_037909;transcript_id=TCONS_00091863
 scaffold_27	StringTie	exon	3465194	3467089	.	+	.	ID=exon-352690;Parent=TCONS_00091863;exon_number=2;gene_id=XLOC_037909;transcript_id=TCONS_00091863
-scaffold_27	StringTie	gene	3506279	3520395	.	+	.	ID=XLOC_037910;gene_id=XLOC_037910;oId=TCONS_00091866;transcript_id=TCONS_00091866;tss_id=TSS74356
+scaffold_27	StringTie	gene	3506279	3520395	.	+	.	ID=XLOC_037910;gene_id=XLOC_037910;oId=TCONS_00091866;transcript_id=TCONS_00091866;tss_id=TSS74356;name=Hox4;description=ANTP-class hox4 homeobox (deformed);annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_27	StringTie	transcript	3506279	3520395	.	+	.	ID=TCONS_00091865;Parent=XLOC_037910;gene_id=XLOC_037910;oId=TCONS_00091865;transcript_id=TCONS_00091865;tss_id=TSS74356
 scaffold_27	StringTie	exon	3506279	3506387	.	+	.	ID=exon-352696;Parent=TCONS_00091865;exon_number=1;gene_id=XLOC_037910;transcript_id=TCONS_00091865
 scaffold_27	StringTie	exon	3506672	3507677	.	+	.	ID=exon-352697;Parent=TCONS_00091865;exon_number=2;gene_id=XLOC_037910;transcript_id=TCONS_00091865
@@ -2589,7 +2589,7 @@ scaffold_27	StringTie	transcript	3613514	3625662	.	-	.	ID=TCONS_00092232;Parent=
 scaffold_27	StringTie	exon	3613514	3615957	.	-	.	ID=exon-354023;Parent=TCONS_00092232;exon_number=1;gene_id=XLOC_038034;transcript_id=TCONS_00092232
 scaffold_27	StringTie	exon	3616016	3620502	.	-	.	ID=exon-354024;Parent=TCONS_00092232;exon_number=2;gene_id=XLOC_038034;transcript_id=TCONS_00092232
 scaffold_27	StringTie	exon	3623076	3625662	.	-	.	ID=exon-354025;Parent=TCONS_00092232;exon_number=3;gene_id=XLOC_038034;transcript_id=TCONS_00092232
-scaffold_27	StringTie	gene	3663550	3730929	.	+	.	ID=XLOC_037912;gene_id=XLOC_037912;oId=TCONS_00091884;transcript_id=TCONS_00091884;tss_id=TSS74365
+scaffold_27	StringTie	gene	3663550	3730929	.	+	.	ID=XLOC_037912;gene_id=XLOC_037912;oId=TCONS_00091884;transcript_id=TCONS_00091884;tss_id=TSS74365;name=Hox3;description=ANTP-class hox3 homeobox (zerknullt);annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_27	StringTie	transcript	3663550	3730929	.	+	.	ID=TCONS_00091883;Parent=XLOC_037912;gene_id=XLOC_037912;oId=TCONS_00091883;transcript_id=TCONS_00091883;tss_id=TSS74365
 scaffold_27	StringTie	exon	3663550	3668162	.	+	.	ID=exon-352717;Parent=TCONS_00091883;exon_number=1;gene_id=XLOC_037912;transcript_id=TCONS_00091883
 scaffold_27	StringTie	exon	3700068	3700212	.	+	.	ID=exon-352718;Parent=TCONS_00091883;exon_number=2;gene_id=XLOC_037912;transcript_id=TCONS_00091883
@@ -2630,7 +2630,7 @@ scaffold_27	StringTie	exon	3768347	3768883	.	+	.	ID=exon-352729;Parent=TCONS_000
 scaffold_27	StringTie	gene	3709084	3709863	.	+	.	ID=XLOC_038129;gene_id=XLOC_038129;oId=TCONS_00092412;transcript_id=TCONS_00092412;tss_id=TSS74783
 scaffold_27	StringTie	transcript	3709084	3709863	.	+	.	ID=TCONS_00092412;Parent=XLOC_038129;gene_id=XLOC_038129;oId=TCONS_00092412;transcript_id=TCONS_00092412;tss_id=TSS74783
 scaffold_27	StringTie	exon	3709084	3709863	.	+	.	ID=exon-354827;Parent=TCONS_00092412;exon_number=1;gene_id=XLOC_038129;transcript_id=TCONS_00092412
-scaffold_27	StringTie	gene	3754897	3790807	.	+	.	ID=XLOC_037916;gene_id=XLOC_037916;oId=TCONS_00091891;transcript_id=TCONS_00091891;tss_id=TSS74372
+scaffold_27	StringTie	gene	3754897	3790807	.	+	.	ID=XLOC_037916;gene_id=XLOC_037916;oId=TCONS_00091891;transcript_id=TCONS_00091891;tss_id=TSS74372;name=Hox2;description=ANTP-class hox2 homeobox (proboscipedia);annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_27	StringTie	transcript	3754897	3773653	.	+	.	ID=TCONS_00091891;Parent=XLOC_037916;gene_id=XLOC_037916;oId=TCONS_00091891;transcript_id=TCONS_00091891;tss_id=TSS74372
 scaffold_27	StringTie	exon	3754897	3755650	.	+	.	ID=exon-352730;Parent=TCONS_00091891;exon_number=1;gene_id=XLOC_037916;transcript_id=TCONS_00091891
 scaffold_27	StringTie	exon	3755858	3755931	.	+	.	ID=exon-352731;Parent=TCONS_00091891;exon_number=2;gene_id=XLOC_037916;transcript_id=TCONS_00091891
@@ -2648,7 +2648,7 @@ scaffold_27	StringTie	exon	3772369	3773268	.	+	.	ID=exon-352740;Parent=TCONS_000
 scaffold_27	StringTie	exon	3787178	3790807	.	+	.	ID=exon-352741;Parent=TCONS_00091893;exon_number=5;gene_id=XLOC_037916;transcript_id=TCONS_00091893
 scaffold_27	StringTie	transcript	3787155	3790317	.	+	.	ID=TCONS_00091894;Parent=XLOC_037916;gene_id=XLOC_037916;oId=TCONS_00091894;transcript_id=TCONS_00091894;tss_id=TSS74374
 scaffold_27	StringTie	exon	3787155	3790317	.	+	.	ID=exon-352742;Parent=TCONS_00091894;exon_number=1;gene_id=XLOC_037916;transcript_id=TCONS_00091894
-scaffold_27	StringTie	gene	3805438	3846307	.	+	.	ID=XLOC_037917;gene_id=XLOC_037917;oId=TCONS_00091896;transcript_id=TCONS_00091896;tss_id=TSS74375
+scaffold_27	StringTie	gene	3805438	3846307	.	+	.	ID=XLOC_037917;gene_id=XLOC_037917;oId=TCONS_00091896;transcript_id=TCONS_00091896;tss_id=TSS74375;name=Hox1;description=ANTP-class hox1 homeobox (labial);annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_27	StringTie	transcript	3805438	3846307	.	+	.	ID=TCONS_00091895;Parent=XLOC_037917;gene_id=XLOC_037917;oId=TCONS_00091895;transcript_id=TCONS_00091895;tss_id=TSS74375
 scaffold_27	StringTie	exon	3805438	3806839	.	+	.	ID=exon-352747;Parent=TCONS_00091895;exon_number=1;gene_id=XLOC_037917;transcript_id=TCONS_00091895
 scaffold_27	StringTie	exon	3842170	3842208	.	+	.	ID=exon-352748;Parent=TCONS_00091895;exon_number=2;gene_id=XLOC_037917;transcript_id=TCONS_00091895

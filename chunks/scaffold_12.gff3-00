@@ -12196,7 +12196,7 @@ scaffold_12	StringTie	exon	19191431	19192264	.	-	.	ID=exon-180829;Parent=TCONS_0
 scaffold_12	StringTie	exon	19195419	19195699	.	-	.	ID=exon-180830;Parent=TCONS_00043221;exon_number=17;gene_id=XLOC_015559;transcript_id=TCONS_00043221
 scaffold_12	StringTie	transcript	19174177	19174692	.	-	.	ID=TCONS_00043222;Parent=XLOC_015559;gene_id=XLOC_015559;oId=TCONS_00043222;transcript_id=TCONS_00043222;tss_id=TSS34537
 scaffold_12	StringTie	exon	19174177	19174692	.	-	.	ID=exon-180831;Parent=TCONS_00043222;exon_number=1;gene_id=XLOC_015559;transcript_id=TCONS_00043222
-scaffold_12	StringTie	gene	19207391	19251394	.	-	.	ID=XLOC_015560;gene_id=XLOC_015560;oId=TCONS_00043225;transcript_id=TCONS_00043225;tss_id=TSS34538
+scaffold_12	StringTie	gene	19207391	19251394	.	-	.	ID=XLOC_015560;gene_id=XLOC_015560;oId=TCONS_00043225;transcript_id=TCONS_00043225;tss_id=TSS34538;name=Mnx;description=ANTP-class motorneuron and pancreas homeobox (extra-extra);annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_12	StringTie	transcript	19207391	19251394	.	-	.	ID=TCONS_00043223;Parent=XLOC_015560;gene_id=XLOC_015560;oId=TCONS_00043223;transcript_id=TCONS_00043223;tss_id=TSS34538
 scaffold_12	StringTie	exon	19207391	19209419	.	-	.	ID=exon-180841;Parent=TCONS_00043223;exon_number=1;gene_id=XLOC_015560;transcript_id=TCONS_00043223
 scaffold_12	StringTie	exon	19223473	19223633	.	-	.	ID=exon-180842;Parent=TCONS_00043223;exon_number=2;gene_id=XLOC_015560;transcript_id=TCONS_00043223
@@ -12235,7 +12235,7 @@ scaffold_12	StringTie	gene	19314158	19409397	.	+	.	ID=XLOC_014908;gene_id=XLOC_0
 scaffold_12	StringTie	transcript	19314158	19409397	.	+	.	ID=TCONS_00041135;Parent=XLOC_014908;gene_id=XLOC_014908;oId=TCONS_00041135;transcript_id=TCONS_00041135;tss_id=TSS32945
 scaffold_12	StringTie	exon	19314158	19315014	.	+	.	ID=exon-171706;Parent=TCONS_00041135;exon_number=1;gene_id=XLOC_014908;transcript_id=TCONS_00041135
 scaffold_12	StringTie	exon	19409298	19409397	.	+	.	ID=exon-171707;Parent=TCONS_00041135;exon_number=2;gene_id=XLOC_014908;transcript_id=TCONS_00041135
-scaffold_12	StringTie	gene	19336371	19350251	.	-	.	ID=XLOC_015562;gene_id=XLOC_015562;oId=TCONS_00043230;transcript_id=TCONS_00043230;tss_id=TSS34542
+scaffold_12	StringTie	gene	19336371	19350251	.	-	.	ID=XLOC_015562;gene_id=XLOC_015562;oId=TCONS_00043230;transcript_id=TCONS_00043230;tss_id=TSS34542;name=Ro;description=ANTP-class rough homeobox;annotator=Madeleine Aase-Remedios[Ferrier lab]
 scaffold_12	StringTie	transcript	19336371	19338778	.	-	.	ID=TCONS_00043230;Parent=XLOC_015562;gene_id=XLOC_015562;oId=TCONS_00043230;transcript_id=TCONS_00043230;tss_id=TSS34542
 scaffold_12	StringTie	exon	19336371	19338778	.	-	.	ID=exon-180852;Parent=TCONS_00043230;exon_number=1;gene_id=XLOC_015562;transcript_id=TCONS_00043230
 scaffold_12	StringTie	transcript	19336512	19350142	.	-	.	ID=TCONS_00043231;Parent=XLOC_015562;gene_id=XLOC_015562;oId=TCONS_00043231;transcript_id=TCONS_00043231;tss_id=TSS34543

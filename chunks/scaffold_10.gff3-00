@@ -11565,7 +11565,7 @@ scaffold_10	StringTie	exon	20732872	20733222	.	+	.	ID=exon-109779;Parent=TCONS_0
 scaffold_10	StringTie	gene	20733652	20734521	.	+	.	ID=XLOC_010595;gene_id=XLOC_010595;oId=TCONS_00029941;transcript_id=TCONS_00029942;tss_id=TSS23832
 scaffold_10	StringTie	transcript	20733652	20734521	.	+	.	ID=TCONS_00029942;Parent=XLOC_010595;gene_id=XLOC_010595;oId=TCONS_00029941;transcript_id=TCONS_00029942;tss_id=TSS23832
 scaffold_10	StringTie	exon	20733652	20734521	.	+	.	ID=exon-126679;Parent=TCONS_00029942;exon_number=1;gene_id=XLOC_010595;transcript_id=TCONS_00029942
-scaffold_10	StringTie	gene	20737197	20758326	.	-	.	ID=XLOC_009859;gene_id=XLOC_009859;oId=TCONS_00028220;transcript_id=TCONS_00028220;tss_id=TSS22465
+scaffold_10	StringTie	gene	20737197	20758326	.	-	.	ID=XLOC_009859;gene_id=XLOC_009859;oId=TCONS_00028220;transcript_id=TCONS_00028220;tss_id=TSS22465;name=FoxK;annotator=SQS/Schneider lab
 scaffold_10	StringTie	transcript	20737197	20758284	.	-	.	ID=TCONS_00028220;Parent=XLOC_009859;gene_id=XLOC_009859;oId=TCONS_00028220;transcript_id=TCONS_00028220;tss_id=TSS22465
 scaffold_10	StringTie	exon	20737197	20739714	.	-	.	ID=exon-119700;Parent=TCONS_00028220;exon_number=1;gene_id=XLOC_009859;transcript_id=TCONS_00028220
 scaffold_10	StringTie	exon	20740032	20740187	.	-	.	ID=exon-119701;Parent=TCONS_00028220;exon_number=2;gene_id=XLOC_009859;transcript_id=TCONS_00028220

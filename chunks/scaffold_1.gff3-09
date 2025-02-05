@@ -4033,7 +4033,7 @@ scaffold_1	StringTie	transcript	175979875	175994975	.	-	.	ID=TCONS_00020625;Pare
 scaffold_1	StringTie	exon	175979875	175982891	.	-	.	ID=exon-95433;Parent=TCONS_00020625;exon_number=1;gene_id=XLOC_005575;transcript_id=TCONS_00020625
 scaffold_1	StringTie	exon	175994409	175994528	.	-	.	ID=exon-95434;Parent=TCONS_00020625;exon_number=2;gene_id=XLOC_005575;transcript_id=TCONS_00020625
 scaffold_1	StringTie	exon	175994853	175994975	.	-	.	ID=exon-95435;Parent=TCONS_00020625;exon_number=3;gene_id=XLOC_005575;transcript_id=TCONS_00020625
-scaffold_1	StringTie	gene	176022493	176026577	.	-	.	ID=XLOC_005576;gene_id=XLOC_005576;oId=TCONS_00020626;transcript_id=TCONS_00020626;tss_id=TSS15988
+scaffold_1	StringTie	gene	176022493	176026577	.	-	.	ID=XLOC_005576;gene_id=XLOC_005576;oId=TCONS_00020626;transcript_id=TCONS_00020626;tss_id=TSS15988;name=Frizzled-9/10;annotator=SQS/Schneider lab
 scaffold_1	StringTie	transcript	176022493	176026577	.	-	.	ID=TCONS_00020626;Parent=XLOC_005576;gene_id=XLOC_005576;oId=TCONS_00020626;transcript_id=TCONS_00020626;tss_id=TSS15988
 scaffold_1	StringTie	exon	176022493	176024242	.	-	.	ID=exon-95436;Parent=TCONS_00020626;exon_number=1;gene_id=XLOC_005576;transcript_id=TCONS_00020626
 scaffold_1	StringTie	exon	176025117	176026577	.	-	.	ID=exon-95437;Parent=TCONS_00020626;exon_number=2;gene_id=XLOC_005576;transcript_id=TCONS_00020626

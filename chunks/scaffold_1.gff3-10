@@ -1955,7 +1955,7 @@ scaffold_1	StringTie	exon	188881408	188884781	.	-	.	ID=exon-99637;Parent=TCONS_0
 scaffold_1	StringTie	exon	188886521	188886692	.	-	.	ID=exon-99638;Parent=TCONS_00021395;exon_number=3;gene_id=XLOC_005787;transcript_id=TCONS_00021395
 scaffold_1	StringTie	transcript	188884118	188884532	.	-	.	ID=TCONS_00021396;Parent=XLOC_005787;contained_in=TCONS_00021395;gene_id=XLOC_005787;oId=TCONS_00021396;transcript_id=TCONS_00021396;tss_id=TSS16572
 scaffold_1	StringTie	exon	188884118	188884532	.	-	.	ID=exon-99639;Parent=TCONS_00021396;exon_number=1;gene_id=XLOC_005787;transcript_id=TCONS_00021396
-scaffold_1	StringTie	gene	188906714	188909207	.	+	.	ID=XLOC_008780;gene_id=XLOC_008780;oId=TCONS_00024866;transcript_id=TCONS_00024866;tss_id=TSS19888
+scaffold_1	StringTie	gene	188906714	188909207	.	+	.	ID=XLOC_008780;gene_id=XLOC_008780;oId=TCONS_00024866;transcript_id=TCONS_00024866;tss_id=TSS19888;name=Frizzled-4;annotator=SQS/Schneider lab
 scaffold_1	StringTie	transcript	188906714	188909207	.	+	.	ID=TCONS_00024866;Parent=XLOC_008780;gene_id=XLOC_008780;oId=TCONS_00024866;transcript_id=TCONS_00024866;tss_id=TSS19888
 scaffold_1	StringTie	exon	188906714	188909207	.	+	.	ID=exon-105737;Parent=TCONS_00024866;exon_number=1;gene_id=XLOC_008780;transcript_id=TCONS_00024866
 scaffold_1	StringTie	gene	188918906	188919455	.	+	.	ID=XLOC_008781;gene_id=XLOC_008781;oId=TCONS_00024867;transcript_id=TCONS_00024867;tss_id=TSS19889

@@ -9407,7 +9407,7 @@ scaffold_2	StringTie	exon	92265083	92270089	.	+	.	ID=exon-276760;Parent=TCONS_00
 scaffold_2	StringTie	gene	92271622	92271839	.	+	.	ID=XLOC_033567;gene_id=XLOC_033567;oId=TCONS_00082075;transcript_id=TCONS_00082075;tss_id=TSS66450
 scaffold_2	StringTie	transcript	92271622	92271839	.	+	.	ID=TCONS_00082075;Parent=XLOC_033567;gene_id=XLOC_033567;oId=TCONS_00082075;transcript_id=TCONS_00082075;tss_id=TSS66450
 scaffold_2	StringTie	exon	92271622	92271839	.	+	.	ID=exon-317351;Parent=TCONS_00082075;exon_number=1;gene_id=XLOC_033567;transcript_id=TCONS_00082075
-scaffold_2	StringTie	gene	92272612	92284749	.	+	.	ID=XLOC_026279;gene_id=XLOC_026279;oId=TCONS_00069127;transcript_id=TCONS_00069127;tss_id=TSS55239
+scaffold_2	StringTie	gene	92272612	92284749	.	+	.	ID=XLOC_026279;gene_id=XLOC_026279;oId=TCONS_00069127;transcript_id=TCONS_00069127;tss_id=TSS55239;name=TET1/2/3 (Ten-Eleven Translocation Methylcytosine Dioxygenase 1/2/3);annotator=Marlen Brodbeck (ORCID:0009-0006-6502-2560) / Jekely lab
 scaffold_2	StringTie	transcript	92272612	92275632	.	+	.	ID=TCONS_00069127;Parent=XLOC_026279;gene_id=XLOC_026279;oId=TCONS_00069127;transcript_id=TCONS_00069127;tss_id=TSS55239
 scaffold_2	StringTie	exon	92272612	92273045	.	+	.	ID=exon-276761;Parent=TCONS_00069127;exon_number=1;gene_id=XLOC_026279;transcript_id=TCONS_00069127
 scaffold_2	StringTie	exon	92273252	92273389	.	+	.	ID=exon-276762;Parent=TCONS_00069127;exon_number=2;gene_id=XLOC_026279;transcript_id=TCONS_00069127

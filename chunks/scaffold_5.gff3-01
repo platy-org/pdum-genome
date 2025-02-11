@@ -5389,7 +5389,7 @@ scaffold_5	StringTie	exon	37097629	37097719	.	+	.	ID=exon-465503;Parent=TCONS_00
 scaffold_5	StringTie	exon	37098158	37098904	.	+	.	ID=exon-465504;Parent=TCONS_00122672;exon_number=3;gene_id=XLOC_051167;transcript_id=TCONS_00122672
 scaffold_5	StringTie	transcript	37098156	37098773	.	+	.	ID=TCONS_00122673;Parent=XLOC_051167;gene_id=XLOC_051167;oId=TCONS_00122673;transcript_id=TCONS_00122673;tss_id=TSS99177
 scaffold_5	StringTie	exon	37098156	37098773	.	+	.	ID=exon-465505;Parent=TCONS_00122673;exon_number=1;gene_id=XLOC_051167;transcript_id=TCONS_00122673
-scaffold_5	StringTie	gene	37097619	37109306	.	-	.	ID=XLOC_052204;gene_id=XLOC_052204;oId=TCONS_00125732;transcript_id=TCONS_00125733;tss_id=TSS101566
+scaffold_5	StringTie	gene	37097619	37109306	.	-	.	ID=XLOC_052204;gene_id=XLOC_052204;oId=TCONS_00125732;transcript_id=TCONS_00125733;tss_id=TSS101566;name=MAP kinase kinase;annotator=Marlen Brodbeck (ORCID:0009-0006-6502-2560) / Jekely lab
 scaffold_5	StringTie	transcript	37097619	37109306	.	-	.	ID=TCONS_00125733;Parent=XLOC_052204;gene_id=XLOC_052204;oId=TCONS_00125732;transcript_id=TCONS_00125733;tss_id=TSS101566
 scaffold_5	StringTie	exon	37097619	37099277	.	-	.	ID=exon-478095;Parent=TCONS_00125733;exon_number=1;gene_id=XLOC_052204;transcript_id=TCONS_00125733
 scaffold_5	StringTie	exon	37100170	37100309	.	-	.	ID=exon-478096;Parent=TCONS_00125733;exon_number=2;gene_id=XLOC_052204;transcript_id=TCONS_00125733

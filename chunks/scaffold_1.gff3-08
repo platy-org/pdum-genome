@@ -9586,7 +9586,7 @@ scaffold_1	StringTie	exon	166563255	166563581	.	-	.	ID=exon-92772;Parent=TCONS_0
 scaffold_1	StringTie	exon	166564192	166564496	.	-	.	ID=exon-92773;Parent=TCONS_00020130;exon_number=2;gene_id=XLOC_005431;transcript_id=TCONS_00020130
 scaffold_1	StringTie	transcript	166564130	166564508	.	-	.	ID=TCONS_00020131;Parent=XLOC_005431;gene_id=XLOC_005431;oId=TCONS_00020131;transcript_id=TCONS_00020131;tss_id=TSS15594
 scaffold_1	StringTie	exon	166564130	166564508	.	-	.	ID=exon-92774;Parent=TCONS_00020131;exon_number=1;gene_id=XLOC_005431;transcript_id=TCONS_00020131
-scaffold_1	StringTie	gene	166565067	166570985	.	-	.	ID=XLOC_005432;gene_id=XLOC_005432;oId=TCONS_00020132;transcript_id=TCONS_00020132;tss_id=TSS15596
+scaffold_1	StringTie	gene	166565067	166570985	.	-	.	ID=XLOC_005432;gene_id=XLOC_005432;oId=TCONS_00020132;transcript_id=TCONS_00020132;tss_id=TSS15596;name=HDAC1/2 (Histone deacetylase 1/2);annotator=Marlen Brodbeck (ORCID:0009-0006-6502-2560) / Jekely lab
 scaffold_1	StringTie	transcript	166565067	166570985	.	-	.	ID=TCONS_00020132;Parent=XLOC_005432;gene_id=XLOC_005432;oId=TCONS_00020132;transcript_id=TCONS_00020132;tss_id=TSS15596
 scaffold_1	StringTie	exon	166565067	166565366	.	-	.	ID=exon-92775;Parent=TCONS_00020132;exon_number=1;gene_id=XLOC_005432;transcript_id=TCONS_00020132
 scaffold_1	StringTie	exon	166565798	166566020	.	-	.	ID=exon-92776;Parent=TCONS_00020132;exon_number=2;gene_id=XLOC_005432;transcript_id=TCONS_00020132

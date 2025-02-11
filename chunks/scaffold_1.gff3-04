@@ -4332,7 +4332,7 @@ scaffold_1	StringTie	exon	84130147	84130574	.	+	.	ID=exon-104052;Parent=TCONS_00
 scaffold_1	StringTie	gene	84136112	84136697	.	+	.	ID=XLOC_007148;gene_id=XLOC_007148;oId=TCONS_00023182;transcript_id=TCONS_00023182;tss_id=TSS18215
 scaffold_1	StringTie	transcript	84136112	84136697	.	+	.	ID=TCONS_00023182;Parent=XLOC_007148;gene_id=XLOC_007148;oId=TCONS_00023182;transcript_id=TCONS_00023182;tss_id=TSS18215
 scaffold_1	StringTie	exon	84136112	84136697	.	+	.	ID=exon-104053;Parent=TCONS_00023182;exon_number=1;gene_id=XLOC_007148;transcript_id=TCONS_00023182
-scaffold_1	StringTie	gene	84139081	84146044	.	+	.	ID=XLOC_001297;gene_id=XLOC_001297;oId=TCONS_00004654;transcript_id=TCONS_00004654;tss_id=TSS3640
+scaffold_1	StringTie	gene	84139081	84146044	.	+	.	ID=XLOC_001297;gene_id=XLOC_001297;oId=TCONS_00004654;transcript_id=TCONS_00004654;tss_id=TSS3640;name=HDAC8 (Histone deacetylase 8);annotator=Marlen Brodbeck (ORCID:0009-0006-6502-2560) / Jekely lab
 scaffold_1	StringTie	transcript	84139081	84146044	.	+	.	ID=TCONS_00004654;Parent=XLOC_001297;gene_id=XLOC_001297;oId=TCONS_00004654;transcript_id=TCONS_00004654;tss_id=TSS3640
 scaffold_1	StringTie	exon	84139081	84139628	.	+	.	ID=exon-20942;Parent=TCONS_00004654;exon_number=1;gene_id=XLOC_001297;transcript_id=TCONS_00004654
 scaffold_1	StringTie	exon	84141508	84141560	.	+	.	ID=exon-20943;Parent=TCONS_00004654;exon_number=2;gene_id=XLOC_001297;transcript_id=TCONS_00004654

@@ -8511,7 +8511,7 @@ scaffold_258	StringTie	exon	86912	87049	.	-	.	ID=exon-347904;Parent=TCONS_000905
 scaffold_258	StringTie	exon	87585	87670	.	-	.	ID=exon-347905;Parent=TCONS_00090572;exon_number=5;gene_id=XLOC_037441;transcript_id=TCONS_00090572
 scaffold_258	StringTie	exon	88347	88557	.	-	.	ID=exon-347906;Parent=TCONS_00090572;exon_number=6;gene_id=XLOC_037441;transcript_id=TCONS_00090572
 scaffold_258	StringTie	exon	136179	136704	.	-	.	ID=exon-347907;Parent=TCONS_00090572;exon_number=7;gene_id=XLOC_037441;transcript_id=TCONS_00090572
-scaffold_258	StringTie	gene	97102	108574	.	+	.	ID=XLOC_037438;gene_id=XLOC_037438;oId=TCONS_00090560;transcript_id=TCONS_00090560;tss_id=TSS73338
+scaffold_258	StringTie	gene	97102	108574	.	+	.	ID=XLOC_037438;gene_id=XLOC_037438;oId=TCONS_00090560;transcript_id=TCONS_00090560;tss_id=TSS73338;name=tektin1;annotator=Steffanie Meha/Schneider lab
 scaffold_258	StringTie	transcript	98179	98434	.	+	.	ID=TCONS_00090561;Parent=XLOC_037438;gene_id=XLOC_037438;oId=TCONS_00090561;transcript_id=TCONS_00090561;tss_id=TSS73339
 scaffold_258	StringTie	exon	98179	98434	.	+	.	ID=exon-347874;Parent=TCONS_00090561;exon_number=1;gene_id=XLOC_037438;transcript_id=TCONS_00090561
 scaffold_258	StringTie	transcript	97102	108548	.	+	.	ID=TCONS_00090560;Parent=XLOC_037438;gene_id=XLOC_037438;oId=TCONS_00090560;transcript_id=TCONS_00090560;tss_id=TSS73338

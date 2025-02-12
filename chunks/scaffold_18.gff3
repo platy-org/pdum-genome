@@ -5667,7 +5667,7 @@ scaffold_18	StringTie	exon	9603873	9606263	.	+	.	ID=exon-247268;Parent=TCONS_000
 scaffold_18	StringTie	gene	9675109	9677278	.	+	.	ID=XLOC_023563;gene_id=XLOC_023563;oId=TCONS_00061090;transcript_id=TCONS_00061090;tss_id=TSS48860
 scaffold_18	StringTie	transcript	9675109	9677278	.	+	.	ID=TCONS_00061090;Parent=XLOC_023563;gene_id=XLOC_023563;oId=TCONS_00061090;transcript_id=TCONS_00061090;tss_id=TSS48860
 scaffold_18	StringTie	exon	9675109	9677278	.	+	.	ID=exon-247269;Parent=TCONS_00061090;exon_number=1;gene_id=XLOC_023563;transcript_id=TCONS_00061090
-scaffold_18	StringTie	gene	9710580	9711884	.	+	.	ID=XLOC_023564;gene_id=XLOC_023564;oId=TCONS_00061091;transcript_id=TCONS_00061091;tss_id=TSS48861
+scaffold_18	StringTie	gene	9710580	9711884	.	+	.	ID=XLOC_023564;gene_id=XLOC_023564;oId=TCONS_00061091;transcript_id=TCONS_00061091;tss_id=TSS48861;name=subtilisin-2;annotator=Nikolaos Papadopoulos/Wanninger Lab
 scaffold_18	StringTie	transcript	9710580	9711884	.	+	.	ID=TCONS_00061091;Parent=XLOC_023564;gene_id=XLOC_023564;oId=TCONS_00061091;transcript_id=TCONS_00061091;tss_id=TSS48861
 scaffold_18	StringTie	exon	9710580	9711884	.	+	.	ID=exon-247270;Parent=TCONS_00061091;exon_number=1;gene_id=XLOC_023564;transcript_id=TCONS_00061091
 scaffold_18	StringTie	gene	9714133	9715500	.	+	.	ID=XLOC_023565;gene_id=XLOC_023565;oId=TCONS_00061092;transcript_id=TCONS_00061092;tss_id=TSS48862

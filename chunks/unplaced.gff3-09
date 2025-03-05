@@ -11702,7 +11702,7 @@ scaffold_305	StringTie	exon	76312	79336	.	-	.	ID=exon-403493;Parent=TCONS_001054
 scaffold_305	StringTie	gene	97999	98330	.	+	.	ID=XLOC_043697;gene_id=XLOC_043697;oId=TCONS_00105492;transcript_id=TCONS_00105492;tss_id=TSS85347
 scaffold_305	StringTie	transcript	97999	98330	.	+	.	ID=TCONS_00105492;Parent=XLOC_043697;gene_id=XLOC_043697;oId=TCONS_00105492;transcript_id=TCONS_00105492;tss_id=TSS85347
 scaffold_305	StringTie	exon	97999	98330	.	+	.	ID=exon-403508;Parent=TCONS_00105492;exon_number=1;gene_id=XLOC_043697;transcript_id=TCONS_00105492
-scaffold_305	StringTie	gene	104554	108222	.	+	.	ID=XLOC_043688;gene_id=XLOC_043688;oId=TCONS_00105467;transcript_id=TCONS_00105467;tss_id=TSS85329
+scaffold_305	StringTie	gene	104554	108222	.	+	.	ID=XLOC_043688;gene_id=XLOC_043688;oId=TCONS_00105467;transcript_id=TCONS_00105467;tss_id=TSS85329;name=Frizzled-4;annotator=SQS/Schneider lab
 scaffold_305	StringTie	transcript	104554	108222	.	+	.	ID=TCONS_00105467;Parent=XLOC_043688;gene_id=XLOC_043688;oId=TCONS_00105467;transcript_id=TCONS_00105467;tss_id=TSS85329
 scaffold_305	StringTie	exon	104554	108222	.	+	.	ID=exon-403403;Parent=TCONS_00105467;exon_number=1;gene_id=XLOC_043688;transcript_id=TCONS_00105467
 scaffold_305	StringTie	gene	119491	149576	.	+	.	ID=XLOC_043689;gene_id=XLOC_043689;oId=TCONS_00105470;transcript_id=TCONS_00105470;tss_id=TSS85330

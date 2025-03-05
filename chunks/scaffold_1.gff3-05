@@ -11349,7 +11349,7 @@ scaffold_1	StringTie	exon	110380513	110381559	.	-	.	ID=exon-79058;Parent=TCONS_0
 scaffold_1	StringTie	gene	110386856	110391464	.	+	.	ID=XLOC_007536;gene_id=XLOC_007536;oId=TCONS_00023579;transcript_id=TCONS_00023579;tss_id=TSS18609
 scaffold_1	StringTie	transcript	110386856	110391464	.	+	.	ID=TCONS_00023579;Parent=XLOC_007536;gene_id=XLOC_007536;oId=TCONS_00023579;transcript_id=TCONS_00023579;tss_id=TSS18609
 scaffold_1	StringTie	exon	110386856	110391464	.	+	.	ID=exon-104450;Parent=TCONS_00023579;exon_number=1;gene_id=XLOC_007536;transcript_id=TCONS_00023579
-scaffold_1	StringTie	gene	110428567	110546543	.	-	.	ID=XLOC_004627;gene_id=XLOC_004627;oId=TCONS_00017161;transcript_id=TCONS_00017161;tss_id=TSS13280
+scaffold_1	StringTie	gene	110428567	110546543	.	-	.	ID=XLOC_004627;gene_id=XLOC_004627;oId=TCONS_00017161;transcript_id=TCONS_00017161;tss_id=TSS13280;name=ecdysone receptor EcR;annotator=Susanne Vogeler/Williams lab
 scaffold_1	StringTie	transcript	110428567	110467337	.	-	.	ID=TCONS_00017161;Parent=XLOC_004627;gene_id=XLOC_004627;oId=TCONS_00017161;transcript_id=TCONS_00017161;tss_id=TSS13280
 scaffold_1	StringTie	exon	110428567	110433054	.	-	.	ID=exon-79059;Parent=TCONS_00017161;exon_number=1;gene_id=XLOC_004627;transcript_id=TCONS_00017161
 scaffold_1	StringTie	exon	110433734	110433956	.	-	.	ID=exon-79060;Parent=TCONS_00017161;exon_number=2;gene_id=XLOC_004627;transcript_id=TCONS_00017161
